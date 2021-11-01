@@ -5390,6 +5390,127 @@
             }
          ],
          "name": "Hacking Wireless Networks"
+      },
+      {
+         "children": [
+            {
+               "children": [
+                  {
+                        "name": "OWASP Top 10 Mobile Risks - 2016",
+                        "url": "https://owasp.org/www-project-mobile-top-10/"
+                  }
+               ],
+               "name": "Wi-Fi Security Tools for Mobile"
+            },
+            {
+               "children": [
+                  {
+                        "name": "KingoRoot",
+                        "url": "https://www.kingoapp.com"
+                  },
+                  {
+                        "name": "TunesGo Root Android Tool",
+                        "url": "https://tunesgo.wondershare.com"
+                  },
+                  {
+                        "name": "One Click Root",
+                        "url": "https://www.oneclickroot.com"
+                  },
+                  {
+                        "name": "Root Genius",
+                        "url": "https://www.rootgenius.com"
+                  },
+                  {
+                        "name": "SuperSU Root",
+                        "url": "https://supersuroot.org"
+                  },
+                  {
+                        "name": "RootMaster",
+                        "url": "https://root-master.com"
+                  },
+                  {
+                        "name": "Towelroot",
+                        "url": "https://towelroot.co"
+                  },
+                  {
+                        "name": "Z4root",
+                        "url": "https://www.z4root.info"
+                  }
+               ],
+               "name": "Android Rooting Tools"
+            },
+            {
+               "children": [
+                  {
+                        "name": "NetCut",
+                        "url": "https://arcai.com"
+                  },
+                  {
+                        "name": "drozer (B)",
+                        "url": "https://github.com/FSecureLABS/drozer"
+                  },
+                  {
+                        "name": "zANTI",
+                        "url": "https://www.zimperium.com"
+                  },
+                  {
+                        "name": "Network Spoofer",
+                        "url": "https://www.digitalsquid.co.uk"
+                  },
+                  {
+                        "name": "Low Orbit Ion Cannon (LOIC)",
+                        "url": "https://droidinformer.org"
+                  },
+                  {
+                        "name": "DroidSheep",
+                        "url": "https://droidsheep.info"
+                  },
+                  {
+                        "name": "Orbot Proxy",
+                        "url": "https://guardianproject.info"
+                  },
+                  {
+                        "name": "PhoneSploit",
+                        "url": "https://github.com/aerosol-can/PhoneSploit"
+                  },
+                  {
+                        "name": "PhoneSploit",
+                        "url": "https://github.com/aerosol-can/PhoneSploit"
+                  }
+               ],
+               "name": "Hacking Android Devices"
+            },
+            {
+               "children": [
+                  {
+                        "name": "FaceNiff",
+                        "url": "http://faceniff.ponury.net"
+                  },
+                  {
+                        "name": "Packet Capture",
+                        "url": "https://play.google.com/store/apps/details?id=app.greyshirts.sslcapture&hl=en_IN&gl=US"
+                  },
+                  {
+                        "name": "tPacketCapture",
+                        "url": "http://www.taosoftware.co.jp"
+                  },
+                  {
+                        "name": "Android PCAP",
+                        "url": "https://www.kismetwireless.net"
+                  },
+                  {
+                        "name": "Sniffer Wicap 2 Demo",
+                        "url": "https://play.google.com/store/apps/details?id=com.evbadroid.wicapdemo&hl=en_IN&gl=US"
+                  },
+                  {
+                        "name": "Testeldroid",
+                        "url": "https://play.google.com/store/apps/details?id=com.ad.testel&hl=en_IN&gl=US"
+                  }
+               ],
+               "name": "Android-based Sniffers"
+            }
+         ],
+         "name": "Hacking Mobile Platforms"
       }
    ],
    "name": "Ethical Hacking"
