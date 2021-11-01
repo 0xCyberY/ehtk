@@ -1,0 +1,5396 @@
+{
+   "children": [
+      {
+         "children": [
+            {
+              "children": [
+                  {
+                     "name": "Search Operators",
+                     "url": "#"
+                  },
+                  {
+                     "name": "Google Hacking Database",
+                     "url": "https://www.exploit-db.com/"
+                  },
+                  {
+                     "name": "Startpage",
+                     "url": "https://startpage.com/"
+                  },
+                  {
+                     "name": "NAPALM FTP Indexer",
+                     "url": "https://www.searchftps.net/"
+                  },
+                  {
+                     "name": "Shodan",
+                     "url": "https://www.shodan.io/"
+                  }
+               ],
+               "name": "Search Engines "
+            },
+            {
+              "children": [
+                 {
+                     "name": "Netcraft",
+                     "url": "https://www.netcraft.com/"
+                  },
+                  {
+                     "name": "Sublist3r",
+                     "url": "https://github.com/aboul3la/Sublist3r"
+                  },
+                  {
+                     "name": "Pentest-Tools",
+                     "url": "https://pentest-tools.com/home"
+                  },
+                  {
+                     "name": "Google Earth",
+                     "url": "https://earth.google.com"
+                  },
+                  {
+                     "name": "Intelius",
+                     "url": "https://www.intelius.com/"
+                  },
+                  {
+                     "name": "theHarvester",
+                     "url": "https://github.com/laramies/theHarvester"
+                  },
+                  {
+                     "name": "Google Finance",
+                     "url": "https://www.google.com/finance/"
+                  },
+                  {
+                     "name": "Tor Browser",
+                     "url": "https://www.torproject.org/"
+                  },
+                  {
+                     "name": "Censys",
+                     "url": "https://censys.io/"
+                  },
+                  {
+                     "name": "EDGAR Database",
+                     "url": "https://www.sec.gov/edgar.shtml"
+                  },
+                  {
+                     "name": "D&B Hoovers",
+                     "url": "http://www.hoovers.com"
+                  },
+                  {
+                     "name": "SimilarWeb",
+                     "url": "https://www.similarweb.com"
+                  },
+                  {
+                     "name": "Opencorporates",
+                     "url": "https://opencorporates.com/"
+                  }
+              ],
+               "name": "Web Services"
+            },
+            {
+              "children": [
+                 {
+                     "name": "BuzzSumo",
+                     "url": "https://buzzsumo.com/"
+                  },
+                  {
+                     "name": "Followerwonk",
+                     "url": "https://followerwonk.com/"
+                  },
+                  {
+                     "name": "Sherlock",
+                     "url": "https://github.com/sherlock-project/sherlock"
+                  },
+                  {
+                     "name": "Social Searcher",
+                     "url": "https://www.social-searcher.com/"
+                  }
+
+              ],
+               "name": "Social Networking Sites"
+            },
+            {
+              "children": [
+                  {
+                     "name": "Burp Suite",
+                     "url": "https://portswigger.net/burp"
+                  },
+                  {
+                     "name": "OWASP ZAP",
+                     "url": "https://www.zaproxy.org/"
+                  },
+                  {
+                     "name": "WhatWeb",
+                     "url": "https://github.com/urbanadventurer/WhatWeb"
+                  },
+                  {
+                     "name": "Wappalyzer",
+                     "url": "https://www.wappalyzer.com/"
+                  },
+                  {
+                     "name": "Web Data Extractor",
+                     "url": "http://www.webextractor.com/"
+                  },
+                  {
+                     "name": "Website Mirroring Tool: HTTrack Web Site Copier",
+                     "url": "http://www.httrack.com/"
+                  },
+                  {
+                     "name": "archive.org",
+                     "url": "https://archive.org/"
+                  },
+                  {
+                     "name": "Octoparse",
+                     "url": "https://www.octoparse.com"
+                  },
+                  {
+                     "name": "CeWL tool",
+                     "url": "https://github.com/digininja/CeWL"
+                  },
+                  {
+                     "name": "Metagoofil",
+                     "url": "https://github.com/laramies/metagoofil"
+                  },
+                  {
+                     "name": "WebSite-Watcher",
+                     "url": "https://www.aignes.com/"
+                  },
+                  {
+                     "name": "Total visitors",
+                     "url": "https://clicky.com/"
+                  },
+                  {
+                     "name": "Page views",
+                     "url": "https://www.opentracker.net/"
+                  },
+                  {
+                     "name": "Bounce rate",
+                     "url": "https://analytics.google.com"
+                  },
+                  {
+                     "name": "Live visitors map",
+                     "url": "https://www.web-stat.com"
+                  },
+                  {
+                     "name": "Site ranking",
+                     "url": "https://www.alexa.com"
+                  },
+                  {
+                     "name": "Track Visitors and monitor sales",
+                     "url": "https://goingup.com"
+                  }
+
+              ],
+               "name": "Website Footprinting"
+            },
+            {
+              "children": [
+                  {
+                     "name": "Infoga (B)",
+                     "url": "https://github.com/m4ll0k/Infoga"
+                  },
+                  {
+                     "name": "eMailTrackerPro (A)",
+                     "url": "http://www.emailtrackerpro.com/"
+                  }
+              ],
+               "name": "Email Footprinting"
+            },
+            {
+              "children": [
+                  {
+                     "children": [
+                        {
+                           "name": "ARIN",
+                           "url": "https://www.arin.net/"
+                        },
+                        {
+                           "name": "AFRINIC",
+                           "url": "https://www.afrinic.net/"
+                        },
+                        {
+                           "name": "APNIC",
+                           "url": "https://www.apnic.net/"
+                        },
+                        {
+                           "name": "RIPE",
+                           "url": "https://www.ripe.net/"
+                        },
+                        {
+                           "name": "LACNIC",
+                           "url": "https://www.lacnic.net/"
+                        }
+
+                     ],
+                  "name": "RIRs"
+                  },
+                  {
+                     "name": "Whois Lookup",
+                     "url": "https://whois.domaintools.com/"
+                  },
+                  {
+                     "name": "tamos (A)",
+                     "url": "https://www.tamos.com/"
+                  },
+                  {
+                     "name": "IP2Location (A)",
+                     "url": "https://www.ip2location.com/"
+                  }
+              ],
+               "name": "Whois Footprinting"
+            },
+            {
+              "children": [
+                  {
+                     "name": "DNSstuff",
+                     "url": "https://tools.dnsstuff.com"
+                  },
+                  {
+                     "name": "DNS Records",
+                     "url": "https://network-tools.com/"
+                  },
+                  {
+                     "name": "DNSRecon (B)",
+                     "url": "https://github.com/darkoperator/dnsrecon"
+                  },
+                  {
+                     "name": "Reverse IP Domain Check",
+                     "url": "https://www.yougetsignal.com/"
+                  }
+              ],
+               "name": "DNS Footprinting"
+            },
+            {
+              "children": [
+                  {
+                     "name": "Traceroute",
+                     "url": "#"
+                  },
+                  {
+                     "name": "Path Analyzer Pro",
+                     "url": "https://www.pathanalyzer.com"
+                  },
+                  {
+                     "name": "VisualRoute",
+                     "url": "http://www.visualroute.com/"
+                  }
+              ],
+               "name": "Network Footprinting"
+            },
+            {
+              "children": [
+                  {
+                     "name": "Maltego (A,B)",
+                     "url": "https://www.maltego.com/downloads/"
+                  },
+                  {
+                     "name": "Recon-ng (B)",
+                     "url": "https://github.com/lanmaster53/recon-ng"
+                  },
+                  {
+                     "name": "FOCA (B)",
+                     "url": "https://github.com/ElevenPaths/FOCA"
+                  },
+                  {
+                     "name": "OSRFramework (B)",
+                     "url": "https://github.com/i3visio/osrframework"
+                  },
+                  {
+                     "name": "OSINT Framework (B)",
+                     "url": "https://osintframework.com/"
+                  },
+                  {
+                     "name": "Recon-Dog (B)",
+                     "url": "https://github.com/s0md3v/ReconDog"
+                  },
+                  {
+                     "name": "Th3Inspector (B)",
+                     "url": "https://github.com/Moham3dRiahi/Th3inspector"
+                  },
+                  {
+                     "name": "Raccoon (B)",
+                     "url": "https://github.com/evyatarmeged/Raccoon"
+                  },
+                  {
+                     "name": "PENTMENU (B)",
+                     "url": "https://github.com/GinjaChris/pentmenu"
+                  }
+              ],
+               "name": "More Tools"
+            }
+         ],
+         "name": "Footprinting and Reconnaissance"
+      },
+      {
+         "children": [
+            {
+               "name": "Nmap (B)",
+               "url": "https://nmap.org/"
+            },
+            {
+               "name": "RustScan (B)",
+               "url": "https://github.com/RustScan/RustScan"
+            },
+            {
+               "name": "Hping2/Hping3",
+               "url": "http://www.hping.org/"
+            },
+            {
+               "name": "Metasploit (B)",
+               "url": "https://www.metasploit.com/"
+            },
+            {
+               "name": "NetScanTools Pro",
+               "url": "https://www.netscantools.com/"
+            },
+            {
+               "name": "Unicornscan",
+               "url": "https://sourceforge.net/"
+            },
+            {
+               "name": "SolarWinds Port Scanner (A)",
+               "url": "https://www.solarwinds.com/"
+            },
+            {
+               "name": "PRTG Network Monitor",
+               "url": "https://www.paessler.com/"
+            },
+            {
+               "name": "OmniPeek Network Protocol Analyzer (A)",
+               "url": "https://www.liveaction.com/"
+            },
+            {
+              "children": [
+                  {
+                     "name": "IP Scanner",
+                     "url": "http://10base-t.com/site/"
+                  },
+                  {
+                     "name": "Fing",
+                     "url": "https://www.fing.com/"
+                  },
+                  {
+                     "name": "Network Scanner",
+                     "url": "https://play.google.com/store/apps/details?id=com.myprog.netscan&hl=en_IN&gl=US"
+                  }
+              ],
+               "name": "Mobile Tools"
+            },
+            {
+              "children": [
+                  {
+                     "name": "Proxy Switcher",
+                     "url": "https://www.proxyswitcher.com/"
+                  },
+                  {
+                     "name": "Kalitorify (B)",
+                     "url": "https://github.com/brainfucksec/kalitorify"
+                  },
+                  {
+                     "name": "CyberGhost VPN",
+                     "url": "https://www.cyberghostvpn.com/en_US/"
+                  },
+                  {
+                     "name": "Tor",
+                     "url": "https://www.torproject.org/"
+                  },
+                  {
+                     "name": "CCProxy",
+                     "url": "https://www.youngzsoft.net/"
+                  },
+                  {
+                     "name": "Hotspot Shield",
+                     "url": "https://www.hotspotshield.com"
+                  },
+                  {
+                     "children": [
+                        {
+                           "name": "Shadowsocks",
+                          "url": "https://shadowsocks.org/en/index.html"
+                        },
+                        {
+                           "name": "ProxyDroid (B)",
+                           "url": "https://github.com/madeye/proxydroid"
+                        },
+                        {
+                           "name": "Proxy Manager",
+                           "url": "https://play.google.com/store/apps/details?id=com.evanhe.proxymanager&hl=en&gl=US"
+                        }
+                     ],
+                  "name": "Proxy Tools for Mobile"
+                  }
+               ],
+               "name": "Proxy Tools"
+            },
+            {
+               "children": [
+                  {
+                     "name": "Whonix",
+                     "url": "https://www.whonix.org/"
+                  },
+                  {
+                     "name": "Psiphon",
+                     "url": "https://psiphon.ca/"
+                  },
+                  {
+                     "name": "Proxy Manager",
+                     "url": "https://play.google.com/store/apps/details?id=com.evanhe.proxymanager&hl=en&gl=US"
+                  },
+                  {
+                     "name": "Proxy Manager",
+                     "url": "https://play.google.com/store/apps/details?id=com.evanhe.proxymanager&hl=en&gl=US"
+                  },
+                  {
+                     "children": [
+                        {
+                           "name": "Orbot",
+                          "url": "https://guardianproject.info/"
+                        },
+                        {
+                           "name": "Psiphon",
+                           "url": "https://psiphon.ca/"
+                        },
+                        {
+                           "name": "OpenDoor",
+                           "url": "https://apps.apple.com/us/app/opendoor-buy-sell-homes/id1143708068"
+                        }
+                     ],
+                  "name": "Anonymizers for Mobile"
+                  }
+               ],
+               "name": "Anonymizers"
+            },
+            {
+               "children": [
+                  {
+                     "name": "Network Topology Mapper (A)",
+                     "url": "https://www.solarwinds.com/network-topology-mapper"
+                  },
+                  {
+                     "name": "OpManager",
+                     "url": "https://www.manageengine.com/network-monitoring/"
+                  },
+                  {
+                     "name": "The Dude",
+                     "url": "https://mikrotik.com/thedude"
+                  },
+                  {
+                     "name": "NetSurveyor",
+                     "url": "http://nutsaboutnets.com/archives/netsurveyor-wifi-scanner/"
+                  },
+                  {
+                     "name": "NetBrain",
+                     "url": "https://www.netbraintech.com/"
+                  },
+                  {
+                     "name": "Spiceworks Network Mapping Tool",
+                     "url": "https://www.spiceworks.com/"
+                  },
+                  {
+                     "children": [
+                        {
+                           "name": "Network Analyzer",
+                          "url": "https://play.google.com/store/apps/details?id=net.techet.netanalyzer.an&hl=en&gl=US"
+                        },
+                        {
+                           "name": "PortDroid Network Analysis",
+                           "url": "https://play.google.com/store/apps/details?id=com.stealthcopter.portdroid&hl=en_IN&gl=US"
+                        }
+                     ],
+                  "name": "Network Discovery Tools for Mobile"
+                  }
+               ],
+               "name": "Network Discovery and Mapping Tools"
+            }
+         ],
+         "name": "Scanning Networks"
+      },
+      {
+         "children": [
+            {
+               "children": [
+                  {
+                     "name": "NetBIOS Enumerator",
+                     "url": "http://nbtenum.sourceforge.net/"
+                  },
+                  {
+                     "name": "Advanced IP Scanner",
+                     "url": "https://www.advanced-ip-scanner.com/"
+                  },
+                  {
+                     "name": "Hyena",
+                     "url": "https://www.systemtools.com/hyena/"
+                  },
+                  {
+                     "name": "Nsauditor Network Security Auditor",
+                     "url": "http://www.nsauditor.com/"
+                  },
+                  {
+                     "name": "Cheat Cheat",
+                     "url": ""
+                  }
+               ],
+               "name": "NetBIOS Enumeration"
+            },
+            {
+               "children": [
+                  {
+                     "name": "Cheat Cheat",
+                     "url": ""
+                  }
+               ],
+               "name": "Enumerating User Accounts"
+            },
+            {
+               "children": [
+                  {
+                     "name": "Cheat Cheat",
+                     "url": ""
+                  }
+               ],
+               "name": "Enumerating Shared Resources"
+            },
+            {
+               "children": [
+                  {
+                     "name": "Snmpcheck",
+                     "url": "http://www.nothink.org/codes/snmpcheck/"
+                  },
+                  {
+                     "name": "SoftPerfect Network Scanner (A)",
+                     "url": "https://www.softperfect.com/products/networkscanner/"
+                  },
+                  {
+                     "name": "OpUtils",
+                     "url": "manageengine.com/products/oputils/"
+                  },
+                  {
+                     "name": "PRTG Network Monitor (A)",
+                     "url": "https://www.paessler.com/prtg?gclid=CjwKCAjw2vOLBhBPEiwAjEeK9hiLXgr2b9jsRv0BZ5pwOLTBO4TIEUnWuZr95dc-fH0Xt3KoenRCHRoCy1QQAvD_BwE"
+                  },
+                  {
+                     "name": "Engineer’s Toolset (A)",
+                     "url": "https://www.solarwinds.com/engineers-toolset"
+                  },
+                  {
+                     "name": "Cheat Cheat",
+                     "url": ""
+                  }
+               ],
+               "name": "SNMP Enumeration"
+            },
+            {
+               "children": [
+                  {
+                     "name": " Softerra LDAP Administrator",
+                     "url": "https://www.ldapadministrator.com/"
+                  },
+                  {
+                     "name": "LDAP Admin Tool",
+                     "url": "https://www.ldapsoft.com/products.html"
+                  },
+                  {
+                     "name": "LDAP Account Manager",
+                     "url": "https://www.ldap-account-manager.org/lamcms/"
+                  },
+                  {
+                     "name": "LDAP Search",
+                     "url": "https://securityxploded.com/ldapsearch.php"
+                  },
+                  {
+                     "name": "JXplorer",
+                     "url": "http://jxplorer.org/"
+                  },
+                  {
+                     "name": "Active Directory Explorer",
+                     "url": "https://docs.microsoft.com/en-us/sysinternals/downloads/adexplorer"
+                  },
+                  {
+                     "name": "Cheat Cheat",
+                     "url": ""
+                  }
+               ],
+               "name": "LDAP Enumeration"
+            },
+            {
+               "children": [
+                  {
+                     "name": "PRTG Network Monitor (A)",
+                     "url": "https://www.paessler.com/prtg"
+                  },
+                  {
+                     "name": "Wireshark",
+                     "url": "https://www.wireshark.org"
+                  },
+                  {
+                     "name": "udp-proto-scanner",
+                     "url": "https://labs.portcullis.co.uk/"
+                  },
+                  {
+                     "name": "NTP Server Scanner",
+                     "url": "http://www.bytefusion.com/download/index.htm"
+                  },
+                  {
+                     "name": "Cheat Cheat",
+                     "url": ""
+                  }
+               ],
+               "name": "NTP Enumeration"
+            },
+            {
+               "children": [
+                  {
+                     "name": "RPCScan (B)",
+                     "url": "https://github.com/HACKE-RC/RPCScan"
+                  },
+                  {
+                     "name": "SuperEnum",
+                     "url": "https://github.com/p4pentest/SuperEnum"
+                  },
+                  {
+                     "name": "Cheat Cheat",
+                     "url": ""
+                  }
+               ],
+               "name": "NFS Enumeration"
+            },
+            {
+               "children": [
+                  {
+                     "name": "NetScanTools Pro",
+                     "url": "https://www.netscantools.com/"
+                  },
+                  {
+                     "name": "smtp-user-enum",
+                     "url": "http://pentestmonkey.net/tools/user-enumeration/smtp-user-enum"
+                  },
+                  {
+                     "name": "Cheat Cheat",
+                     "url": ""
+                  }
+               ],
+               "name": "SMTP Enumeration"
+            },
+            {
+               "children": [
+                  {
+                     "name": "dig Command",
+                     "url": ""
+                  },
+                  {
+                     "name": "nslookup Command ",
+                     "url": ""
+                  },
+                  {
+                     "name": "DNSRecon",
+                     "url": "https://github.com/darkoperator/dnsrecon"
+                  },
+                  {
+                     "name": "LDNS",
+                     "url": "https://nlnetlabs.nl/projects/ldns/about/"
+                  },
+                  {
+                     "name": "Cheat Cheat",
+                     "url": ""
+                  }
+               ],
+               "name": "DNS Enumeration"
+            },
+            {
+               "children": [
+                  {
+                     "name": "ike-scan",
+                     "url": "https://github.com/royhills/ike-scan"
+                  },
+                  {
+                     "name": "Cheat Cheat",
+                     "url": ""
+                  }
+               ],
+               "name": "IPsec Enumeration"
+            },
+            {
+               "children": [
+                  {
+                     "name": "Svmap",
+                     "url": "https://github.com/EnableSecurity/sipvicious"
+                  },
+                  {
+                     "name": "Cheat Cheat",
+                     "url": ""
+                  }
+               ],
+               "name": "VoIP Enumeration"
+            },
+            {
+               "children": [
+                  {
+                     "name": "NetScanTools Pro",
+                     "url": "https://www.netscantools.com/nstpromain.html"
+                  },
+                  {
+                     "name": "Cheat Cheat",
+                     "url": ""
+                  }
+               ],
+               "name": "RPC Enumeration"
+            },
+            {
+               "children": [
+                  {
+                     "name": "rusers",
+                     "url": ""
+                  },
+                  {
+                     "name": "rwho",
+                     "url": ""
+                  },
+                  {
+                     "name": " finger",
+                     "url": ""
+                  },
+                  {
+                     "name": "Cheat Cheat",
+                     "url": ""
+                  }
+               ],
+               "name": "Unix/Linux User Enumeration"
+            },
+            {
+               "children": [
+                  {
+                     "name": "Cheat Cheat",
+                     "url": ""
+                  }
+               ],
+               "name": "Telnet Enumeration"
+            },
+            {
+               "children": [
+                  {
+                     "name": "Cheat Cheat",
+                     "url": ""
+                  }
+               ],
+               "name": "FTP Enumeration"
+            },
+            {
+               "children": [
+                  {
+                     "name": "PortQry",
+                     "url": "https://www.microsoft.com/en-in/download/details.aspx?id=24009"
+                  },
+                  {
+                     "name": "Cheat Cheat",
+                     "url": ""
+                  }
+               ],
+               "name": "TFTP Enumeration"
+            },
+            {
+               "children": [
+                  {
+                     "name": "Enyx",
+                     "url": "https://github.com/trickster0/Enyx"
+                  },
+                  {
+                     "name": "IPv6 Hackit",
+                     "url": "http://ipv6hackit.sourceforge.net/"
+                  },
+                  {
+                     "name": "Cheat Cheat",
+                     "url": ""
+                  }
+               ],
+               "name": "IPv6 Enumeration"
+            },
+            {
+               "children": [
+                  {
+                     "name": "BGP Toolkit",
+                     "url": "https://bgp.he.net/"
+                  },
+                  {
+                     "name": "Cheat Cheat",
+                     "url": ""
+                  }
+               ],
+               "name": "BGP Enumeration"
+            }
+         ],
+         "name": "Enumeration"
+      },
+      {
+         "children": [
+            {
+               
+               "name": "Qualys Vulnerability Management",
+               "url": "https://www.qualys.com/"
+            },
+            {
+               
+               "name": "Nessus (A,B)",
+               "url": "https://www.tenable.com/products/nessus"
+            },
+            {
+               
+               "name": "GFI LanGuard",
+               "url": "https://www.gfi.com/"
+            },
+            {
+               
+               "name": "OpenVAS (B)",
+               "url": "https://www.openvas.org/"
+            },
+            {
+               
+               "name": "Nikto",
+               "url": "https://cirt.net/Nikto2"
+            },
+            {
+               
+               "name": "Qualys FreeScan",
+               "url": "https://www.qualys.com/community-edition/#/freescan"
+            },
+            {
+               
+               "name": "Acunetix Web Vulnerability Scanner (A)",
+               "url": "https://www.acunetix.com/"
+            },
+            {
+               
+               "name": "Nexpose",
+               "url": "https://www.rapid7.com/products/nexpose/"
+            },
+            {
+               
+               "name": "Network Security Scanner",
+               "url": "https://www.beyondtrust.com/"
+            },
+            {
+               
+               "name": "SAINT",
+               "url": "https://www.carson-saint.com/"
+            },
+            {
+               
+               "name": "Microsoft Baseline Security Analyzer (MBSA)",
+               "url": "https://www.microsoft.com/en-in/"
+            },
+            {
+               
+               "name": "beSECURE (AVDS)",
+               "url": "https://beyondsecurity.com/"
+            },
+            {
+               
+               "name": "Core Impact Pro",
+               "url": "https://www.coresecurity.com/"
+            },
+            {
+               
+               "name": "N-Stalker Web Application Security Scanner",
+               "url": "https://www.nstalker.com/alliance/products.html"
+            },
+            {
+               
+               "name": "ManageEngine Vulnerability Manager Plus",
+               "url": "https://www.manageengine.com"
+            },
+            {
+               "children": [
+                  {
+                     "name": "Vulners Scanner",
+                     "url": "https://vulners.com"
+                  },
+                  {
+                     "name": "SecurityMetrics Mobile",
+                     "url": "https://www.securitymetrics.com/"
+                  }
+               ],
+               "name": "Tools for Mobile"
+            },
+            {
+               "children": [
+                  {
+                     "name": "First (CVSS)",
+                     "url": "https://www.first.org/"
+                  },
+                  {
+                     "name": "NVD (CVSS)",
+                     "url": "https://nvd.nist.gov/"
+                  },
+                  {
+                     "name": "CVE Mitre (CVE)",
+                     "url": "https://cve.mitre.org/"
+                  },
+                  {
+                     "name": "CWE Mitre (CWE)",
+                     "url": "https://cwe.mitre.org"
+                  },
+                  {
+                     "name": "Scoring System Calculator",
+                     "url": "https://nvd.nist.gov/vuln-metrics/cvss/v2-calculator"
+                  }
+               ],
+               "name": "Scoring Systems and Databases"
+            }
+         ],
+         "name": "Vulnerability Analysis"
+      },
+      {
+         "children": [
+            {
+               "children": [
+                 {
+                     "name": "Elcomsoft Distributed Password Recovery (A)",
+                     "url": "https://www.elcomsoft.com/edpr.html"
+                  },
+                  {
+                     "name": "OSForensics",
+                     "url": "https://www.osforensics.com/download.html"
+                  },
+                  {
+                     "name": "Password Recovery Toolkit",
+                     "url": "https://accessdata.com/"
+                  },
+                  {
+                     "name": "Passware Kit Forensic",
+                     "url": "https://www.passware.com/kit-forensic/"
+                  },
+                  {
+                     "name": "hashcat",
+                     "url": "https://hashcat.net/hashcat/"
+                  },
+                  {
+                     "name": "Windows Password Recovery Tool (A)",
+                     "url": "https://www.windowspasswordsrecovery.com/"
+                  },
+                  {
+                     "name": "PCUnlocker (A)",
+                     "url": "https://www.top-password.com/"
+                  }
+               ],
+               "name": "Password Recovery Tools"
+            },
+            {
+               "children": [
+                 {
+                     "name": "pwdump7",
+                     "url": "https://www.tarasco.org/security/pwdump_7/"
+                  },
+                  {
+                     "name": "Mimikatz",
+                     "url": "https://github.com/gentilkiwi/mimikatz (B)"
+                  },
+                  {
+                     "name": "Powershell Empire",
+                     "url": "https://github.com/EmpireProject/Empire (B)"
+                  },
+                  {
+                     "name": "DSInternals PowerShell",
+                     "url": "https://github.com/MichaelGrafnetter/DSInternals"
+                  },
+                  {
+                     "name": "Ntdsxtract",
+                     "url": "https://github.com/csababarta/ntdsxtract"
+                  }
+               ],
+               "name": "Extract the Password Hashes"
+            },
+            {
+               "children": [
+                 {
+                     "name": "L0phtCrack (B)",
+                     "url": " https://www.l0phtcrack.com"
+                  },
+                  {
+                     "name": "ophcrack",
+                     "url": "http://ophcrack.sourceforge.net"
+                  },
+                  {
+                     "name": "RainbowCrack",
+                     "url": "http://project-rainbowcrack.com/"
+                  },
+                  {
+                     "name": "John the Ripper",
+                     "url": "https://www.openwall.com/john/"
+                  },
+                  {
+                     "name": "hashcat",
+                     "url": "https://hashcat.net/hashcat/"
+                  },
+                  {
+                     "name": "THC-Hydra (B)",
+                     "url": "https://github.com/vanhauser-thc/thc-hydra"
+                  },
+                  {
+                     "name": "Medusa",
+                     "url": "http://h.foofus.net/?page_id=51"
+                  }
+               ],
+               "name": "Password-Cracking Tools"
+            },
+            {
+               "children": [
+                 {
+                     "name": "Vindicate (B)",
+                     "url": "https://github.com/Rushyo/VindicateTool"
+                  },
+                  {
+                     "name": "got-responded (B)",
+                     "url": "https://github.com/joda32/got-responded"
+                  },
+                  {
+                     "name": "Respounder (B)",
+                     "url": "https://github.com/codeexpress/respounder"
+                  }
+               ],
+               "name": "Detect LLMNR/NBT-NS Poisoning"
+            },
+            {
+               "children": [
+                 {
+                     "name": "Exploit Database",
+                     "url": "https://www.exploit-db.com/"
+                  },
+                  {
+                     "name": "SecurityFocus",
+                     "url": "https://bugtraq.securityfocus.com/archive"
+                  },
+                  {
+                     "name": "VulDB",
+                     "url": "https://vuldb.com/"
+                  },
+                  {
+                     "name": "MITRE CVE",
+                     "url": "https://cve.mitre.org/"
+                  }
+               ],
+               "name": "Exploit Sites"
+            },
+            {
+               "children": [
+                 {
+                     "name": "OllyDbg",
+                     "url": "http://www.ollydbg.de/"
+                  },
+                  {
+                     "name": "Immunity Debugge",
+                     "url": "https://www.immunityinc.com/products/debugger/"
+                  },
+                  {
+                     "name": "Veracode",
+                     "url": "https://www.veracode.com/"
+                  },
+                  {
+                     "name": "Flawfinder",
+                     "url": "https://dwheeler.com"
+                  },
+                  {
+                     "name": "Kiuwan",
+                     "url": "https://www.kiuwan.com/"
+                  },
+                  {
+                     "name": "Splint (B)",
+                     "url": "https://github.com/splintchecker/splint"
+                  },
+                  {
+                     "name": "BOVSTT (B)",
+                     "url": "https://github.com/iricartb/buffer-overflow-vulnerability-services-tester-tool"
+                  }
+               ],
+               "name": "Buffer Overflow Detection Tools"
+            },
+            {
+               "children": [
+                 {
+                     "name": "BeRoot (B)",
+                     "url": "https://github.com/AlessandroZ/BeRoot"
+                  },
+                  {
+                     "name": "linpostexp (B)",
+                     "url": "https://github.com/reider-roque/linpostexp"
+                  },
+                  {
+                     "name": "PEASS-ng (B)",
+                     "url": "https://github.com/carlospolop/PEASS-ng"
+                  },
+                  {
+                     "name": "LinEnum (B)",
+                     "url": "https://github.com/rebootuser/LinEnum"
+                  },
+                  {
+                     "name": "linux-smart-enumeration (B)",
+                     "url": "https://github.com/diego-treitos/linux-smart-enumeration"
+                  },
+                  {
+                     "name": "linuxprivchecker (B)",
+                     "url": "https://github.com/linted/linuxprivchecker"
+                  },
+                  {
+                     "name": "unix-privesc-check",
+                     "url": "http://pentestmonkey.net/tools/audit/unix-privesc-check"
+                  },
+                  {
+                     "name": "Pupy",
+                     "url": "https://github.com/n1nj4sec/pupy"
+                  },
+                  {
+                     "name": "PDQ Deploy (A)",
+                     "url": "https://www.pdq.com/pdq-deploy/"
+                  },
+                  {
+                     "name": "Dameware Remote Support (A)",
+                     "url": "https://www.dameware.com/"
+                  },
+                  {
+                     "name": "ManageEngine Desktop Central",
+                     "url": "https://www.manageengine.com/"
+                  },
+                  {
+                     "name": "PsExec",
+                     "url": "https://docs.microsoft.com/en-us/sysinternals/downloads/psexec"
+                  },
+                  {
+                     "name": "GTFOBins",
+                     "url": "https://gtfobins.github.io/"
+                  },
+                  {
+                     "name": "LOBAS",
+                     "url": "https://lolbas-project.github.io/"
+                  }
+               ],
+               "name": "Privilege Escalation Tools"
+            },
+            {
+               "children": [
+                 {
+                     "name": "Dependency Walker",
+                     "url": "http://www.dependencywalker.com/"
+                  },
+                  {
+                     "name": "Dylib Hijack Scanner",
+                     "url": "https://objective-see.com/"
+                  }
+               ],
+               "name": "DLL and Dylib Hijacking"
+            },
+            {
+               "children": [
+                 {
+                     "name": "InSpectre",
+                     "url": "https://www.grc.com"
+                  },
+                  {
+                     "name": "Spectre & Meltdown Checker (B)",
+                     "url": "https://github.com/speed47/spectre-meltdown-checker"
+                  }
+               ],
+               "name": "Spectre and Meltdown Vulnerabilities"
+            },
+            {
+               "children": [
+                 {
+                     "name": "RemoteExec (A)",
+                     "url": "https://www.isdecisions.com/products/remoteexec/"
+                  }
+               ],
+               "name": "Tools for Executing Applications"
+            },
+            {
+               "children": [
+                 {
+                     "children": [
+                        {
+                           "name": "KeyGrabber",
+                           "url": "https://www.keydemon.com/en/"
+                         },
+                         {
+                           "name": "KeyGrabber USB",
+                           "url": "https://www.keelog.com/"
+                         },
+                         {
+                           "name": "KeyCarbon",
+                           "url": "http://www.keycarbon.com/"
+                         },
+                         {
+                           "name": "Keyboard logger",
+                           "url": "https://www.detective-store.com/"
+                         },
+                         {
+                           "name": "KeyGhost",
+                           "url": "https://www.keyghost.com/"
+                         }
+                     ],
+                     "name": "Hardware Keyloggers"
+                  },
+                  {
+                     "children": [
+                        {
+                           "name": "Spyrix Keylogger Free",
+                           "url": "https://www.spyrix.com/"
+                         },
+                         {
+                           "name": "REFOG Personal Monitor",
+                           "url": "https://www.refog.com/"
+                         },
+                         {
+                           "name": "All In One Keylogger",
+                           "url": "https://www.relytec.com/"
+                         },
+                         {
+                           "name": "Elite Keylogger",
+                           "url": "https://www.elitekeyloggers.com/"
+                         },
+                         {
+                           "name": "StaffCop Standard",
+                           "url": "https://www.staffcop.com"
+                         },
+                         {
+                           "name": "Spytector",
+                           "url": "https://www.spytector.com/"
+                         }
+                     ],
+                     "name": "Keyloggers for Windows"
+                  },
+                  {
+                     "children": [
+                        {
+                           "name": "Refog Mac Keylogger",
+                           "url": "https://www.refog.com/"
+                         },
+                         {
+                           "name": "Spyrix Keylogger",
+                           "url": "https://www.spyrix.com/"
+                         },
+                         {
+                           "name": "Elite Keylogger",
+                           "url": "https://www.elite-keylogger.net/"
+                         },
+                         {
+                           "name": "Aobo Mac OS X Keylogger",
+                           "url": "https://www.easemon.com/"
+                         },
+                         {
+                           "name": "KidLogger",
+                           "url": "http://kidlogger.net/"
+                         },
+                         {
+                           "name": "Perfect Keylogger",
+                           "url": "https://www.blazingtools.com/"
+                         }
+                     ],
+                     "name": "Keyloggers for Mac"
+                  }
+               ],
+               "name": "Keyloggers"
+            },
+            {
+               "children": [
+                 {
+                     "name": "Spytech SpyAgent (A)",
+                     "url": "https://www.spytech-web.com/"
+                  },
+                  {
+                     "name": "Power Spy",
+                     "url": "https://ematrixsoft.com/"
+                  },
+                  {
+                     "children": [
+                        {
+                           "name": "ACTIVTrak",
+                           "url": "https://www.activtrak.com/"
+                         },
+                         {
+                           "name": "Veriato Cerebral",
+                           "url": "https://www.veriato.com/"
+                         },
+                         {
+                           "name": "NetVizor",
+                           "url": "https://www.netvizor.net"
+                         },
+                         {
+                           "name": "SoftActivity Monitor",
+                           "url": "https://www.softactivity.com/"
+                         },
+                         {
+                           "name": "SoftActivity TS Monitor",
+                           "url": "https://www.softactivity.com"
+                         }
+                     ],
+                     "name": "Desktop and Child-Monitoring Spyware"
+                  },
+                  {
+                     "children": [
+                        {
+                           "name": "USB Analyzer",
+                           "url": "https://www.eltima.com/"
+                         },
+                         {
+                           "name": "USB Monitor",
+                           "url": "https://www.hhdsoftware.com/"
+                         },
+                         {
+                           "name": "USBDeview",
+                           "url": "https://www.nirsoft.net/"
+                         },
+                         {
+                           "name": "Advanced USB Port Monitor",
+                           "url": "https://www.aggsoft.com/"
+                         },
+                         {
+                           "name": "USB Monitor Pro",
+                           "url": "https://www.usb-monitor.com/"
+                         }
+                     ],
+                     "name": "USB Spyware"
+                  },
+                  {
+                     "children": [
+                        {
+                           "name": "Spy Voice Recorder",
+                           "url": "http://www.mysuperspy.com/"
+                         },
+                         {
+                           "name": "Spy Audio Listening Device",
+                           "url": "https://www.securityplanet.co/"
+                         },
+                         {
+                           "name": "Spy USB Voice Recorder",
+                           "url": "https://www.securityplanet.co/"
+                         },
+                         {
+                           "name": "Voice Activated Flash Drive Voice Recorder",
+                           "url": "https://spytec.com/"
+                         },
+                         {
+                           "name": "Audio Spyware Snooper",
+                           "url": "https://www.snooper.se"
+                         }
+                     ],
+                     "name": "Audio Spyware"
+                  },
+                  {
+                     "children": [
+                        {
+                           "name": "Movavi Video Editor",
+                           "url": "https://www.movavi.com/"
+                         },
+                         {
+                           "name": "iSpy",
+                           "url": "https://www.ispyconnect.com/"
+                         },
+                         {
+                           "name": "NET Video Spy",
+                           "url": "https://sarbash.com/"
+                         },
+                         {
+                           "name": "Eyeline Video Surveillance Software",
+                           "url": "https://www.nchsoftware.com/"
+                         }
+                     ],
+                     "name": "Video Spyware"
+                  },
+                  {
+                     "children": [
+                        {
+                           "name": "Phone Spy",
+                           "url": "https://phonespysoftware.com/"
+                         },
+                         {
+                           "name": "XNSPY",
+                           "url": "https://xnspy.com/"
+                         },
+                         {
+                           "name": "iKeyMonitor",
+                           "url": "https://ikeymonitor.com/"
+                         },
+                         {
+                           "name": "OneSpy",
+                           "url": "https://www.onespy.in/"
+                         },
+                         {
+                           "name": "TheTruthSpy ",
+                           "url": "https://thetruthspy.com/"
+                         }
+                     ],
+                     "name": "Cellphone Spyware"
+                  },
+                  {
+                     "children": [
+                        {
+                           "name": "Spyera",
+                           "url": "https://spyera.com/"
+                         },
+                         {
+                           "name": "mSpy",
+                           "url": "https://www.mspy.com/"
+                         },
+                         {
+                           "name": "MOBILE SPY",
+                           "url": "https://www.mobile-spy.com/"
+                         },
+                         {
+                           "name": "MobiStealth",
+                           "url": "https://www.mobistealth.com/"
+                         },
+                         {
+                           "name": "FlexiSPY",
+                           "url": "https://www.flexispy.com/"
+                         }
+                     ],
+                     "name": "GPS Spyware"
+                  }
+               ],
+               "name": "Spyware Tools"
+            },
+            {
+               "children": [
+                 {
+                     "name": "Zemana AntiLogger",
+                     "url": "https://www.zemana.com/"
+                  },
+                  {
+                     "name": "GuardedID",
+                     "url": "https://www.strikeforcecpg.com/"
+                  },
+                  {
+                     "name": "KeyScrambler",
+                     "url": "https://www.qfxsoftware.com/"
+                  },
+                  {
+                     "name": "Oxynger KeyShield",
+                     "url": "https://www.oxynger.com/"
+                  },
+                  {
+                     "name": "Ghostpress",
+                     "url": "https://schiffer.tech/"
+                  },
+                  {
+                     "name": "SpyShelter Free Anti-Keylogger",
+                     "url": "https://www.spyshelter.com/"
+                  }
+               ],
+               "name": "Anti-Keyloggers"
+            },
+            {
+               "children": [
+                 {
+                     "name": "SUPERAntiSpyware",
+                     "url": "https://www.superantispyware.com/"
+                  },
+                  {
+                     "name": "Kaspersky Internet Security",
+                     "url": "https://support.kaspersky.com/"
+                  },
+                  {
+                     "name": "SecureAnywhere Internet Security Complete",
+                     "url": "https://www.webroot.com/gb/en"
+                  },
+                  {
+                     "name": "adaware antivirus free",
+                     "url": "https://www.adaware.com/"
+                  },
+                  {
+                     "name": "MacScan",
+                     "url": "https://www.securemac.com/"
+                  },
+                  {
+                     "name": "Norton AntiVirus Plus",
+                     "url": "https://us.norton.com/"
+                  }
+               ],
+               "name": "Anti-Spyware"
+            },
+            {
+               "children": [
+                 {
+                     "name": "LoJax",
+                     "url": "https://www.welivesecurity.com/"
+                  },
+                  {
+                     "name": "Scranos",
+                     "url": "https://www.bitdefender.com/"
+                  },
+                  {
+                     "name": "Necurs",
+                     "url": "https://www.f-secure.com/en"
+                  }
+               ],
+               "name": "Popular Rootkits"
+            },
+            {
+               "children": [
+                 {
+                     "name": "GMER",
+                     "url": "http://www.gmer.net/"
+                  },
+                  {
+                     "name": "Stinger",
+                     "url": "https://www.mcafee.com"
+                  },
+                  {
+                     "name": "Avast Free Antivirus",
+                     "url": "https://www.avast.com"
+                  },
+                  {
+                     "name": "TDSSKiller",
+                     "url": "https://usa.kaspersky.com"
+                  },
+                  {
+                     "name": "Malwarebytes Anti-Rootkit",
+                     "url": "https://www.malwarebytes.com"
+                  },
+                  {
+                     "name": "Rootkit Buster",
+                     "url": "http://www.trendmicro.co.in"
+                  }
+               ],
+               "name": "Anti-Rootkits"
+            },
+            {
+               "children": [
+                 {
+                     "name": "Stream Armor",
+                     "url": "https://securityxploded.com"
+                  },
+                  {
+                     "name": "Stream Detector",
+                     "url": "https://www.novirusthanks.org"
+                  },
+                  {
+                     "name": "GMER",
+                     "url": "http://www.gmer.net"
+                  },
+                  {
+                     "name": "ADS Manager",
+                     "url": "https://dmitrybrant.com"
+                  },
+                  {
+                     "name": "ADS Scanner",
+                     "url": "https://www.pointstone.com"
+                  },
+                  {
+                     "name": "Streams",
+                     "url": "https://docs.microsoft.com"
+                  }
+               ],
+               "name": "NTFS Stream Detectors"
+            },
+            {
+               "children": [
+                  {
+                     "children": [
+                        {
+                           "name": "Snow",
+                           "url": "http://www.darkside.com.au"
+                        }
+                     ],
+                  "name": "Whitespace Steganography"
+                  },
+                  {
+                     "children": [
+                        {
+                           "name": "OpenStego",
+                           "url": "https://www.openstego.com"
+                        },
+                        {
+                           "name": "QuickStego",
+                           "url": "http://quickcrypto.com"
+                        },
+                        {
+                           "name": "SSuite Picsel",
+                           "url": "https://www.ssuitesoft.com"
+                        },
+                        {
+                           "name": "CryptaPix",
+                           "url": "https://www.briggsoft.com"
+                        },
+                        {
+                           "name": "gifshuffle",
+                           "url": "http://www.darkside.com.au"
+                        },
+                        {
+                           "name": "PHP-Class Stream Steganography",
+                           "url": "https://www.phpclasses.org"
+                        }
+                     ],
+                  "name": "Image Steganography"
+                  },
+                  {
+                     "children": [
+                        {
+                           "name": "StegoStick",
+                           "url": "https://sourceforge.net"
+                        },
+                        {
+                           "name": "StegJ",
+                           "url": "http://stegj.sourceforge.net"
+                        },
+                        {
+                           "name": "Office XML",
+                           "url": "https://www.irongeek.com"
+                        },
+                        {
+                           "name": "SNOW",
+                           "url": "http://www.darkside.com.au"
+                        },
+                        {
+                           "name": "Data Stash",
+                           "url": "https://www.skyjuicesoftware.com"
+                        },
+                        {
+                           "name": "Texto",
+                           "url": "http://www.eberl.net"
+                        }
+                     ],
+                  "name": "Document Steganography"
+                  },
+                  {
+                     "children": [
+                        {
+                           "name": "OmniHide Pro (A)",
+                           "url": "http://omnihide.com "
+                        },
+                        {
+                           "name": "StegoStick",
+                           "url": "https://sourceforge.net"
+                        },
+                        {
+                           "name": "OpenPuff",
+                           "url": "https://embeddedsw.net"
+                        },
+                        {
+                           "name": "MSU StegoVideo",
+                           "url": "http://www.compression.ru"
+                        }
+                     ],
+                  "name": "Video Steganography"
+                  },
+                  {
+                     "children": [
+                        {
+                           "name": "DeepSound",
+                           "url": "http://jpinsoft.net"
+                        },
+                        {
+                           "name": "BitCrypt",
+                           "url": "http://bitcrypt.moshe-szweizer.com"
+                        },
+                        {
+                           "name": "StegoStick",
+                           "url": "https://sourceforge.net"
+                        },
+                        {
+                           "name": "MP3Stego",
+                           "url": "https://www.petitcolas.net"
+                        },
+                        {
+                           "name": "QuickCrypto",
+                           "url": "http://www.quickcrypto.com"
+                        },
+                        {
+                           "name": "spectrology (B)",
+                           "url": "https://github.com/solusipse/spectrology"
+                        }
+                     ],
+                  "name": "Audio Steganography"
+                  },
+                  {
+                     "children": [
+                        {
+                           "name": "GiliSoft File Lock Pro (A)",
+                           "url": "http://www.gilisoft.com"
+                        },
+                        {
+                           "name": "Folder Lock",
+                           "url": "http://www.newsoftwares.net"
+                        },
+                        {
+                           "name": "Hide Folders 5",
+                           "url": "https://fspro.net"
+                        },
+                        {
+                           "name": "Invisible Secrets 4 (A)",
+                           "url": "http://www.invisiblesecrets.com"
+                        },
+                        {
+                           "name": "Max Folder Secure",
+                           "url": "https://maxpcsecure.com"
+                        },
+                        {
+                           "name": "QuickCrypto",
+                           "url": "http://www.quickcrypto.com"
+                        }
+                     ],
+                  "name": "Folder Steganography"
+                  },
+                  {
+                     "children": [
+                        {
+                           "name": "Spam Mimic",
+                           "url": "http://www.spammimic.com"
+                        },
+                        {
+                           "children": [
+                              {
+                                 "name": "Steganography Master",
+                                 "url": "https://play.google.com/store/apps/details?id=com.dinaga.photosecret&hl=en_IN&gl=US"
+                              },
+                              {
+                                  "name": "Stegais",
+                                  "url": " http://stegais.com"
+                              },
+                              {
+                                  "name": "SPY PIX",
+                                  "url": "https://www.juicybitssoftware.com"
+                              },
+                              {
+                                  "name": "Pixelknot: Hidden Messages",
+                                  "url": "https://guardianproject.info"
+                              },
+                              {
+                                  "name": "Pocket Stego",
+                                  "url": "https://www.talixa.com"
+                              },
+                              {
+                                  "name": "Steganography (B)",
+                                  "url": "https://github.com/kelvins/steganography"
+                              }
+                           ],
+                           "name": "Tools for Mobile Phones"
+                        }
+
+                     ],
+                  "name": "Spam/Email Steganography"
+                  },
+                  {
+                     "children": [
+                        {
+                           "name": "zsteg (B)",
+                           "url": "https://github.com/zed-0xff/zsteg"
+                        },
+                        {
+                           "name": "StegoVeritas (B)",
+                           "url": "https://github.com/bannsec/stegoVeritas"
+                        },
+                        {
+                           "name": "Stegextract (B)",
+                           "url": "https://github.com/evyatarmeged/stegextract"
+                        },
+                        {
+                           "name": "StegoHunt",
+                           "url": "https://www.wetstonetech.com"
+                        },
+                        {
+                           "name": "Steganography Studio",
+                           "url": "http://stegstudio.sourceforge.net"
+                        },
+                        {
+                           "name": "Virtual Steganographic Laboratory (VSL)",
+                           "url": "http://vsl.sourceforge.net"
+                        },
+                        {
+                           "name": "exiftool (B)",
+                           "url": "https://github.com/exiftool/exiftool"
+                        },
+                        {
+                           "name": "Steghide",
+                           "url": "http://steghide.sourceforge.net/download.php"
+                        }
+                     ],
+                  "name": "Steganography Detection Tools"
+                  }
+               ],
+               "name": "Steganography"
+            },
+            {
+               "children": [
+                  {
+                     "name": "Cheat Cheat",
+                     "url": ""
+                  }
+               ],
+               "name": "Clearing Logs"
+            },
+            {
+               "children": [
+                  {
+                     "name": "CCleaner",
+                     "url": "https://www.ccleaner.com"
+                  },
+                  {
+                     "name": "DBAN",
+                     "url": "https://dban.org"
+                  },
+                  {
+                     "name": "Privacy Eraser",
+                     "url": "https://www.cybertronsoft.com"
+                  },
+                  {
+                     "name": "Wipe",
+                     "url": "https://privacyroot.com"
+                  },
+                  {
+                     "name": "BleachBit",
+                     "url": "https://www.bleachbit.org"
+                  },
+                  {
+                     "name": "ClearProg",
+                     "url": "http://www.clearprog.de"
+                  }
+               ],
+               "name": "Track-Covering Tools"
+            }
+         ],
+         "name": "System Hacking"
+      },
+      {
+         "children": [
+            {
+               "name": "Restorator",
+               "url": "http://www.bome.com"
+            },
+            {
+               "name": "DarkHorse Trojan Virus Maker",
+               "url": "http://dark-horse-trojan-virus-maker.sharewarecentral.com/"
+            },
+            {
+               "name": "BitCrypter",
+               "url": "https://www.crypter.com"
+            },
+            {
+               "children": [
+                  {
+                     "name": "DELmE’s Batch Virus Maker",
+                     "url": ""
+                  },
+                  {
+                     "name": "JPS Virus Maker",
+                     "url": ""
+                  },
+                  {
+                     "name": "Bhavesh Virus Maker SKW",
+                     "url": ""
+                  },
+                  {
+                     "name": "Deadly Virus Maker ",
+                     "url": ""
+                  },
+                  {
+                     "name": "SonicBat Batch Virus Maker",
+                     "url": ""
+                  },
+                  {
+                     "name": "TeraBIT Virus Maker",
+                     "url": ""
+                  },
+                  {
+                     "name": "Andreinick05's Batch Virus Maker",
+                     "url": ""
+                  }
+               ],
+               "name": "Creating a Virus"
+            },
+            {
+               "children": [
+                  {
+                     "name": "Internet Worm Maker Thing",
+                     "url": ""
+                  },
+                  {
+                     "name": "Batch Worm Generator",
+                     "url": ""
+                  },
+                  {
+                     "name": "C++ Worm Generator",
+                     "url": ""
+                  }
+               
+               ],
+               "name": "Worm Makers"
+            },
+            {
+               "children": [
+                  {
+                     "children": [
+                        {
+                           "name": "Hyper-V",
+                           "url": "https://docs.microsoft.com"
+                        },
+                        {
+                           "name": "Parallels Desktop 14",
+                           "url": "https://www.parallels.com"
+                        },
+                        {
+                           "name": "Boot Camp",
+                           "url": "https://www.apple.com"
+                        },
+                        {
+                           "name": "VMware Workstation Pro",
+                           "url": "https://www.vmware.com"
+                        }
+               
+                     ],
+                     "name": "Virtual Machines Tools"
+                  },
+                  {
+                     "children": [
+                        {
+                           "name": "Snagit",
+                           "url": "https://www.techsmith.com"
+                        },
+                        {
+                           "name": "Jing",
+                           "url": "https://www.techsmith.com"
+                        },
+                        {
+                           "name": "Camtasia",
+                           "url": "https://www.techsmith.com"
+                        },
+                        {
+                           "name": "Ezvid",
+                           "url": "https://www.ezvid.com"
+                        }
+               
+                     ],
+                     "name": "Screen Capture and Recording Tools"
+                  },
+                  {
+                     "children": [
+                        {
+                           "name": "NetSim Pro",
+                           "url": "https://tetcos.com"
+                        },
+                        {
+                           "name": "ns-3",
+                           "url": "https://www.nsnam.org"
+                        },
+                        {
+                           "name": "Riverbed Modeler",
+                           "url": "http://www.riverbed.com"
+                        },
+                        {
+                           "name": "QualNet",
+                           "url": "http://web.scalable-networks.com"
+                        }
+               
+                     ],
+                     "name": "Network and Internet Simulation Tools"
+                  },
+                  {
+                     "children": [
+                        {
+                           "name": "Genie Backup Manager Pro",
+                           "url": "https://www.zoolz.com"
+                        },
+                        {
+                           "name": "Macrium Reflect Server",
+                           "url": "https://www.macrium.com"
+                        },
+                        {
+                           "name": "R-Drive Image",
+                           "url": "https://www.drive-image.com"
+                        },
+                        {
+                           "name": "O&O DiskImage 14",
+                           "url": "https://www.oo-software.com"
+                        }
+               
+                     ],
+                     "name": "OS Backup and Imaging Tools"
+                  },
+                  {
+                     "children": [
+                        {
+                           "name": "HashMyFiles",
+                           "url": "https://www.nirsoft.net"
+                        },
+                        {
+                           "name": "Mimikatz (B)",
+                           "url": "https://github.com/gentilkiwi/mimikatz"
+                        },
+                        {
+                           "name": "Hashtab",
+                           "url": "http://implbits.com"
+                        },
+                        {
+                           "name": "HashCalc",
+                           "url": "https://www.slavasoft.com"
+                        },
+                        {
+                           "name": "hashdeep (B)",
+                           "url": "https://github.com/jessek/hashdeep"
+                        },
+                        {
+                           "name": "MD5sums",
+                           "url": "http://www.pc-tools.net"
+                        }
+               
+                     ],
+                     "name": "File Fingerprinting"
+                  }
+               ],
+               "name": "Malware Analysis"
+            },
+            {
+               "children": [
+                  {
+                     "name": "VirusTotal",
+                     "url": "https://www.virustotal.com/gui/home/upload"
+                  },
+                  {
+                     "name": "Hybrid Analysis",
+                     "url": "https://www.hybrid-analysis.com"
+                  },
+                  {
+                     "name": "Cuckoo Sandbox",
+                     "url": "https://cuckoosandbox.org"
+                  },
+                  {
+                     "name": "Jotti",
+                     "url": "https://virusscan.jotti.org"
+                  },
+                  {
+                     "name": "Valkyrie Sandbox",
+                     "url": "https://valkyrie.comodo.com"
+                  },
+                  {
+                     "name": "Online Scanner",
+                     "url": "https://www.fortiguard.com"
+                  }
+               
+               ],
+               "name": "Malware Scanning"
+            },
+            {
+               "children": [
+                  {
+                     "name": "BinText",
+                     "url": "https://www.aldeid.com/wiki/BinText"
+                  },
+                  {
+                     "name": "FLOSS",
+                     "url": "https://www.fireeye.com"
+                  },
+                  {
+                     "name": "Strings",
+                     "url": "https://docs.microsoft.com"
+                  },
+                  {
+                     "name": "Free EXE DLL Resource Extract",
+                     "url": "http://www.resourceextract.com"
+                  },
+                  {
+                     "name": "FileSeek",
+                     "url": "https://www.fileseek.ca"
+                  },
+                  {
+                     "name": "Hex Workshop",
+                     "url": "http://www.hexworkshop.com"
+                  }
+               
+               ],
+               "name": "Performing Strings Search"
+            },
+            {
+               "children": [
+                  {
+                     "name": "PEiD",
+                     "url": " https://www.aldeid.com"
+                  },
+                  {
+                     "name": "Macro_Pack (B)",
+                     "url": "https://github.com/sevagas/macro_pack"
+                  },
+                  {
+                     "name": "UPX",
+                     "url": "https://upx.github.io"
+                  },
+                  {
+                     "name": "ASPack",
+                     "url": "http://www.aspack.com"
+                  }
+               ],
+               "name": "Identifying Packing/Obfuscation Methods"
+            },
+            {
+               "children": [
+                  {
+                     "name": "PE Explorer",
+                     "url": "http://www.heaventools.com"
+                  },
+                  {
+                     "name": "Portable Executable Scanner (pescan)",
+                     "url": "https://tzworks.net"
+                  },
+                  {
+                     "name": "Resource Hacker",
+                     "url": "http://www.angusj.com"
+                  },
+                  {
+                     "name": "PEView",
+                     "url": "https://www.aldeid.com/wiki/PEView"
+                  }
+               ],
+               "name": "Portable Executables Information"
+            },
+            {
+               "children": [
+                  {
+                     "name": "Dependency Walker",
+                     "url": "http://www.dependencywalker.com"
+                  },
+                  {
+                     "name": "Snyk",
+                     "url": "https://snyk.io"
+                  },
+                  {
+                     "name": "Hakiri",
+                     "url": "https://hakiri.io"
+                  },
+                  {
+                     "name": "Retire.js",
+                     "url": "https://retirejs.github.io"
+                  }
+               ],
+               "name": "Identifying File Dependencies"
+            },
+            {
+               "children": [
+                  {
+                     "name": "IDA",
+                     "url": "https://www.hex-rays.com"
+                  },
+                  {
+                     "name": "Ghirda",
+                     "url": "https://ghidra-sre.org"
+                  },
+                  {
+                     "name": "Radare2",
+                     "url": "https://rada.re"
+                  },
+                  {
+                     "name": "OllyDbg",
+                     "url": "http://www.ollydbg.de"
+                  },
+                  {
+                     "name": "WinDbg",
+                     "url": "http://www.windbg.org"
+                  },
+                  {
+                     "name": "ProcDump",
+                     "url": "https://docs.microsoft.com"
+                  }
+               ],
+               "name": "Malware Disassembly"
+            },
+            {
+               "children": [
+                  {
+                     "name": "Netstat",
+                     "url": ""
+                  },
+                  {
+                     "name": "TCPView",
+                     "url": "https://docs.microsoft.com/en-us/sysinternals/downloads/tcpview"
+                  },
+                  {
+                     "name": "Port Monitor",
+                     "url": "https://www.port-monitor.com"
+                  },
+                  {
+                     "name": "CurrPorts",
+                     "url": "https://www.nirsoft.net"
+                  },
+                  {
+                     "name": "TCP Port Monitoring",
+                     "url": "https://www.dotcom-monitor.com"
+                  },
+                  {
+                     "name": "PortExpert",
+                     "url": "http://www.kcsoftwares.com"
+                  },
+                  {
+                     "name": "PRTG Network Monitor",
+                     "url": "https://www.paessler.com"
+                  }
+               ],
+               "name": "Port Monitoring"
+            },
+            {
+               "children": [
+                  {
+                     "name": "Process Monitor",
+                     "url": "https://docs.microsoft.com/en-us/sysinternals/downloads/procmon"
+                  },
+                  {
+                     "name": "Process Explorer",
+                     "url": "https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer"
+                  },
+                  {
+                     "name": "OpManager",
+                     "url": "https://www.manageengine.com"
+                  },
+                  {
+                     "name": "Monit",
+                     "url": "https://mmonit.com"
+                  },
+                  {
+                     "name": "ESET SysInspector",
+                     "url": "https://www.eset.com"
+                  },
+                  {
+                     "name": "System Explorer",
+                     "url": "http://systemexplorer.net"
+                  }
+               ],
+               "name": "Process Monitoring"
+            },
+            {
+               "children": [
+                  {
+                     "name": "jv16 PowerTools",
+                     "url": "https://www.macecraft.com"
+                  },
+                  {
+                     "name": "regshot",
+                     "url": "https://sourceforge.net"
+                  },
+                  {
+                     "name": "Reg Organizer",
+                     "url": "https://www.chemtable.com"
+                  },
+                  {
+                     "name": "Registry Viewer",
+                     "url": "https://accessdata.com"
+                  },
+                  {
+                     "name": "RegScanner",
+                     "url": "https://www.nirsoft.net"
+                  },
+                  {
+                     "name": "Registrar Registry Manager",
+                     "url": "https://www.resplendence.com"
+                  }
+               ],
+               "name": "Registry Monitoring"
+            },
+            {
+               "children": [
+                  {
+                     "name": "Windows Service Manager (SrvMan)",
+                     "url": "http://tools.sysprogs.org"
+                  },
+                  {
+                     "name": "Advanced Windows Service Manager",
+                     "url": "https://securityxploded.com"
+                  },
+                  {
+                     "name": "Process Hacker",
+                     "url": "https://processhacker.sourceforge.io"
+                  },
+                  {
+                     "name": "Netwrix Service Monitor",
+                     "url": "https://www.netwrix.com"
+                  },
+                  {
+                     "name": "AnVir Task Manager",
+                     "url": "https://www.anvir.com"
+                  },
+                  {
+                     "name": "Service+",
+                     "url": "https://www.activeplus.com"
+                  }
+               ],
+               "name": "Windows Services Monitoring"
+            },
+            {
+               "children": [
+                  {
+                     "name": "Autoruns for Windows",
+                     "url": "https://docs.microsoft.com/en-us/sysinternals/downloads/autoruns"
+                  },
+                  {
+                     "name": "Autorun Organizer",
+                     "url": "https://www.chemtable.com"
+                  },
+                  {
+                     "name": "Quick Startup",
+                     "url": "https://www.glarysoft.com"
+                  },
+                  {
+                     "name": "StartEd Pro",
+                     "url": "http://www.outertech.com"
+                  },
+                  {
+                     "name": "Chameleon Startup Manager",
+                     "url": "http://www.chameleon-managers.com"
+                  }
+               ],
+               "name": "Startup Programs Monitoring"
+            },
+            {
+               "children": [
+                  {
+                     "name": "Splunk",
+                     "url": "https://www.splunk.com"
+                  },
+                  {
+                     "name": "ManageEngine Event Log Analyzer",
+                     "url": "https://www.manageengine.com"
+                  },
+                  {
+                     "name": "Loggly",
+                     "url": "https://www.loggly.com"
+                  },
+                  {
+                     "name": "SolarWinds Log & Event Manager",
+                     "url": "https://www.solarwinds.com"
+                  },
+                  {
+                     "name": "Netwrix Event Log Manager",
+                     "url": "https://www.netwrix.com"
+                  }
+               ],
+               "name": "Event Logs Monitoring/Analysis"
+            },
+            {
+               "children": [
+                  {
+                     "name": "Mirekusoft Install Monitor",
+                     "url": "https://www.mirekusoft.com"
+                  },
+                  {
+                     "name": "SysAnalyzer",
+                     "url": "https://www.aldeid.com"
+                  },
+                  {
+                     "name": "Advanced Uninstaller PRO",
+                     "url": "https://www.advanceduninstaller.com"
+                  },
+                  {
+                     "name": "REVO UNINSTALLER PRO",
+                     "url": "https://www.revouninstaller.com"
+                  },
+                  {
+                     "name": "Comodo Programs Manager ",
+                     "url": "https://www.comodo.com"
+                  }
+               ],
+               "name": "Installation Monitoring"
+            },
+            {
+               "children": [
+                  {
+                     "name": "PA File Sight",
+                     "url": "https://www.poweradmin.com"
+                  },
+                  {
+                     "name": "Tripwire File Integrity and Change Manager",
+                     "url": "https://www.tripwire.com"
+                  },
+                  {
+                     "name": "Netwrix Auditor",
+                     "url": "https://www.netwrix.com"
+                  },
+                  {
+                     "name": "Verisys",
+                     "url": "https://www.ionx.co.uk"
+                  },
+                  {
+                     "name": "CSP File Integrity Checker",
+                     "url": "https://www.cspsecurity.com"
+                  },
+                  {
+                     "name": "NNT Change Tracker",
+                     "url": "https://www.newnettechnologies.com"
+                  }
+               ],
+               "name": "Files and Folders Monitoring"
+            },
+            {
+               "children": [
+                  {
+                     "name": "DriverView",
+                     "url": "https://www.nirsoft.net"
+                  },
+                  {
+                     "name": "Driver Booster",
+                     "url": "https://www.iobit.com"
+                  },
+                  {
+                     "name": "Driver Reviver",
+                     "url": "https://www.reviversoft.com"
+                  },
+                  {
+                     "name": "Driver Easy",
+                     "url": "https://www.drivereasy.com"
+                  },
+                  {
+                     "name": "Driver Fusion",
+                     "url": "https://treexy.com"
+                  },
+                  {
+                     "name": "Driver Genius",
+                     "url": "http://www.driver-soft.com"
+                  }
+               ],
+               "name": "Device Drivers Monitoring"
+            },
+            {
+               "children": [
+                  {
+                     "name": "SolarWinds NetFlow Traffic Analyzer",
+                     "url": "https://www.solarwinds.com "
+                  },
+                  {
+                     "name": "Caspa Network Analyzer ",
+                     "url": "https://www.colasoft.com"
+                  },
+                  {
+                     "name": "Wireshark",
+                     "url": "https://www.wireshark.org"
+                  },
+                  {
+                     "name": "PRTG Network Monitor",
+                     "url": "https://kb.paessler.com"
+                  },
+                  {
+                     "name": "GFI LanGuard",
+                     "url": "https://www.gfi.com"
+                  },
+                  {
+                     "name": "NetFort LANGuardian",
+                     "url": "https://www.netfort.com"
+                  }
+               ],
+               "name": "Network Traffic Monitoring/Analysis"
+            },
+            {
+               "children": [
+                  {
+                     "name": "DNSQuerySniffer",
+                     "url": "https://www.nirsoft.net"
+                  },
+                  {
+                     "name": "DNSstuff",
+                     "url": "https://www.dnsstuff.com"
+                  },
+                  {
+                     "name": "DNS Lookup Tool",
+                     "url": "https://www.ultratools.com"
+                  },
+                  {
+                     "name": "Sonar Lite",
+                     "url": "https://constellix.com"
+                  }
+               ],
+               "name": "DNS Monitoring/Resolution"
+            },
+            {
+               "children": [
+                  {
+                     "name": "API Monitor",
+                     "url": "https://www.apimonitor.com"
+                  },
+                  {
+                     "name": "APImetrics",
+                     "url": "https://apimetrics.io"
+                  },
+                  {
+                     "name": "Runscope",
+                     "url": "https://www.runscope.com"
+                  },
+                  {
+                     "name": "AlertSite",
+                     "url": "https://smartbear.com"
+                  }
+               ],
+               "name": "API Calls Monitoring"
+            },
+            {
+               "children": [
+                  {
+                     "name": "Kaspersky Internet Security (A)",
+                     "url": "https://www.kaspersky.com"
+                  },
+                  {
+                     "name": "McAfee® LiveSafe (A)",
+                     "url": "https://www.mcafee.com"
+                  },
+                  {
+                     "name": "Symantec Norton Security Premium (A)",
+                     "url": "https://www.symantec-norton.com"
+                  },
+                  {
+                     "name": "Bitdefender Total Security (A)",
+                     "url": "https://bitdefender.com"
+                  },
+                  {
+                     "name": "HitmanPro (A)",
+                     "url": "https://www.hitmanpro.com"
+                  },
+                  {
+                     "name": "Malwarebytes (A)",
+                     "url": "https://www.malwarebytes.org"
+                  },
+                  {
+                     "name": "Zemana Antimalware (A)",
+                     "url": "https://www.zemana.com"
+                  },
+                  {
+                     "name": "Emsisoft Anti-Malware Home (A)",
+                     "url": "https://www.emsisoft.com"
+                  },
+                  {
+                     "name": "Malicious Software Removal Tool (A)",
+                     "url": "https://www.microsoft.com"
+                  },
+                  {
+                     "name": "SUPERAntiSpyware (A)",
+                     "url": "hhttps://www.superantispyware.com"
+                  },
+                  {
+                     "name": "Plumbytes Anti-Malware (A)",
+                     "url": "https://plumbytes.com"
+                  }
+               ],
+               "name": "Anti-Trojan Software"
+            },
+            {
+               "children": [
+                  {
+                     "name": "Bitdefender Antivirus Plus 2019 (A)",
+                     "url": "https://www.bitdefender.com"
+                  },
+                  {
+                     "name": "ClamWin (A)",
+                     "url": "http://www.clamwin.com"
+                  },
+                  {
+                     "name": "Kaspersky Anti-Virus (A)",
+                     "url": "https://www.kaspersky.com"
+                  },
+                  {
+                     "name": "McAfee AntiVirus Plus (A)",
+                     "url": "https://home.mcafee.com"
+                  },
+                  {
+                     "name": "Norton AntiVirus Basic (A)",
+                     "url": "https://www.norton.com"
+                  },
+                  {
+                     "name": "Avast Premier Antivirus (A)",
+                     "url": "https://www.avast.com"
+                  },
+                  {
+                     "name": "ESET Internet Security ",
+                     "url": "https://www.eset.com"
+                  },
+                  {
+                     "name": "AVG Antivirus FREE ",
+                     "url": "https://free.avg.com"
+                  },
+                  {
+                     "name": "Avira Antivirus Pro (A)",
+                     "url": "https://www.avira.com"
+                  },
+                  {
+                     "name": "Trend Micro Maximum Security (A)",
+                     "url": "https://trendmicro.com"
+                  },
+                  {
+                     "name": "Panda Antivirus Pro (A)",
+                     "url": "https://www.pandasecurity.com"
+                  },
+                  {
+                     "name": "Webroot SecureAnywhere Antivirus (A)",
+                     "url": "https://www.webroot.com"
+                  }
+               ],
+               "name": "Antivirus Software"
+            },
+            {
+               "children": [
+                  {
+                     "name": "AlienVault® USM Anywhere",
+                     "url": "https://www.alienvault.com"
+                  },
+                  {
+                     "name": "Quick Heal Total Security",
+                     "url": "http://www.quickheal.com"
+                  },
+                  {
+                     "name": "Endpoint Detection and Response (EDR)",
+                     "url": "https://www.trendmicro.com"
+                  },
+                  {
+                     "name": "Defender Check (B)",
+                     "url": "https://github.com/matterpreter/DefenderCheck"
+                  },
+                  {
+                     "name": "FCL (B)",
+                     "url": "https://github.com/flexible-collision-library/fcl"
+                  },
+                  {
+                     "name": "CYNET 360",
+                     "url": "https://www.cynet.com"
+                  }
+               ],
+               "name": "Fileless Malware Detection Tools"
+            },
+            {
+               "children": [
+                  {
+                     "name": "McAfee End Point Security",
+                     "url": "https://www.mcafee.com"
+                  },
+                  {
+                     "name": "Microsoft Defender Advanced Threat Protection",
+                     "url": "https://docs.microsoft.com"
+                  },
+                  {
+                     "name": "Kaspersky End Point Security for Business",
+                     "url": "https://www.kaspersky.com"
+                  },
+                  {
+                     "name": "Trend Micro Smart Protection Suites",
+                     "url": "https://www.trendmicro.com"
+                  },
+                  {
+                     "name": "Norton 360 with LifeLock Select",
+                     "url": "https://us.norton.com"
+                  },
+                  {
+                     "name": "REVE Antivirus",
+                     "url": "https://www.reveantivirus.com"
+                  }
+               ],
+               "name": "Fileless Malware Protection Tools"
+            }
+         ],
+         "name": "Malware Threats"
+      },
+      {
+         "children": [
+            {
+               "children": [
+                  {
+                     "name": "Voyager M4x Protocol Analyzer",
+                     "url": "https://teledynelecroy.com"
+                  },
+                  {
+                     "name": "N2X N5540A Agilent Protocol Analyzer",
+                     "url": "https://www.valuetronics.com"
+                  },
+                  {
+                     "name": "Keysight E2960B",
+                     "url": "https://www.keysight.com"
+                  },
+                  {
+                     "name": "STINGA Protocol Analyzer",
+                     "url": "https://utelsystems.com"
+                  },
+                  {
+                     "name": "NETSCOUT OneTouch AT Network Assistant",
+                     "url": "https://enterprise.netscout.com"
+                  },
+                  {
+                     "name": "NETSCOUT OptiView XG Network Analysis Tablet",
+                     "url": "https://enterprise.netscout.com"
+                  },
+                  {
+                     "name": "Agilent (Keysight) Technologies 8753ES",
+                     "url": "https://www.microlease.com"
+                  }
+               ],
+               "name": "Hardware Protocol Analyzers"
+            },
+            {
+               "children": [
+                  {
+                     "name": "Mac Flooding Switches with macof",
+                     "url": "https://monkey.org"
+                  }
+               ],
+               "name": "MAC Flooding"
+            },
+            {
+               "children": [
+                  {
+                     "name": "Yersinia",
+                     "url": "https://sourceforge.net"
+                  },
+                  {
+                     "name": "Hyenae",
+                     "url": "https://sourceforge.net"
+                  },
+                  {
+                     "name": "dhcpstarv (B)",
+                     "url": "https://github.com/sgeto/dhcpstarv"
+                  },
+                  {
+                     "name": "Gobbler",
+                     "url": "https://sourceforge.net"
+                  },
+                  {
+                     "name": "DHCPig (B)",
+                     "url": "https://github.com/kamorin/DHCPig"
+                  }
+               ],
+               "name": "DHCP Starvation Attack"
+            },
+            {
+               "children": [
+                  {
+                     "name": "arpspoof",
+                     "url": "https://linux.die.net"
+                  },
+                  {
+                     "name": "BetterCAP",
+                     "url": "https://www.bettercap.org"
+                  },
+                  {
+                     "name": "Ettercap",
+                     "url": "http://www.ettercap-project.org"
+                  },
+                  {
+                     "name": "dsniff",
+                     "url": "https://www.monkey.org"
+                  },
+                  {
+                     "name": "MITMf",
+                     "url": "https://github.com/byt3bl33d3r/MITMf"
+                  },
+                  {
+                     "name": "Arpoison",
+                     "url": "https://sourceforge.net"
+                  }
+               ],
+               "name": "ARP Poisoning Tools"
+            },
+            {
+               "children": [
+                  {
+                     "name": "XArp",
+                     "url": "http://www.xarp.net "
+                  },
+                  {
+                     "name": "Capsa Network Analyzer",
+                     "url": "https://www.colasoft.com"
+                  },
+                  {
+                     "name": "ArpON",
+                     "url": "https://sourceforge.net"
+                  },
+                  {
+                     "name": "ARP AntiSpoofer",
+                     "url": "https://sourceforge.net"
+                  },
+                  {
+                     "name": "ARPStraw (B)",
+                     "url": "https://github.com/he2ss/arpstraw"
+                  }
+               ],
+               "name": "ARP Spoofing Detection Tools"
+            },
+            {
+               "children": [
+                  {
+                     "name": "Technitium MAC Address Changer",
+                     "url": "https://technitium.com"
+                  },
+                  {
+                     "name": "SMAC",
+                     "url": "http://www.klcconsulting.net"
+                  },
+                  {
+                     "name": "MAC Address Changer",
+                     "url": "https://www.novirusthanks.org"
+                  },
+                  {
+                     "name": "Change MAC Address",
+                     "url": "https://lizardsystems.com"
+                  },
+                  {
+                     "name": "Easy Mac Changer (B)",
+                     "url": "https://github.com/KALILINUXTRICKSYT/easymacchanger"
+                  },
+                  {
+                     "name": "Spoof-Me-Now",
+                     "url": "https://sourceforge.net"
+                  }
+               ],
+               "name": "MAC Spoofing Tools"
+            },
+            {
+               "children": [
+                  {
+                     "name": "DerpNSpoof (B)",
+                     "url": "https://github.com/Trackbool/DerpNSpoof"
+                  },
+                  {
+                     "name": "DNS Spoof (B)",
+                     "url": "https://github.com/DanMcInerney/dnsspoof"
+                  },
+                  {
+                     "name": "DNS-poison (B)",
+                     "url": "https://github.com/gr3yc4t/dns-poisoning-tool"
+                  },
+                  {
+                     "name": "Ettercap",
+                     "url": "http://www.ettercap-project.org"
+                  },
+                  {
+                     "name": "Evilgrade (B)",
+                     "url": "https://github.com/infobyte/evilgrade"
+                  },
+                  {
+                     "name": "TORNADO (B)",
+                     "url": "https://github.com/tornadoweb/tornado"
+                  }
+               ],
+               "name": "DNS Poisoning Tools"
+            },
+            {
+               "name": "Wireshark",
+               "url": "https://www.wireshark.org"
+            },
+            {
+               "name": "SteelCentral Packet Analyze",
+               "url": "https://www.riverbed.com"
+            },
+            {
+               "name": "Capsa Network Analyzer",
+               "url": "https://www.colasoft.com"
+            },
+            {
+               "name": "OmniPeek",
+               "url": "https://www.liveaction.com"
+            },
+            {
+               "name": "Observer Analyzer",
+               "url": "https://www.viavisolutions.com"
+            },
+            {
+               "name": "PRTG Network Monitor",
+               "url": "https://www.paessler.com"
+            },
+            {
+               "name": "SolarWinds Deep Packet Inspection and Analysis (A)",
+               "url": "https://www.solarwinds.com"
+            },
+            {
+               "name": "Xplico",
+               "url": "https://www.xplico.org"
+            },
+            {
+               "name": "Colasoft Packet Builder",
+               "url": "https://www.colasoft.com"
+            },
+            {
+               "children": [
+                  {
+                     "name": "Sniffer Wicap",
+                     "url": "https://play.google.com/store/apps/details?id=com.evbadroid.wicap&hl=en_IN&gl=US"
+                  },
+                  {
+                     "name": "FaceNiff ",
+                     "url": "http://faceniff.ponury.net"
+                  },
+                  {
+                     "name": "Packet Capture",
+                     "url": "https://play.google.com/store/apps/details?id=app.greyshirts.sslcapture&hl=en_IN&gl=US"
+                  }
+               ],
+               "name": "Sniffing Tools for Mobile Phones"
+            },
+            {
+               "children": [
+                  {
+                     "name": "Nmap",
+                     "url": "https://nmap.org"
+                  },
+                  {
+                     "name": "NetScanTools Pro",
+                     "url": "https://www.netscantools.com"
+                  }
+               ],
+               "name": "Promiscuous Detection Tools"
+            }
+         ],
+      "name": "Sniffing"
+      },
+      {
+         "children": [
+            {
+               "children": [
+                  {
+                        "name": "ShellPhish (B)",
+                        "url": "https://github.com/suljot/shellphish"
+                  },
+                  {
+                        "name": "BLACKEYE (B)",
+                        "url": "https://github.com/An0nUD4Y/blackeye"
+                  },
+                  {
+                        "name": "PhishX (B)",
+                        "url": "https://github.com/rezaaksa/PhishX"
+                  },
+                  {
+                        "name": "Modlishka (B)",
+                        "url": "https://github.com/drk1wi/Modlishka"
+                  },
+                  {
+                        "name": "Trape (B)",
+                        "url": "https://github.com/jofpin/trape"
+                  },
+                  {
+                        "name": "Evilginx (B)",
+                        "url": "https://github.com/kgretzky/evilginx"
+                  }
+               ],
+               "name": "Phishing Tools"
+            },
+            {
+               "children": [
+                  {
+                        "name": "Netcraft",
+                        "url": "https://toolbar.netcraft.com"
+                  },
+                  {
+                        "name": "PhishTank",
+                        "url": " https://phishtank.com"
+                  }
+               ],
+               "name": "Anti-Phishing Toolbar"
+            },
+            {
+               "children": [
+                  {
+                        "name": "Social Engineering Toolkit (SET)",
+                        "url": "https://www.trustedsec.com/tools/the-social-engineer-toolkit-set/"
+                  },
+                  {
+                        "name": "SpeedPhish Framework (SPF) (B)",
+                        "url": "https://github.com/tatanus/SPF"
+                  },
+                  {
+                        "name": "Gophish",
+                        "url": "https://getgophish.com"
+                  },
+                  {
+                        "name": "King Phisher",
+                        "url": "https://github.com/rsmusllp/king-phisher"
+                  },
+                  {
+                        "name": "LUCY",
+                        "url": "https://www.lucysecurity.com"
+                  },
+                  {
+                        "name": "MSI Simple Phish",
+                        "url": "https://microsolved.com"
+                  },
+                  {
+                        "name": "OhPhish ",
+                        "url": "https://ohphish.eccouncil.org"
+                  }
+               ],
+               "name": "Social Engineering Tools"
+            }
+         ],
+         "name": "Social Engineering"
+      },
+      {
+         "children": [
+            {
+               "children": [
+                  {
+                        "name": "High Orbit Ion Cannon (HOIC)",
+                        "url": "https://sourceforge.net/projects/highorbitioncannon/"
+                  },
+                  {
+                        "name": "Low Orbit Ion Cannon (LOIC)",
+                        "url": "https://sourceforge.net/projects/loic/"
+                  },
+                  {
+                        "name": "XOIC",
+                        "url": "http://anonhacktivism.blogspot.com"
+                  },
+                  {
+                        "name": "HULK",
+                        "url": "https://siberianlaika.ru"
+                  },
+                  {
+                        "name": "Tor’s Hammer",
+                        "url": "https://sourceforge.net"
+                  },
+                  {
+                        "name": "Slowloris (B)",
+                        "url": "https://github.com/gkbrk/slowloris"
+                  },
+                  {
+                        "name": "PyLoris",
+                        "url": "https://sourceforge.net"
+                  },
+                  {
+                        "name": "R-U-Dead-Yet",
+                        "url": "https://sourceforge.net"
+                  }
+               ],
+               "name": "DoS/DDoS Attack Tools"
+            },
+            {
+               "children": [
+                  {
+                        "name": "LOIC",
+                        "url": "https://play.google.com"
+                  },
+                  {
+                        "name": "AnDOSid",
+                        "url": "https://andosid.droidinformer.org"
+                  },
+                  {
+                        "name": "Packets Generator",
+                        "url": "https://play.google.com/store/apps/details?id=packetGenrator.edu.ae&hl=en_IN&gl=US"
+                  }
+               ],
+               "name": "DoS/DDoS Attack Tools for Mobiles"
+            },
+            {
+               "children": [
+                  {
+                        "name": "KFSensor",
+                        "url": "http://www.keyfocus.net"
+                  },
+                  {
+                        "name": "SSHHiPot (B)",
+                        "url": "https://github.com/magisterquis/sshhipot"
+                  },
+                  {
+                        "name": "Artillery (B)",
+                        "url": "https://github.com/BinaryDefense/artillery"
+                  }
+               ],
+               "name": "DoS/DDoS countermeasure tools"
+            },
+            {
+               "children": [
+                  {
+                        "name": "FortiDDoS-1200B",
+                        "url": "https://www.fortinet.com"
+                  },
+                  {
+                        "name": "DDoS Protector",
+                        "url": " https://www.checkpoint.com"
+                  },
+                  {
+                        "name": "Terabit DDoS Protection System",
+                        "url": "https://terabitsecurity.com"
+                  },
+                  {
+                        "name": "A10 Thunder TPS",
+                        "url": "https://www.a10networks.com"
+                  },
+                  {
+                        "name": "Imperva Incapsula DDoS Protection",
+                        "url": "https://www.incapsula.com"
+                  },
+                  {
+                        "name": "Anti DDoS Guardian",
+                        "url": "http://www.beethink.com"
+                  },
+                  {
+                        "name": "DOSarrest’s DDoS protection service",
+                        "url": "https://www.dosarrest.com"
+                  },
+                  {
+                        "name": "DDoS-GUARD",
+                        "url": "https://ddos-guard.net"
+                  },
+                  {
+                        "name": "Cloudflare",
+                        "url": "https://www.cloudflare.com"
+                  },
+                  {
+                        "name": "F5",
+                        "url": "https://f5.com"
+                  }
+               ],
+               "name": "DoS/DDoS Protection Tools"
+            },
+            {
+               "children": [
+                  {
+                        "name": "Akamai DDoS Protection",
+                        "url": "https://www.akamai.com"
+                  },
+                  {
+                        "name": "Kaspersky DDoS Protection Tool",
+                        "url": "https://www.kaspersky.com"
+                  },
+                  {
+                        "name": "Stormwall PRO",
+                        "url": "https://stormwall.pro"
+                  },
+                  {
+                        "name": "Corero Network Security",
+                        "url": "https://www.corero.com"
+                  },
+                  {
+                        "name": "Nexusguard",
+                        "url": "https://www.nexusguard.com"
+                  },
+                  {
+                        "name": "BlockDoS",
+                        "url": "https://www.blockdos.net/"
+                  }
+               ],
+               "name": "DoS/DDoS Protection Services"
+            }
+         ],
+         "name": "Denial-of-Service"
+      },
+      {
+         "children": [
+            {
+               "children": [
+                  {
+                        "name": "Burp Suite",
+                        "url": "https://portswigger.net"
+                  },
+                  {
+                        "name": "OWASP ZAP",
+                        "url": "https://www.zaproxy.org/"
+                  },
+                  {
+                        "name": "bettercap",
+                        "url": "https://www.bettercap.org"
+                  },
+                  {
+                        "name": "netool toolkit",
+                        "url": "https://sourceforge.net"
+                  },
+                  {
+                        "name": "WebSploit Framework",
+                        "url": "https://sourceforge.net"
+                  },
+                  {
+                        "name": "sslstrip",
+                        "url": "https://pypi.python.org"
+                  }
+               ],
+               "name": "Session Hijacking Tools"
+            },
+            {
+               "children": [
+                  {
+                        "name": "DroidSheep",
+                        "url": "https://droidsheep.info"
+                  },
+                  {
+                        "name": "DroidSniff (B)",
+                        "url": "https://github.com/evozi/DroidSniff"
+                  },
+                  {
+                        "name": "FaceNiff",
+                        "url": "http://faceniff.ponury.net"
+                  }
+               ],
+               "name": "Tools for Mobile Phones"
+            },
+            {
+               "children": [
+                  {
+                        "name": "AlientVault USM",
+                        "url": "https://www.alienvault.com"
+                  },
+                  {
+                        "name": "Wireshark",
+                        "url": "https://www.wireshark.org"
+                  },
+                  {
+                        "name": "Check Point IPS Software Blade (A)",
+                        "url": "https://www.checkpoint.com"
+                  },
+                  {
+                        "name": "LogRhythm",
+                        "url": "https://logrhythm.com"
+                  },
+                  {
+                        "name": "SolarWinds Log & Event Manager",
+                        "url": "https://www.solarwinds.com"
+                  },
+                  {
+                        "name": "IBM Security Network Intrusion Prevention System",
+                        "url": "https://www.ibm.com"
+                  }
+               ],
+               "name": "Detection Tools"
+            },
+            {
+               "children": [
+                  {
+                        "name": "CxSAST",
+                        "url": "https://www.checkmarx.com"
+                  },
+                  {
+                        "name": "Fiddler",
+                        "url": "https://www.telerik.com"
+                  },
+                  {
+                        "name": "Nessus",
+                        "url": "https://www.tenable.com"
+                  },
+                  {
+                        "name": "Netsparker",
+                        "url": "https://www.netsparker.com"
+                  },
+                  {
+                        "name": "Wapiti",
+                        "url": "http://wapiti.sourceforge.net"
+                  },
+                  {
+                        "name": "WebWatchBot",
+                        "url": "https://www.exclamationsoft.com"
+                  }
+               ],
+               "name": "Prevention Tools"
+            }
+         ],
+         "name": "Session Hijacking"
+      },
+      {
+         "children": [
+            {
+               "children": [
+                  {
+                        "name": "Snort",
+                        "url": "https://www.snort.org"
+                  },
+                  {
+                        "name": "Suricata",
+                        "url": "https://suricata-ids.org"
+                  },
+                  {
+                        "name": "AlienVault® OSSIM",
+                        "url": "https://www.alienvault.com"
+                  },
+                  {
+                        "name": "SolarWinds Security Event Manager",
+                        "url": "https://www.solarwinds.com"
+                  },
+                  {
+                        "name": "OSSEC",
+                        "url": "https://www.ossec.net"
+                  },
+                  {
+                        "name": "BroIDS/Zeek IDS",
+                        "url": "https://www.zeek.org"
+                  },
+                  {
+                     "children": [
+                        {
+                              "name": "zIPS",
+                              "url": "https://www.zimperium.com"
+                        },
+                        {
+                              "name": "Wifi Inspector",
+                              "url": "https://play.google.com/store/apps/details?id=lksystems.wifiintruder&hl=en_IN&gl=US"
+                        },
+                        {
+                              "name": "Wifi Intruder Detect",
+                              "url": "https://wifi-intruder-detect.en.aptoide.com"
+                        }
+                     ],
+                     "name": "Tools for Mobile Devices"
+                  }
+               ],
+               "name": "Intrusion Detection Tools"
+            },
+            {
+               "children": [
+                  {
+                        "name": "AlienVault® Unified Security Management® (USM)",
+                        "url": "https://www.alienvault.com"
+                  },
+                  {
+                        "name": "IBM Security Network Intrusion Prevention System",
+                        "url": "https://www.ibm.com"
+                  },
+                  {
+                        "name": "Cyberoam Intrusion Prevention System",
+                        "url": "https://www.cyberoam.com"
+                  },
+                  {
+                        "name": "McAfee Host Intrusion Prevention for Desktops",
+                        "url": "https://www.mcafee.com"
+                  },
+                  {
+                        "name": "Cisco Intrusion Prevention Systems",
+                        "url": "https://www.cisco.com"
+                  },
+                  {
+                        "name": "Check Point IPS Software Blade",
+                        "url": "https://www.checkpoint.com"
+                  }
+               ],
+               "name": "Intrusion Prevention Tools"
+            },
+            {
+               "children": [
+                  {
+                        "name": "ZoneAlarm Free Firewall 2019",
+                        "url": "https://www.zonealarm.com"
+                  },
+                  {
+                        "name": "ManageEngine Firewall Analyzer",
+                        "url": "https://www.manageengine.com"
+                  },
+                  {
+                        "name": "pfSense",
+                        "url": "https://www.pfsense.org"
+                  },
+                  {
+                        "name": "Sophos XG Firewall",
+                        "url": "https://www.sophos.com"
+                  },
+                  {
+                        "name": "Comodo Firewall",
+                        "url": "https://personalfirewall.comodo.com"
+                  },
+                  {
+                        "name": "Palo Alto Network Wildfire",
+                        "url": "https://www.paloaltonetworks.com"
+                  },
+                  {
+                     "children": [
+                        {
+                              "name": "Mobiwol: NoRoot Firewall",
+                              "url": "http://www.mobiwol.com"
+                        },
+                        {
+                              "name": "Mobile Privacy Shield",
+                              "url": "https://shieldapps.com"
+                        },
+                        {
+                              "name": "NetPatch Firewall",
+                              "url": "https://firewall.netpatch.co"
+                        }
+                     ],
+                     "name": "TFirewalls for Mobile Devices"
+                  }
+               ],
+               "name": "Firewall Solutions"
+            },
+            {
+               "children": [
+                  {
+                        "name": "KFSensor",
+                        "url": "http://www.keyfocus.net"
+                  },
+                  {
+                        "name": "SPECTER",
+                        "url": "http://www.specter.com"
+                  },
+                  {
+                        "name": "HoneyBOT",
+                        "url": "https://www.atomicsoftwaresolutions.com"
+                  },
+                  {
+                        "name": "MongoDB-HoneyProxy (B)",
+                        "url": "https://github.com/Plazmaz/MongoDB-HoneyProxy"
+                  },
+                  {
+                        "name": "Modern Honey Network (B)",
+                        "url": "https://github.com/pwnlandia/mhn"
+                  },
+                  {
+                        "name": "Honeyd",
+                        "url": "http://www.honeyd.org"
+                  }
+               ],
+               "name": "Honeypot Tools"
+            },
+            {
+               "children": [
+                  {
+                        "name": "Anonymizer",
+                        "url": "https://www.anonymizer.com"
+                  },
+                  {
+                        "name": "https://www.free-proxy.com",
+                        "url": "https://www.free-proxy.com"
+                  },
+                  {
+                        "name": "https://anonymous-proxy-servers.net",
+                        "url": "https://anonymous-proxy-servers.net"
+                  },
+                  {
+                        "name": "https://zendproxy.com",
+                        "url": "https://zendproxy.com"
+                  },
+                  {
+                        "name": "https://proxify.com",
+                        "url": "https://proxify.com"
+                  },
+                  {
+                        "name": "http://www.guardster.com",
+                        "url": "hhttp://www.guardster.com"
+                  },
+                  {
+                        "name": "http://anonymouse.org",
+                        "url": "http://anonymouse.org"
+                  },
+                  {
+                        "name": "https://www.boomproxy.com",
+                        "url": "https://www.boomproxy.com"
+                  },
+                  {
+                        "name": "http://ww7.anype.com",
+                        "url": "http://ww7.anype.com"
+                  },
+                  {
+                        "name": "https://www.spysurfing.com",
+                        "url": "https://www.spysurfing.com"
+                  }
+               ],
+               "name": "Bypass Blocked Sites Using Anonymous Website Surfing Sites"
+            },
+            {
+               "children": [
+                  {
+                        "name": "Super Network Tunnel",
+                        "url": "http://www.networktunnel.net"
+                  },
+                  {
+                        "name": "HTTPort and HTTHost",
+                        "url": "https://www.targeted.org"
+                  },
+                  {
+                        "name": "Tunna (B)",
+                        "url": "https://github.com/SECFORCE/Tunna"
+                  },
+                  {
+                        "name": "HTTP Tunnel",
+                        "url": "http://http-tunnel.sourceforge.net"
+                  }
+               ],
+               "name": "HTTP Tunneling Tools"
+            },
+            {
+               "children": [
+                  {
+                        "name": "Bitvise",
+                        "url": "https://www.bitvise.com"
+                  },
+                  {
+                        "name": "Secure Pipes",
+                        "url": "https://www.opoet.com"
+                  }
+               ],
+               "name": "SSH Tunneling Tools"
+            },
+            {
+               "children": [
+                  {
+                        "name": "Traffic IQ Professional",
+                        "url": "https://www.idappcom.com"
+                  },
+                  {
+                        "name": "Nmap",
+                        "url": "https://nmap.org"
+                  },
+                  {
+                        "name": "Metasploit",
+                        "url": "https://www.metasploit.com"
+                  },
+                  {
+                        "name": "Inundator",
+                        "url": "https://sourceforge.net/projects/inundator/"
+                  },
+                  {
+                        "name": "IDS-Evasion (B)",
+                        "url": "https://github.com/ahm3dhany/IDS-Evasion"
+                  },
+                  {
+                        "name": "Hyperion-2.0",
+                        "url": "http://nullsecurity.net"
+                  } 
+               ],
+               "name": "IDS/Firewall Evading Tools"
+            },
+            {
+               "children": [
+                  {
+                        "name": "Colasoft Packet Builder",
+                        "url": "https://www.colasoft.com "
+                  },
+                  {
+                        "name": "CommView",
+                        "url": "https://www.tamos.com"
+                  },
+                  {
+                        "name": "NetScanTools Pro",
+                        "url": "https://www.netscantools.com"
+                  },
+                  {
+                        "name": "Ostinato",
+                        "url": "https://ostinato.org"
+                  },
+                  {
+                        "name": "WAN Killer",
+                        "url": "https://www.solarwinds.com"
+                  },
+                  {
+                        "name": "WireEdit",
+                        "url": "https://wireedit.com"
+                  } 
+               ],
+               "name": "Packet Fragment Generator Tools"
+            },
+            {
+               "children": [
+                  {
+                        "name": "Send-Safe Honeypot Hunter",
+                        "url": "http://www.send-safe.com"
+                  },
+                  {
+                        "name": "kippo_detect (B)",
+                        "url": "https://github.com/andrew-morris/kippo_detect"
+                  }
+               ],
+               "name": "Honeypot Detection Tools"
+            }
+         ],
+         "name": "Evading IDS, Firewalls, and Honeypots"
+      },
+      {
+         "children": [
+            {
+               "children": [
+                  {
+                        "name": "WHOis",
+                        "url": "https://www.whois.net"
+                  },
+                  {
+                        "name": "Whois Lookup",
+                        "url": "https://whois.domaintools.com"
+                  },
+                  {
+                        "name": "Whois",
+                        "url": "https://www.whois.com"
+                  },
+                  {
+                        "name": "DNSstuff WHOIS/IPWHOIS Lookup",
+                        "url": "https://tools.dnsstuff.com"
+                  },
+                  {
+                        "name": "Domain Dossier",
+                        "url": "https://centralops.net"
+                  },
+                  {
+                        "name": "Find Subdomains",
+                        "url": "https://pentest-tools.com"
+                  },
+                  {
+                        "name": "Robots.txt File",
+                        "url": ""
+                  }
+               ],
+               "name": "Information Gathering"
+            },
+            {
+               "children": [
+                  {
+                        "name": "Netcraft",
+                        "url": "https://www.netcraft.com"
+                  },
+                  {
+                        "name": "Netcat",
+                        "url": "http://netcat.sourceforge.net"
+                  },
+                  {
+                        "name": "Telnet",
+                        "url": "https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/telnet"
+                  },
+                  {
+                        "name": "httprecon",
+                        "url": "https://www.computec.ch"
+                  },
+                  {
+                        "name": "ID Serve",
+                        "url": "https://www.grc.com"
+                  },
+                  {
+                        "name": "Recon-ng (B)",
+                        "url": "https://github.com/lanmaster53/recon-ng"
+                  },
+                  {
+                        "name": "Uniscan",
+                        "url": "https://sourceforge.net"
+                  },
+                  {
+                        "name": "Nmap",
+                        "url": "https://nmap.org"
+                  },
+                  {
+                        "name": "Ghost Eye (B)",
+                        "url": "https://github.com/BullsEye0/ghost_eye"
+                  },
+                  {
+                        "name": "Skipfish",
+                        "url": "https://code.google.com/archive/p/skipfish/"
+                  }
+               ],
+               "name": "Web Server Footprinting Tools"
+            },
+            {
+               "children": [
+                  {
+                        "name": "NCollector Studio",
+                        "url": "http://www.calluna-software.com"
+                  },
+                  {
+                        "name": "HTTrack Web Site Copier",
+                        "url": "https://www.httrack.com"
+                  },
+                  {
+                        "name": "WebCopier Pro",
+                        "url": "http://www.maximumsoft.com"
+                  },
+                  {
+                        "name": "Website Ripper Copier",
+                        "url": "https://www.tensons.com"
+                  },
+                  {
+                        "name": "WebRipper",
+                        "url": "http://visualwebripper.com"
+                  },
+                  {
+                        "name": "Cyotek WebCopy",
+                        "url": "https://www.cyotek.com"
+                  }
+               ],
+               "name": "Website Mirroring Tools"
+            },
+            {
+               "children": [
+                  {
+                        "name": "cirt.net",
+                        "url": "https://cirt.net/passwords"
+                  },
+                  {
+                        "name": "open-sez",
+                        "url": "http://open-sez.me"
+                  },
+                  {
+                        "name": "fortypoundhead",
+                        "url": "https://www.fortypoundhead.com"
+                  },
+                  {
+                        "name": "defaultpassword",
+                        "url": "http://www.defaultpassword.us "
+                  },
+                  {
+                        "name": "default-password",
+                        "url": "https://default-password.info"
+                  },
+                  {
+                        "name": "routerpasswords",
+                        "url": "https://www.routerpasswords.com"
+                  }
+               ],
+               "name": "Finding Default Credentials of Web Server"
+            },
+            {
+               "children": [
+                  {
+                        "name": "Nikto2",
+                        "url": "https://cirt.net/Nikto2"
+                  }
+               ],
+               "name": "Finding Default Content of Web Server"
+            },
+            {
+               "children": [
+                  {
+                        "name": "",
+                        "url": ""
+                  }
+               ],
+               "name": "Directory Fuzzing of Web Server"
+            },
+            {
+               "children": [
+                  {
+                        "name": "Acunetix",
+                        "url": "https://www.acunetix.com"
+                  },
+                  {
+                        "name": "Fortify WebInspect",
+                        "url": "https://www.microfocus.com"
+                  },
+                  {
+                        "name": "Tenable.io",
+                        "url": "https://www.tenable.com"
+                  },
+                  {
+                        "name": "ImmuniWeb",
+                        "url": "https://www.immuniweb.com"
+                  },
+                  {
+                        "name": "Netsparker",
+                        "url": "https://www.netsparker.com"
+                  }
+               ],
+               "name": "Vulnerability Scanning"
+            },
+            {
+               "children": [
+                  {
+                        "name": "Burp Suite",
+                        "url": "https://portswigger.net"
+                  },
+                  {
+                        "name": "JHijack",
+                        "url": "https://sourceforge.net"
+                  },
+                  {
+                        "name": "Ettercap",
+                        "url": "https://ettercap.github.io"
+                  },
+                  {
+                        "name": "CookieCatcher (B)",
+                        "url": "https://github.com/DisK0nn3cT/CookieCatcher"
+                  },
+                  {
+                        "name": "Cookie Cadger (B)",
+                        "url": "https://github.com/CookieCadger/CookieCadger"
+                  }
+               ],
+               "name": "Session Hijacking"
+            },
+            {
+               "children": [
+                  {
+                        "name": "Hashcat",
+                        "url": "https://hashcat.net"
+                  },
+                  {
+                        "name": "THC Hydra (B)",
+                        "url": "https://github.com/vanhauser-thc/thc-hydra"
+                  },
+                  {
+                        "name": "Ncrack",
+                        "url": "https://nmap.org"
+                  },
+                  {
+                        "name": "Rainbow crack",
+                        "url": "http://project-rainbowcrack.com"
+                  },
+                  {
+                        "name": "Wfuzz",
+                        "url": "http://www.edge-security.com"
+                  }
+               ],
+               "name": "Web Server Password Hacking"
+            },
+            {
+               "children": [
+                  {
+                        "name": "Immunity’s CANVAS",
+                        "url": "https://www.immunityinc.com"
+                  },
+                  {
+                        "name": "THC Hydra (B)",
+                        "url": "https://github.com/vanhauser-thc/thc-hydra"
+                  },
+                  {
+                        "name": "HULK DoS (B)",
+                        "url": "https://github.com/grafov/hulk"
+                  },
+                  {
+                        "name": "MPack",
+                        "url": "https://sourceforge.net"
+                  },
+                  {
+                        "name": "w3af",
+                        "url": "http://w3af.org"
+                  }
+               ],
+               "name": "Web Server Attack Tools"
+            },
+            {
+               "children": [
+                  {
+                        "name": "GFI LanGuard",
+                        "url": "https://www.gfi.com"
+                  },
+                  {
+                        "name": "Symantec Client Management Suite",
+                        "url": "https://www.symantec.com"
+                  },
+                  {
+                        "name": "Solarwinds Patch Manager",
+                        "url": "https://www.solarwinds.com"
+                  },
+                  {
+                        "name": "Kaseya Patch Management",
+                        "url": "https://www.kaseya.com"
+                  },
+                  {
+                        "name": "Software Vulnerability Manager",
+                        "url": "https://www.flexerasoftware.com"
+                  },
+                  {
+                        "name": "Ivanti Patch for Endpoint Manager",
+                        "url": "https://www.ivanti.com"
+                  }
+               ],
+               "name": "Patch Management Tools"
+            },
+            {
+               "children": [
+                  {
+                        "name": "Syhunt Hybrid",
+                        "url": "http://www.syhunt.com"
+                  },
+                  {
+                        "name": "N-Stalker X",
+                        "url": "https://www.nstalker.com"
+                  },
+                  {
+                        "name": "Netsparker",
+                        "url": "https://www.netsparker.com"
+                  },
+                  {
+                        "name": "Burp Suite",
+                        "url": "https://www.portswigger.net"
+                  },
+                  {
+                        "name": "Wapiti",
+                        "url": "http://wapiti.sourceforge.net"
+                  },
+                  {
+                        "name": "WebScarab",
+                        "url": "https://wiki.owasp.org/index.php/Category:OWASP_WebScarab_Project"
+                  },
+                  {
+                        "name": "WPSec",
+                        "url": "https://wpsec.com"
+                  },
+                  {
+                        "name": "Tinfoil Security",
+                        "url": "https://www.tinfoilsecurity.com"
+                  },
+                  {
+                        "name": "Skipfish",
+                        "url": "https://code.google.com"
+                  },
+                  {
+                        "name": "Detectify",
+                        "url": "https://detectify.com"
+                  },
+                  {
+                        "name": "Fortify on Demand",
+                        "url": "https://www.microfocus.com"
+                  },
+                  {
+                        "name": "OWASP Zed Attack Proxy (ZAP)",
+                        "url": "https://www.zaproxy.org"
+                  },
+                  {
+                        "name": "SonarQube",
+                        "url": "https://www.sonarqube.org"
+                  },
+                  {
+                        "name": "Arachni",
+                        "url": "https://www.arachni-scanner.com"
+                  },
+                  {
+                        "name": "w3af",
+                        "url": "http://w3af.org"
+                  },
+                  {
+                        "name": "Grabber",
+                        "url": "http://rgaucher.info/beta/grabber"
+                  },
+                  {
+                        "name": "Vega",
+                        "url": "https://subgraph.com"
+                  }
+               ],
+               "name": "Web Application Security Scanners"
+            },
+            {
+               "children": [
+                  {
+                        "name": "ScanMyServer",
+                        "url": "https://www.scanmyserver.com"
+                  },
+                  {
+                        "name": "Qualys Community Edition",
+                        "url": "https://www.qualys.com"
+                  },
+                  {
+                        "name": "Observatory",
+                        "url": "https://observatory.mozilla.org"
+                  },
+                  {
+                        "name": "WordPress Security Scan",
+                        "url": "https://hackertarget.com"
+                  },
+                  {
+                        "name": "Web Vulnerability Scanner",
+                        "url": "https://pentest-tools.com"
+                  },
+                  {
+                        "name": "Nikto2",
+                        "url": "https://cirt.net/Nikto2"
+                  }
+               ],
+               "name": "Web Server Security Scanners"
+            },
+            {
+               "children": [
+                  {
+                        "name": "QualysGuard Malware Detection",
+                        "url": "https://www.qualys.com"
+                  },
+                  {
+                        "name": "Sucuri SiteCheck",
+                        "url": "https://sucuri.net"
+                  },
+                  {
+                        "name": "SiteLock SMART",
+                        "url": "https://www.sitelock.com"
+                  },
+                  {
+                        "name": "Quttera",
+                        "url": "https://www.quttera.com"
+                  },
+                  {
+                        "name": "Web Inspector",
+                        "url": "https://www.webinspector.com"
+                  },
+                  {
+                        "name": "SiteGuarding",
+                        "url": "https://www.siteguarding.com"
+                  }
+               ],
+               "name": "Web Server Malware Infection Monitoring Tools"
+            },
+            {
+               "children": [
+                  {
+                        "name": "Fortify WebInspect",
+                        "url": "https://www.microfocus.com"
+                  },
+                  {
+                        "name": "Acunetix Web Vulnerability Scanner",
+                        "url": "https://www.acunetix.com"
+                  },
+                  {
+                        "name": "Retina Host Security Scanner",
+                        "url": "https://www.beyondtrust.com"
+                  },
+                  {
+                        "name": "NetIQ Secure Configuration Manager",
+                        "url": "https://www.netiq.com"
+                  },
+                  {
+                        "name": "SAINT Security Suite",
+                        "url": "https://www.carson-saint.com"
+                  },
+                  {
+                        "name": "Sophos Intercept X for Server",
+                        "url": "https://www.sophos.com"
+                  }
+               ],
+               "name": "Web Server Security Tools"
+            },
+            {
+               "children": [
+                  {
+                        "name": "CORE Impact",
+                        "url": "https://www.coresecurity.com"
+                  },
+                  {
+                        "name": "Immunity CANVAS",
+                        "url": "https://www.immunityinc.com"
+                  },
+                  {
+                        "name": "Arachni",
+                        "url": "https://www.arachni-scanner.com"
+                  },
+                  {
+                        "name": "WebSurgery",
+                        "url": "http://sunrisetech.gr"
+                  }
+               ],
+               "name": "Web Server Pen Testing Tools"
+            }
+         ],
+         "name": "Hacking Web Servers"
+      },
+      {
+         "children": [
+            {
+               "children": [
+                  {
+                        "name": "OWASP Top Ten",
+                        "url": "https://owasp.org/www-project-top-ten/"
+                  },
+                  {
+                        "name": "Portswigger Labs",
+                        "url": "https://portswigger.net/web-security"
+                  }
+               ],
+               "name": "OWASP Top 10 Application Security Risks"
+            },
+            {
+               "children": [
+                  {
+                     "children": [
+                        {
+                           "children": [
+                              {
+                                    "name": "Netcraft",
+                                    "url": "https://www.netcraft.com"
+                              },
+                              {
+                                    "name": "WHOIS Lookup",
+                                    "url": "http://whois.domaintools.com"
+                              },
+                              {
+                                    "name": "SmartWhois",
+                                    "url": "https://www.tamos.com"
+                              },
+                              {
+                                    "name": "Batch IP Converter",
+                                    "url": "http://www.sabsoft.com"
+                              }
+                           ],
+                           "name": "Whois Lookup"
+                        },
+                        {
+                           "children": [
+                              {
+                                    "name": "Professional Toolset",
+                                    "url": "https://tools.dnsstuff.com"
+                              },
+                              {
+                                    "name": "DNS Records",
+                                    "url": "https://network-tools.com"
+                              },
+                              {
+                                    "name": "DNSRecon (B)",
+                                    "url": "https://github.com/darkoperator/dnsrecon"
+                              },
+                              {
+                                    "name": "Domain Dossier",
+                                    "url": "https://centralops.net"
+                              }
+                           ],
+                           "name": "DNS Interrogation"
+                        },
+                        {
+                           "children": [
+                              {
+                                    "name": "Nmap",
+                                    "url": "https://nmap.org"
+                              },
+                              {
+                                    "name": "NetScanTools Pro",
+                                    "url": "https://www.netscantools.com"
+                              },
+                              {
+                                    "name": "Advanced Port Scanner",
+                                    "url": "https://www.advanced-port-scanner.com"
+                              },
+                              {
+                                    "name": "Hping",
+                                    "url": "http://www.hping.org"
+                              }
+                           ],
+                           "name": "Port Scanning"
+                        }
+                     ],
+                     "name": "Server Discovery"
+                  },
+                  {
+                     "children": [
+                        {
+                           "name": "Nmap",
+                           "url": "https://nmap.org"
+                        },
+                        {
+                           "name": "NetScanTools Pro",
+                           "url": "https://www.netscantools.com"
+                        },
+                        {
+                           "name": "Sandcat Browser",
+                           "url": "http://www.syhunt.com"
+                        }
+                     ],
+                     "name": "Service Discovery"
+                  },
+                  {
+                     "children": [
+                        {
+                           "name": "telnet",
+                           "url": ""
+                        },
+                        {
+                           "name": "OpenSSL",
+                           "url": "https://www.openssl.org"
+                        },
+                        {
+                           "name": "Netcat",
+                           "url": "http://netcat.sourceforge.net"
+                        },
+                        {
+                           "name": "ID Serve",
+                           "url": "https://www.grc.com"
+                        },
+                        {
+                           "name": "Netcraft",
+                           "url": "https://www.netcraft.com"
+                        }
+                     ],
+                     "name": "Server Identification/Banner Grabbing"
+                  },
+                  {
+                     "children": [
+                        {
+                              "name": "WAFW00F (B)",
+                              "url": "https://github.com/EnableSecurity/wafw00f"
+                        },
+                        {
+                              "name": "SHIELDFY Web Application Firewall Detector",
+                              "url": "https://shieldfy.io"
+                        },
+                        {
+                              "name": "WhatWaf (B)",
+                              "url": "https://github.com/Ekultek/WhatWaf"
+                        },
+                        {
+                              "name": "Nmap",
+                              "url": "https://nmap.org"
+                        }
+                     ],
+                     "name": "Detecting Web App Firewalls and Proxies"
+                  },
+                  {
+                     "children": [
+                        {
+                              "name": "OWASP Zed Attack Proxy",
+                                    "url": "https://www.zaproxy.org/"
+                        },
+                        {
+                              "name": "Burp Suite",
+                              "url": "https://portswigger.net"
+                        },
+                        {
+                              "name": "WebScarab",
+                              "url": "https://www.owasp.org"
+                        },
+                        {
+                              "name": "Mozenda Web Agent Builder",
+                              "url": "https://www.mozenda.com"
+                        },
+                        {
+                              "name": "Octoparse",
+                              "url": "https://www.octoparse.com"
+                        },
+                        {
+                              "name": "Giant Web Crawl",
+                              "url": "http://80legs.com"
+                        }
+                     ],
+                     "name": "Hidden Content Discovery"
+                  },
+                  {
+                     "children": [
+                        {
+                              "name": "host command",
+                                    "url": ""
+                        },
+                        {
+                              "name": "dig command",
+                              "url": ""
+                        },
+                        {
+                              "name": "load balancing detector (B)",
+                              "url": "https://github.com/jmbr/halberd"
+                        },
+                        {
+                              "name": "Halberd  (B)",
+                              "url": "https://github.com/jmbr/halberd"
+                        }
+                     ],
+                     "name": "Detect Load Balancers"
+                  }
+               ],
+               "name": "Footprint Web Infrastructure"
+            },
+            {
+               "children": [
+                  {
+                     "children": [
+                        {
+                           "name": "Burp Suite",
+                           "url": "https://portswigger.net"
+                        },
+                        {
+                           "name": "WebScarab",
+                           "url": "https://www.owasp.org"
+                        },
+                        {
+                              "name": "OWASP Zed Attack Proxy",
+                              "url": "https://www.zaproxy.org/"
+                        },
+                        {
+                              "name": "httprint",
+                              "url": "https://www.net-square.com/"
+                        }
+                     ],
+                     "name": "Identify Entry Points for User Input"
+                  },
+                  {
+                     "children": [
+                        {
+                           "name": "httprint",
+                           "url": "https://www.net-square.com"
+                        },
+                        {
+                           "name": "WhatWeb (B)",
+                           "url": "https://github.com/urbanadventurer/WhatWeb"
+                        }
+                     ],
+                     "name": "Identify Server-Side Technologies"
+                  },
+                  {
+                     "children": [
+                        {
+                           "name": "GNU Wget",
+                           "url": "https://www.gnu.org"
+                        },
+                        {
+                           "name": "BlackWidow",
+                           "url": "http://softbytelabs.com"
+                        },
+                        {
+                           "name": "Teleport Pro",
+                           "url": "http://www.tenmax.com"
+                        }
+                     ],
+                     "name": "Identify Server-Side Functionality"
+                  },
+                  {
+                     "children": [
+                        {
+                           "name": "Gobuster (B)",
+                           "url": "https://github.com/OJ/gobuster"
+                        },
+                        {
+                           "name": "wfuzz (B)",
+                           "url": "https://github.com/xmendez/wfuzz"
+                        },
+                        {
+                           "name": "dirsearch (B)",
+                           "url": "https://github.com/maurosoria/dirsearch"
+                        },
+                        {
+                           "name": "ffuf (B)",
+                           "url": "https://github.com/ffuf/ffuf"
+                        }
+                     ],
+                     "name": "Identify Files and Directories"
+                  },
+                  {
+                     "children": [
+                        {
+                           "name": "Vega",
+                           "url": "https://www.subgraph.com"
+                        },
+                        {
+                           "name": "WPScan Vulnerability Database",
+                           "url": "https://wpvulndb.com"
+                        },
+                        {
+                           "name": "Arachni",
+                           "url": "https://www.arachni-scanner.com"
+                        },
+                        {
+                           "name": "appspider",
+                           "url": "https://www.rapid7.com"
+                        },
+                        {
+                           "name": "Uniscan",
+                           "url": "https://sourceforge.net"
+                        }
+                     ],
+                     "name": "Identify Web Application Vulnerabilities"
+                  }
+               ],
+               "name": "Analyze Web Applications"
+            },
+            {
+               "children": [
+                  {
+                     "children": [
+                        {
+                           "name": "THC-Hydra",
+                           "url": "https://www.thc.org"
+                        },
+                        {
+                           "name": "Burp Suite",
+                           "url": "https://portswigger.net"
+                        },
+                        {
+                           "name": "L0phtCrack",
+                           "url": "https://www.l0phtcrack.com"
+                        },
+                        {
+                           "name": "ophcrack",
+                           "url": "http://ophcrack.sourceforge.net"
+                        },
+                        {
+                           "name": "RainbowCrack",
+                           "url": "http://project-rainbowcrack.com"
+                        },
+                        {
+                           "name": "Windows Password Recovery Tool",
+                           "url": "https://www.windowspasswordsrecovery.com"
+                        },
+                        {
+                           "name": "Dictionary Maker",
+                           "url": "http://dictionarymaker.sourceforge.net"
+                        }
+                     ],
+                     "name": "Password Attacks And Cracking"
+                  },
+                  {
+                     "children": [
+                        {
+                           "name": "OWASP Zed Attack Proxy",
+                           "url": "https://www.zaproxy.org/"
+                        },
+                        {
+                           "name": "Burp Suite",
+                           "url": "https://portswigger.net"
+                        },
+                        {
+                           "name": "L0phtCrack",
+                           "url": "https://www.l0phtcrack.com"
+                        },
+                        {
+                           "name": "XSSer",
+                           "url": "https://xsser.03c8.net"
+                        }
+                     ],
+                     "name": "Cookie Exploitation Tools"
+                  }
+               ],
+               "name": "Attack Authentication Mechanism"
+            },
+            {
+               "children": [
+                  {
+                        "name": "WS-Attacker (B)",
+                        "url": "https://github.com/RUB-NDS/WS-Attacker"
+                  },
+                  {
+                        "name": "SoapUI Pro",
+                        "url": "https://www.soapui.org"
+                  },
+                  {
+                        "name": "XMLSpy",
+                        "url": "https://www.altova.com"
+                  }
+               ],
+               "name": "Attack Web Services"
+            },
+            {
+               "children": [
+                  {
+                        "name": "Metasploit",
+                        "url": "https://www.metasploit.com"
+                  },
+                  {
+                        "name": "w3af",
+                        "url": "http://w3af.org"
+                  },
+                  {
+                        "name": "Nikto",
+                        "url": "https://cirt.net"
+                  },
+                  {
+                        "name": "Sn1per (B)",
+                        "url": "https://github.com/1N3/Sn1per"
+                  },
+                  {
+                        "name": "WSSiP (B)",
+                        "url": "https://github.com/nccgroup/wssip"
+                  },
+                  {
+                        "name": "X Attacker (B)",
+                        "url": "https://github.com/Moham3dRiahi/XAttacker"
+                  },
+                  {
+                        "name": "timing_attack (B)",
+                        "url": "https://github.com/ffleming/timing_attack"
+                  },
+                  {
+                        "name": "HTTrack",
+                        "url": "http://www.httrack.com"
+                  },
+                  {
+                        "name": "SQL Injection Scanner",
+                        "url": "https://pentest-tools.com"
+                  },
+                  {
+                        "name": "XSS Scanner",
+                        "url": "https://pentest-tools.com"
+                  },
+                  {
+                        "name": "SQLi Exploiter",
+                        "url": "https://pentest-tools.com"
+                  },
+                  {
+                        "name": "HTTP Request Logger",
+                        "url": "https://pentest-tools.com"
+                  },
+                  {
+                        "name": "WebCopier",
+                        "url": "http://www.maximumsoft.com"
+                  },
+                  {
+                        "name": "WPScan",
+                        "url": "https://wpscan.org"
+                  },
+                  {
+                        "name": "Instant Source",
+                        "url": "https://www.blazingtools.com"
+                  }
+               ],
+               "name": "Web Application Hacking Tools"
+            },
+            {
+               "children": [
+                  {
+                        "name": "Astra (B)",
+                        "url": "https://github.com/flipkart-incubator/Astra"
+                  },
+                  {
+                        "name": "Fuzzapi (B)",
+                        "url": "https://github.com/Fuzzapi/fuzzapi"
+                  },
+                  {
+                        "name": "w3af",
+                        "url": "http://docs.w3af.org"
+                  },
+                  {
+                        "name": "appspider",
+                        "url": "https://www.rapid7.com"
+                  },
+                  {
+                        "name": "Vooki",
+                        "url": "https://www.vegabird.com"
+                  },
+                  {
+                        "name": "OWASP ZAP",
+                        "url": "https://www.owasp.org"
+                  }
+               ],
+               "name": "REST API Vulnerability Scanning"
+            },
+            {
+               "children": [
+                  {
+                        "name": "WSO Php Webshell (B)",
+                        "url": "https://github.com/mIcHyAmRaNe/wso-webshell"
+                  },
+                  {
+                        "name": "b374k (B)",
+                        "url": "https://github.com/b374k/b374k"
+                  },
+                  {
+                        "name": "C99 (B)",
+                        "url": "https://github.com/4Hackerz/C99-Shell"
+                  },
+                  {
+                        "name": "China Chopper",
+                        "url": "https://www.fireeye.com"
+                  },
+                  {
+                        "name": "R57 (B)",
+                        "url": "https://github.com/r57shell/r57-shell"
+                  },
+                  {
+                        "name": "Pouya ASP Web Shell (B)",
+                        "url": "https://github.com/futex/Malwares-code/blob/master/ASP/pouya-ASP-WEBSHELL.asp"
+                  }
+               ],
+               "name": "Web Shell Tools"
+            },
+            {
+               "children": [
+                  {
+                        "name": "Weevely (B)",
+                        "url": "https://github.com/sunge/Weevely"
+                  },
+                  {
+                        "name": "Weevely3 (B)",
+                        "url": "https://github.com/epinna/weevely3"
+                  }
+               ],
+               "name": "Gaining Backdoor Access via Web Shell"
+            },
+            {
+               "children": [
+                  {
+                        "name": "Web Shell Detector",
+                        "url": "https://www.shelldetector.com"
+                  },
+                  {
+                        "name": "FireEye Network Security",
+                        "url": "https://www.fireeye.com"
+                  },
+                  {
+                        "name": "NeoPI (B)",
+                        "url": "https://github.com/CiscoCXSecurity/NeoPI"
+                  },
+                  {
+                        "name": "AntiShell Web Shell Hunter",
+                        "url": "http://antishell.com"
+                  },
+                  {
+                        "name": "Astra",
+                        "url": "https://www.getastra.com"
+                  }
+               ],
+               "name": "Web Shell Detection Tools"
+            },
+            {
+               "children": [
+                  {
+                        "name": "WSFuzzer",
+                        "url": "https://www.owasp.org"
+                  },
+                  {
+                        "name": "WebScarab",
+                        "url": "https://www.owasp.org"
+                  },
+                  {
+                        "name": "Burp Suite",
+                        "url": "https://portswigger.net"
+                  },
+                  {
+                        "name": "HCL AppScan® Standard",
+                        "url": "https://www.hcltech.com"
+                  },
+                  {
+                        "name": "Peach Fuzzer",
+                        "url": "https://www.peach.tech"
+                  }
+               ],
+               "name": "Web Application Fuzz Testing"
+            },
+            {
+               "children": [
+                  {
+                        "name": "AutoShun",
+                        "url": "https://www.autoshun.org"
+                  },
+                  {
+                        "name": "Cisco Umbrella",
+                        "url": "https://umbrella.cisco.com"
+                  },
+                  {
+                        "name": "Alexa Top Sites",
+                        "url": "https://aws.amazon.com"
+                  },
+                  {
+                        "name": "APT Groups and Operations",
+                        "url": "https://docs.google.com"
+                  },
+                  {
+                        "name": "NordVPN",
+                        "url": "https://nordvpn.com"
+                  }
+               ],
+               "name": "Application Whitelisting and Blacklisting Tools"
+            },
+            {
+               "children": [
+                  {
+                        "name": "Acunetix WVS",
+                        "url": "https://www.acunetix.com"
+                  },
+                  {
+                        "name": "N-Stalker Web App Security Scanner",
+                        "url": "https://www.nstalker.com"
+                  },
+                  {
+                        "name": "Browser Exploitation Framework (BeEF)",
+                        "url": "http://beefproject.com"
+                  },
+                  {
+                        "name": "Metasploit",
+                        "url": "https://www.metasploit.com"
+                  },
+                  {
+                        "name": "PowerSploit (B)",
+                        "url": "https://github.com/PowerShellMafia/PowerSploit"
+                  },
+                  {
+                        "name": "Watcher Web Security Tool",
+                        "url": "https://www.casaba.com"
+                  },
+                  {
+                        "name": "Netsparker",
+                        "url": "https://www.netsparker.com"
+                  },
+                  {
+                        "name": "Arachni",
+                        "url": "http://arachni-scanner.com"
+                  }
+               ],
+               "name": "Web Application Security Testing Tools"
+            },
+            {
+               "children": [
+                  {
+                        "name": "dotDefender",
+                        "url": "http://www.applicure.com"
+                  },
+                  {
+                        "name": "ServerDefender VP",
+                        "url": "https://www.port80software.com"
+                  },
+                  {
+                        "name": "HCL AppScan® Standard",
+                        "url": "https://www.hcltech.com"
+                  },
+                  {
+                        "name": "Radware’s AppWall",
+                        "url": "https://www.radware.com"
+                  },
+                  {
+                        "name": "Qualys WAF",
+                        "url": "https://www.qualys.com"
+                  },
+                  {
+                        "name": "Barracuda Web Application Firewall",
+                        "url": "https://www.barracuda.com"
+                  }
+               ],
+               "name": "Web Application Firewalls"
+            }
+         ],
+         "name": "Hacking Web Applications"
+      },
+      {
+         "children": [
+            {
+               "children": [
+                  {
+                        "name": "Tamper Chrome",
+                        "url": "https://chrome.google.com/webstore/detail/tamper-chrome-extension/hifhgpdkfodlpnlmlnmhchnkepplebkb?hl=en"
+                  },
+                  {
+                        "name": "Burp Suite",
+                        "url": "https://www.portswigger.net"
+                  }
+               ],
+               "name": "Identifying Data Entry Paths"
+            },
+            {
+               "children": [
+                  {
+                        "name": "sqlmap",
+                        "url": "http://sqlmap.org"
+                  },
+                  {
+                        "name": "Mole",
+                        "url": "https://sourceforge.net"
+                  },
+                  {
+                        "name": "Blisqy (B)",
+                        "url": "https://github.com/JohnTroony/Blisqy"
+                  },
+                  {
+                        "name": "blind-sql-bitshifting (B)",
+                        "url": "https://github.com/awnumar/blind-sql-bitshifting"
+                  },
+                  {
+                        "name": "bsql (B)",
+                        "url": "https://github.com/portcullislabs/bsql-hacker"
+                  },
+                  {
+                        "name": "NoSQLMap (B)",
+                        "url": "https://github.com/codingo/NoSQLMap"
+                  },
+                  {
+                        "name": "SQL Power Injector",
+                        "url": "http://www.sqlpowerinjector.com"
+                  },
+                  {
+                        "name": "Tyrant SQL",
+                        "url": "https://sourceforge.net"
+                  }
+               ],
+               "name": "SQL Injection Tools"
+            },
+            {
+               "children": [
+                  {
+                        "name": "SQLi",
+                        "url": "https://play.google.com/store/apps/details?id=hpandro.java.infosec.sqlinjection&hl=en_IN&gl=US"
+                  },
+                  {
+                        "name": "Droidbug SQLi Spyder",
+                        "url": "https://apkcombo.com/droidbug-sqli-spyder-pro/com.bugtraqapps.droidbugsqlispyderpro/"
+                  },
+                  {
+                        "name": "sqlmapchik",
+                        "url": "https://github.com/muodov/sqlmapchik"
+                  }
+               ],
+               "name": "Tools for Mobile Devices"
+            },
+            {
+               "children": [
+                  {
+                        "name": "OWASP ZAP",
+                        "url": "https://www.owasp.org"
+                  },
+                  {
+                        "name": "Damn Small SQLi Scanner (DSSS) (B)",
+                        "url": "https://github.com/stamparm/DSSS"
+                  },
+                  {
+                        "name": "Snort",
+                        "url": "https://snort.org"
+                  },
+                  {
+                        "name": "Burp Suite",
+                        "url": "https://www.portswigger.net"
+                  },
+                  {
+                        "name": "w3af",
+                        "url": "http://w3af.org"
+                  },
+                  {
+                        "name": "Netsparker Web Application Security Scanner",
+                        "url": "https://www.netsparker.com"
+                  },
+                  {
+                        "name": "SQL Invader",
+                        "url": "https://information.rapid7.com"
+                  },
+                  {
+                        "name": "N-Stalker Web Application Security Scanner",
+                        "url": "https://www.nstalker.com"
+                  },
+                  {
+                        "name": "Fortify WebInspect",
+                        "url": "https://www.microfocus.com"
+                  },
+                  {
+                        "name": "WSSA - Web Site Security Scanning Service",
+                        "url": "https://www.beyondsecurity.com"
+                  },
+                  {
+                        "name": "SolarWinds® Log & Event Manager",
+                        "url": "https://www.solarwinds.com"
+                  },
+                  {
+                        "name": "AlienVault USM",
+                        "url": "https://www.alienvault.com"
+                  },
+                  {
+                        "name": "dotDefender",
+                        "url": "http://www.applicure.com"
+                  },
+                  {
+                        "name": "Wapiti",
+                        "url": "http://wapiti.sourceforge.net"
+                  },
+                  {
+                        "name": "InsightAppSec",
+                        "url": "https://www.rapid7.com"
+                  },
+                  {
+                        "name": "VividCortex",
+                        "url": "https://www.vividcortex.com"
+                  },
+                  {
+                        "name": "Acunetix Web Vulnerability Scanner",
+                        "url": "https://www.acunetix.com"
+                  }
+               ],
+               "name": "SQL Injection Detection Tools"
+            }
+         ],
+         "name": "SQL Injection"
+      },
+      {
+         "children": [
+            {
+               "children": [
+                  {
+                        "name": "inSSIDer Plus",
+                        "url": "https://www.metageek.com/"
+                  },
+                  {
+                        "name": "NetSurveyor",
+                        "url": "http://nutsaboutnets.com"
+                  },
+                  {
+                        "name": "Wi-Fi Scanner",
+                        "url": "https://lizardsystems.com"
+                  },
+                  {
+                        "name": "Acrylic Wi-Fi Home",
+                        "url": "https://www.acrylicwifi.com"
+                  },
+                  {
+                        "name": "WirelessMon",
+                        "url": "https://www.passmark.com"
+                  },
+                  {
+                        "name": "Ekahau HeatMapper",
+                        "url": "https://www.ekahau.com"
+                  }
+               ],
+               "name": "Wi-Fi Discovery Tools"
+            },
+            {
+               "children": [
+                  {
+                        "name": "WiFi Analyzer",
+                        "url": "https://play.google.com/store/apps/details?id=com.farproc.wifi.analyzer&hl=en_IN&gl=US"
+                  },
+                  {
+                        "name": "OpenSignalMaps",
+                        "url": "https://opensignal.com"
+                  },
+                  {
+                        "name": "Network Signal Info Pro",
+                        "url": "http://www.kaibits-software.com"
+                  },
+                  {
+                        "name": "WiFi Manager",
+                        "url": "https://kmansoft.com"
+                  },
+                  {
+                        "name": "Network Signal Info & WiFi Refresher",
+                        "url": "https://play.google.com/store/apps/details?id=de.android.telnet&hl=en_IN&gl=US"
+                  }
+               ],
+               "name": "Mobile-based Wi-Fi Discovery Tools"
+            },
+            {
+               "children": [
+                  {
+                        "name": "WiGLE",
+                        "url": "https://wigle.net"
+                  },
+                  {
+                        "name": "Maptitude Mapping Software",
+                        "url": "https://www.caliper.com"
+                  },
+                  {
+                        "name": "Skyhook",
+                        "url": "https://www.skyhook.com"
+                  },
+                  {
+                        "name": "ExpertGPS",
+                        "url": "https://www.expertgps.com"
+                  },
+                  {
+                        "name": "GPS Visualizer",
+                        "url": "https://www.gpsvisualizer.com"
+                  },
+                  {
+                        "name": "Mapwel",
+                        "url": "https://www.mapwel.net"
+                  },
+                  {
+                        "name": "TrackMaker",
+                        "url": "https://www.trackmaker.com"
+                  }
+               ],
+               "name": "GPS Mapping Tools"
+            },
+            {
+               "children": [
+                  {
+                        "name": "Wi-Fi Finder",
+                        "url": "http://www.appsapk.com"
+                  },
+                  {
+                        "name": "Homedale::Wi-Fi/WLAN Monitor",
+                        "url": "http://www.the-sz.com"
+                  },
+                  {
+                        "name": "Fing - Network Tools",
+                        "url": "https://play.google.com/store/apps/details?id=com.overlook.android.fing&hl=en_IN&gl=US"
+                  },
+                  {
+                        "name": "WiFi Finder - Free WiFi Map",
+                        "url": "https://play.google.com/store/apps/details?id=org.speedspot.wififinder&hl=en_IN&gl=US"
+                  },
+                  {
+                        "name": "Find Wifi",
+                        "url": "https://play.google.com/store/apps/details?id=com.wefi.wefi&hl=en&gl=US"
+                  }
+               ],
+               "name": "Wi-Fi Hotspot Finder Tools"
+            },
+            {
+               "children": [
+                  {
+                        "name": "Aircrack-ng Suite",
+                        "url": "http://www.appsapk.com"
+                  }
+               ],
+               "name": "Wireless Attacking Tools"
+            },
+            {
+               "children": [
+                  {
+                        "name": "Wifiphisher",
+                        "url": "https://wifiphisher.org"
+                  },
+                  {
+                        "name": "Reaver (B)",
+                        "url": "https://github.com/t6x/reaver-wps-fork-t6x"
+                  },
+                  {
+                        "name": "Fern Wifi Cracker (B)",
+                        "url": "https://github.com/savio-code/fern-wifi-cracker"
+                  },
+                  {
+                        "name": "Elcomsoft Wireless Security Auditor",
+                        "url": "https://www.elcomsoft.com"
+                  },
+                  {
+                        "name": "Portable Penetrator",
+                        "url": "https://www.secpoint.com"
+                  },
+                  {
+                        "name": "WepCrackGui",
+                        "url": "https://sourceforge.net"
+                  },
+                  {
+                        "name": "Pyrit",
+                        "url": "https://github.com/JPaulMora/Pyrit"
+                  },
+                  {
+                        "name": "WepAttack",
+                        "url": "http://wepattack.sourceforge.net"
+                  },
+                  {
+                        "name": "coWPAtty",
+                        "url": "http://www.willhackforsushi.com"
+                  }
+               ],
+               "name": "Cracking WEP/WPA/WPA2 Tools"
+            },
+            {
+               "children": [
+                  {
+                        "name": "WIBR+ – WIfi BRuteforce",
+                        "url": "https://auradesign.cz"
+                  },
+                  {
+                        "name": "WIFI WPS WPA TESTER",
+                        "url": "https://play.google.com/store/apps/details?id=com.tester.wpswpatester&hl=en_IN&gl=US"
+                  },
+                  {
+                        "name": "WPS WPA WiFi Tester",
+                        "url": "https://play.google.com/store/apps/details?id=khiloui.WPSbrfree&hl=en_IN&gl=US"
+                  },
+                  {
+                        "name": "WiFi Hacker",
+                        "url": "https://play.google.com/store/apps/details?id=com.prime.studio.apps.wifi.password.hacker&hl=en&gl=US"
+                  }
+               ],
+               "name": "WEP/WPA/WPA2 Cracking Tools for Mobile"
+            },
+            {
+               "children": [
+                  {
+                        "name": "SteelCentral Packet Analyze",
+                        "url": "https://www.riverbed.com"
+                  },
+                  {
+                        "name": "Omnipeek Network Protocol Analyzer",
+                        "url": "https://www.liveaction.comS"
+                  },
+                  {
+                        "name": "CommView for Wi-Fi",
+                        "url": "https://www.tamos.com"
+                  },
+                  {
+                        "name": "Kismet",
+                        "url": "https://www.kismetwireless.net"
+                  }
+               ],
+               "name": "Wi-Fi Packet Sniffers"
+            },
+            {
+               "children": [
+                  {
+                        "name": "AirMagnet WiFi Analyzer PRO",
+                        "url": "https://www.netally.com"
+                  },
+                  {
+                        "name": "SteelCentral Packet Analyzer",
+                        "url": "https://www.riverbed.com"
+                  },
+                  {
+                        "name": "Omnipeek Network Protocol Analyzer",
+                        "url": "https://www.liveaction.com"
+                  },
+                  {
+                        "name": "CommView for Wi-Fi",
+                        "url": "https://www.tamos.com"
+                  },
+                  {
+                        "name": "Capsa Portable Network Analyzer",
+                        "url": "https://www.colasoft.com"
+                  },
+                  {
+                        "name": "PRTG Network Monitor",
+                        "url": "https://www.paessler.com"
+                  }
+               ],
+               "name": "Wi-Fi Traffic Analyzer Tools"
+            },
+            {
+               "children": [
+                  {
+                        "name": "Airbase-ng",
+                        "url": "https://aircrack-ng.org"
+                  },
+                  {
+                        "name": "inSSIDer",
+                        "url": "https://www.metageek.com"
+                  },
+                  {
+                        "name": "NetSpot",
+                        "url": "https://www.netspotapp.com"
+                  },
+                  {
+                        "name": "WiGLE WiFi Wardriving",
+                        "url": "https://play.google.com/store/apps/details?id=net.wigle.wigleandroid&hl=en&gl=US"
+                  },
+                  {
+                        "name": "iStumbler",
+                        "url": "https://istumbler.net"
+                  }
+               ],
+               "name": "WarDriving Tools"
+            },
+            {
+               "children": [
+                  {
+                        "name": "Sentry Edge II",
+                        "url": "https://www.tek.com"
+                  },
+                  {
+                        "name": "DTC-340 RFXpert",
+                        "url": "https://www.dektec.com"
+                  },
+                  {
+                        "name": "CPRIAdvisor",
+                        "url": "https://www.viavisolutions.com"
+                  },
+                  {
+                        "name": "SigX",
+                        "url": "http://www.kratoscomms.com"
+                  },
+                  {
+                        "name": "Monics® satID®",
+                        "url": "http://www.kratoscomms.com"
+                  }
+               ],
+               "name": "RF Monitoring Tools"
+            },
+            {
+               "children": [
+                  {
+                        "name": "WirelessNetView",
+                        "url": "https://www.nirsoft.net"
+                  },
+                  {
+                        "name": "PRTG Network Monitor",
+                        "url": "https://www.paessler.com"
+                  },
+                  {
+                        "name": "Tcpdump",
+                        "url": "https://www.tcpdump.org"
+                  },
+                  {
+                        "name": "RawCap",
+                        "url": "https://www.netresec.com"
+                  },
+                  {
+                        "name": "Airodump-ng",
+                        "url": "https://www.aircrack-ng.org"
+                  }
+               ],
+               "name": "Raw Packet Capturing Tools"
+            },
+            {
+               "children": [
+                  {
+                        "name": "Chanalyzer Essential",
+                        "url": "https://www.metageek.com"
+                  },
+                  {
+                        "name": "AirMagnet Spectrum XT",
+                        "url": "https://www.netally.com"
+                  },
+                  {
+                        "name": "Cisco Spectrum Expert Wi-Fi",
+                        "url": "https://www.cisco.com"
+                  },
+                  {
+                        "name": "RSA306B USB Spectrum Analyzer",
+                        "url": "https://www.tek.com"
+                  },
+                  {
+                        "name": "AirSleuth-Pro",
+                        "url": "http://nutsaboutnets.com"
+                  }
+               ],
+               "name": "Spectrum Analyzing Tools"
+            },
+            {
+               "children": [
+                  {
+                        "name": "#hciconfig",
+                        "url": "https://command-not-found.com/hciconfig"
+                  },
+                  {
+                        "name": "#sdptool",
+                        "url": ""
+                  },
+                  {
+                        "name": "#L2ping",
+                        "url": ""
+                  },
+                  {
+                        "name": "Btlejacking Using BtleJack (B)",
+                        "url": "https://github.com/virtualabs/btlejack"
+                  }
+               ],
+               "name": "Bluetooth Reconnaissance"
+            },
+            {
+               "children": [
+                  {
+                        "name": "BluetoothView",
+                        "url": "https://www.nirsoft.net "
+                  },
+                  {
+                        "name": "BTCrawler",
+                        "url": "http://petronius.sourceforge.net"
+                  },
+                  {
+                        "name": "BlueScan",
+                        "url": "http://bluescanner.sourceforge.net"
+                  },
+                  {
+                        "name": "Bluetooth Scanner – btCrawler",
+                        "url": "https://play.google.com/store/apps/details?id=com.silentservices.btCrawler&hl=en_IN&gl=US"
+                  },
+                  {
+                        "name": "Bluedevil (B)",
+                        "url": "https://github.com/KDE/bluedevil"
+                  }
+               ],
+               "name": "Bluetooth Hacking Tools"
+            },
+            {
+               "children": [
+                  {
+                        "name": "Cisco Adaptive Wireless IPS",
+                        "url": "https://www.cisco.com"
+                  },
+                  {
+                        "name": "AirMagnet WiFi Analyzer PRO",
+                        "url": "https://www.netally.com"
+                  },
+                  {
+                        "name": "RFProtect",
+                        "url": "https://www.arubanetworks.com"
+                  },
+                  {
+                        "name": "Fern Wifi Cracker (B)",
+                        "url": "https://github.com/savio-code/fern-wifi-cracker"
+                  },
+                  {
+                        "name": "OSWA-Assistant",
+                        "url": "http://securitystartshere.org"
+                  },
+                  {
+                        "name": "BoopSuite",
+                        "url": "https://github.com/MisterBianco/BoopSuite"
+                  }
+               ],
+               "name": "Wi-Fi Security Auditing Tools"
+            },
+            {
+               "children": [
+                  {
+                        "name": "WatchGuard WIPS",
+                        "url": "https://www.watchguard.com"
+                  },
+                  {
+                        "name": "Extreme AirDefense",
+                        "url": "https://www.extremenetworks.com"
+                  },
+                  {
+                        "name": "AirMagnet Enterprise",
+                        "url": "https://www.netscout.com"
+                  },
+                  {
+                        "name": "SonicWall SonicPoint N2",
+                        "url": "https://www.dell.com"
+                  },
+                  {
+                        "name": "SonicPoint Wireless Security Access Point Series",
+                        "url": "https://www.sonicwall.com"
+                  },
+                  {
+                        "name": "Network Box IDP",
+                        "url": "https://www.network-box.com"
+                  }
+               ],
+               "name": "Wi-Fi IPSs"
+            },
+            {
+               "children": [
+                  {
+                        "name": "AirMagnet Planner",
+                        "url": "https://www.netally.com"
+                  },
+                  {
+                        "name": "Cisco Prime Infrastructure",
+                        "url": "https://www.cisco.com"
+                  },
+                  {
+                        "name": "AirTight Planner",
+                        "url": "http://www.moupiri.co.nz"
+                  },
+                  {
+                        "name": "Ekahau Pro",
+                        "url": "https://www.ekahau.com"
+                  },
+                  {
+                        "name": "TamoGraph Site Survey",
+                        "url": "https://www.tamos.com"
+                  },
+                  {
+                        "name": "NetSpot",
+                        "url": "https://www.netspotapp.com"
+                  }
+               ],
+               "name": "Wi-Fi Predictive Planning Tools"
+            },
+            {
+               "children": [
+                  {
+                        "name": "Zenmap",
+                        "url": "https://nmap.org "
+                  },
+                  {
+                        "name": "Nessus Pro (A)",
+                        "url": "https://www.tenable.com"
+                  },
+                  {
+                        "name": "Network Security Toolkit",
+                        "url": "https://networksecuritytoolkit.org"
+                  },
+                  {
+                        "name": "Nexpose",
+                        "url": "https://www.rapid7.com"
+                  },
+                  {
+                        "name": "Penetrator Vulnerability Scanner",
+                        "url": "https://www.secpoint.com"
+                  },
+                  {
+                        "name": "SILICA",
+                        "url": "http://www.immunityinc.com"
+                  }
+               ],
+               "name": "Wi-Fi Vulnerability Scanning Tools"
+            },
+            {
+               "children": [
+                  {
+                        "name": "Bluetooth Firewal",
+                        "url": "http://www.fruitmobile.com"
+                  },
+                  {
+                        "name": "Bluelog",
+                        "url": "http://www.digifail.com"
+                  },
+                  {
+                        "name": "BlueMaho (B)",
+                        "url": "https://github.com/zenware/bluemaho"
+                  },
+                  {
+                        "name": "Btscanner",
+                        "url": "https://packages.debian.org"
+                  },
+                  {
+                        "name": "SecureTether",
+                        "url": "https://play.google.com/store/apps/details?id=com.panjava.internet.tethering.secure.bluetooth.securetether&hl=en_IN&gl=US"
+                  }
+               ],
+               "name": "Bluetooth Security Tools"
+            },
+            {
+               "children": [
+                  {
+                        "name": "Wifi Protector",
+                        "url": "https://www.wifiprotector.com"
+                  },
+                  {
+                        "name": "WiFiGuard",
+                        "url": "https://play.google.com/store/apps/details?id=com.wifiguardapp.wifiguard&hl=en_IN&gl=US"
+                  },
+                  {
+                        "name": "Wifi Inspector",
+                        "url": "https://play.google.com/store/apps/details?id=lksystems.wifiintruder&hl=en_IN&gl=US"
+                  },
+                  {
+                        "name": "ARP Guard",
+                        "url": "https://play.google.com/store/apps/details?id=com.myprog.arpguard&hl=en_IN&gl=US"
+                  },
+                  {
+                        "name": "Secure WiFi",
+                        "url": "https://play.google.com/store/apps/details?id=com.mobolize.sprint.securewifi&hl=en_IN&gl=US"
+                  },
+                  {
+                        "name": "Fing - Network Tools",
+                        "url": "https://play.google.com/store/apps/details?id=com.overlook.android.fing&hl=en_IN&gl=US"
+                  }
+               ],
+               "name": "Wi-Fi Security Tools for Mobile"
+            }
+         ],
+         "name": "Hacking Wireless Networks"
+      }
+   ],
+   "name": "Ethical Hacking"
+}
