@@ -5394,13 +5394,8 @@
       {
          "children": [
             {
-               "children": [
-                  {
-                        "name": "OWASP Top 10 Mobile Risks - 2016",
-                        "url": "https://owasp.org/www-project-mobile-top-10/"
-                  }
-               ],
-               "name": "Wi-Fi Security Tools for Mobile"
+               "name": "OWASP Top 10 Mobile Risks - 2016",
+               "url": "https://owasp.org/www-project-mobile-top-10/"
             },
             {
                "children": [
