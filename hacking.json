@@ -671,12 +671,10 @@
             {
                "children": [
                   {
-                     "name": "dig Command",
-                     "url": ""
+                     "name": "dig Command"
                   },
                   {
-                     "name": "nslookup Command ",
-                     "url": ""
+                     "name": "nslookup Command "
                   },
                   {
                      "name": "DNSRecon",
@@ -735,16 +733,13 @@
             {
                "children": [
                   {
-                     "name": "rusers",
-                     "url": ""
+                     "name": "rusers command"
                   },
                   {
-                     "name": "rwho",
-                     "url": ""
+                     "name": "rwho command"
                   },
                   {
-                     "name": " finger",
-                     "url": ""
+                     "name": " finger command"
                   },
                   {
                      "name": "Cheat Cheat",
@@ -1860,32 +1855,25 @@
             {
                "children": [
                   {
-                     "name": "DELmE’s Batch Virus Maker",
-                     "url": ""
+                     "name": "DELmE’s Batch Virus Maker (#)"
                   },
                   {
-                     "name": "JPS Virus Maker",
-                     "url": ""
+                     "name": "JPS Virus Maker (#)"
                   },
                   {
-                     "name": "Bhavesh Virus Maker SKW",
-                     "url": ""
+                     "name": "Bhavesh Virus Maker SKW (#)"
                   },
                   {
-                     "name": "Deadly Virus Maker ",
-                     "url": ""
+                     "name": "Deadly Virus Maker (#)"
                   },
                   {
-                     "name": "SonicBat Batch Virus Maker",
-                     "url": ""
+                     "name": "SonicBat Batch Virus Maker (#)"
                   },
                   {
-                     "name": "TeraBIT Virus Maker",
-                     "url": ""
+                     "name": "TeraBIT Virus Maker (#)"
                   },
                   {
-                     "name": "Andreinick05's Batch Virus Maker",
-                     "url": ""
+                     "name": "Andreinick05's Batch Virus Maker (#)"
                   }
                ],
                "name": "Creating a Virus"
@@ -1893,16 +1881,13 @@
             {
                "children": [
                   {
-                     "name": "Internet Worm Maker Thing",
-                     "url": ""
+                     "name": "Internet Worm Maker Thing (#)"
                   },
                   {
-                     "name": "Batch Worm Generator",
-                     "url": ""
+                     "name": "Batch Worm Generator (#)"
                   },
                   {
-                     "name": "C++ Worm Generator",
-                     "url": ""
+                     "name": "C++ Worm Generator (#)"
                   }
                
                ],
@@ -2186,8 +2171,7 @@
             {
                "children": [
                   {
-                     "name": "Netstat",
-                     "url": ""
+                     "name": "Netstat command"
                   },
                   {
                      "name": "TCPView",
@@ -3593,8 +3577,7 @@
                         "url": "https://pentest-tools.com"
                   },
                   {
-                        "name": "Robots.txt File",
-                        "url": ""
+                        "name": "Robots.txt File"
                   }
                ],
                "name": "Information Gathering"
@@ -3714,8 +3697,20 @@
             {
                "children": [
                   {
-                        "name": "",
-                        "url": ""
+                        "name": "dirb",
+                        "url": "https://www.kali.org/tools/dirb/"
+                  },
+                  {
+                        "name": "gobuster (B)",
+                        "url": "https://github.com/OJ/gobuster"
+                  },
+                  {
+                        "name": "wfuzz (B)",
+                        "url": "https://github.com/xmendez/wfuzz"
+                  },
+                  {
+                        "name": "dirsearch (B)",
+                        "url": "https://github.com/maurosoria/dirsearch"
                   }
                ],
                "name": "Directory Fuzzing of Web Server"
@@ -4138,8 +4133,7 @@
                   {
                      "children": [
                         {
-                           "name": "telnet",
-                           "url": ""
+                           "name": "telnet"
                         },
                         {
                            "name": "OpenSSL",
@@ -4213,12 +4207,10 @@
                   {
                      "children": [
                         {
-                              "name": "host command",
-                                    "url": ""
+                              "name": "host command"
                         },
                         {
-                              "name": "dig command",
-                              "url": ""
+                              "name": "dig command"
                         },
                         {
                               "name": "load balancing detector (B)",
@@ -5175,16 +5167,14 @@
             {
                "children": [
                   {
-                        "name": "#hciconfig",
+                        "name": "hciconfig command",
                         "url": "https://command-not-found.com/hciconfig"
                   },
                   {
-                        "name": "#sdptool",
-                        "url": ""
+                        "name": "sdptool command"
                   },
                   {
-                        "name": "#L2ping",
-                        "url": ""
+                        "name": "L2ping command"
                   },
                   {
                         "name": "Btlejacking Using BtleJack (B)",
@@ -5400,112 +5390,1784 @@
             {
                "children": [
                   {
-                        "name": "KingoRoot",
-                        "url": "https://www.kingoapp.com"
+                     "children": [
+                        {
+                           "name": "KingoRoot",
+                           "url": "https://www.kingoapp.com"
+                        },
+                        {
+                           "name": "TunesGo Root Android Tool",
+                           "url": "https://tunesgo.wondershare.com"
+                        },
+                        {
+                           "name": "One Click Root",
+                           "url": "https://www.oneclickroot.com"
+                        },
+                        {
+                           "name": "Root Genius",
+                           "url": "https://www.rootgenius.com"
+                        },
+                        {
+                           "name": "SuperSU Root",
+                           "url": "https://supersuroot.org"
+                        },
+                        {
+                           "name": "RootMaster",
+                           "url": "https://root-master.com"
+                         },
+                        {
+                           "name": "Towelroot",
+                           "url": "https://towelroot.co"
+                        },
+                        {
+                           "name": "Z4root",
+                           "url": "https://www.z4root.info"
+                        }
+                     ],
+                     "name": "Android Rooting Tools"
                   },
                   {
-                        "name": "TunesGo Root Android Tool",
-                        "url": "https://tunesgo.wondershare.com"
+                     "children": [
+                        {
+                           "name": "NetCut",
+                           "url": "https://arcai.com"
+                        },
+                        {
+                           "name": "drozer (B)",
+                           "url": "https://github.com/FSecureLABS/drozer"
+                        },
+                        {
+                           "name": "zANTI",
+                           "url": "https://www.zimperium.com"
+                        },
+                        {
+                           "name": "Network Spoofer",
+                           "url": "https://www.digitalsquid.co.uk"
+                        },
+                        {
+                           "name": "Low Orbit Ion Cannon (LOIC)",
+                           "url": "https://droidinformer.org"
+                        },
+                        {
+                           "name": "DroidSheep",
+                           "url": "https://droidsheep.info"
+                        },
+                        {
+                           "name": "Orbot Proxy",
+                           "url": "https://guardianproject.info"
+                        },
+                        {
+                           "name": "PhoneSploit",
+                           "url": "https://github.com/aerosol-can/PhoneSploit"
+                        },
+                        {
+                           "name": "PhoneSploit",
+                           "url": "https://github.com/aerosol-can/PhoneSploit"
+                        }
+                     ],
+                     "name": "Hacking Android Devices"
                   },
                   {
-                        "name": "One Click Root",
-                        "url": "https://www.oneclickroot.com"
+                     "children": [
+                        {
+                           "name": "FaceNiff",
+                           "url": "http://faceniff.ponury.net"
+                        },
+                        {
+                           "name": "Packet Capture",
+                           "url": "https://play.google.com/store/apps/details?id=app.greyshirts.sslcapture&hl=en_IN&gl=US"
+                        },
+                        {
+                           "name": "tPacketCapture",
+                           "url": "http://www.taosoftware.co.jp"
+                        },
+                        {
+                           "name": "Android PCAP",
+                           "url": "https://www.kismetwireless.net"
+                        },
+                        {
+                           "name": "Sniffer Wicap 2 Demo",
+                           "url": "https://play.google.com/store/apps/details?id=com.evbadroid.wicapdemo&hl=en_IN&gl=US"
+                        },
+                        {
+                           "name": "Testeldroid",
+                           "url": "https://play.google.com/store/apps/details?id=com.ad.testel&hl=en_IN&gl=US"
+                        }
+                     ],
+                     "name": "Android-based Sniffers"
                   },
                   {
-                        "name": "Root Genius",
-                        "url": "https://www.rootgenius.com"
+                     "children": [
+                        {
+                           "name": "cSploit",
+                           "url": "http://www.csploit.org"
+                        },
+                        {
+                           "name": "Fing - Network Tools",
+                           "url": "https://www.fing.com"
+                        },
+                        {
+                           "name": "Androrat (B)",
+                           "url": "https://github.com/karma9874/AndroRAT"
+                        },
+                        {
+                           "name": "Network Discovery (B)",
+                           "url": "https://github.com/rorist/android-network-discovery"
+                        },
+                        {
+                           "name": "NEXSPY",
+                           "url": "https://nexspy.com"
+                        },
+                        {
+                           "name": "IntentFuzzer (B)",
+                           "url": "https://github.com/MindMac/IntentFuzzer"
+                        }
+                     ],
+                  "name": "Android Hacking Tools"
                   },
                   {
-                        "name": "SuperSU Root",
-                        "url": "https://supersuroot.org"
+                     "children": [
+                        {
+                           "name": "Kaspersky Mobile Antivirus",
+                           "url": "https://my.kaspersky.com"
+                        },
+                        {
+                           "name": "Avira Antivirus Security",
+                           "url": "https://www.avira.com"
+                        },
+                        {
+                           "name": "Avast Antivirus",
+                           "url": "https://www.avast.com"
+                        },
+                        {
+                           "name": "McAfee Mobile Security",
+                           "url": "https://www.mcafeemobilesecurity.com"
+                        },
+                        {
+                           "name": "Lookout Security & Antivirus",
+                           "url": "https://my.lookout.com"
+                        },
+                        {
+                           "name": "Sophos Mobile Security",
+                           "url": "https://www.sophos.com"
+                        }
+                     ],
+                  "name": "Android Security Tools"
                   },
                   {
-                        "name": "RootMaster",
-                        "url": "https://root-master.com"
+                     "children": [
+                        {
+                           "name": "Google Find My Device",
+                           "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.adm&hl=en_IN&gl=US"
+                        },
+                        {
+                           "name": "Where’s My Droid",
+                           "url": "https://play.google.com/store/apps/details?id=com.alienmanfc6.wheresmyandroid&hl=en_IN&gl=US"
+                        },
+                        {
+                           "name": "Prey Anti-Theft: Find My Android and Mobile Security",
+                           "url": "https://preyproject.com"
+                        },
+                        {
+                           "name": "iHound",
+                           "url": "https://www.ihound.com.au"
+                        },
+                        {
+                           "name": "Mobile Tracker for Android",
+                           "url": "https://play.google.com/store/apps/details?id=com.nav.mobile.tracker&hl=en_IN&gl=US"
+                        },
+                        {
+                           "name": "Lost Android",
+                           "url": "https://www.androidlost.com"
+                        },
+                        {
+                           "name": "Phone Tracker By Number",
+                           "url": "https://play.google.com/store/apps/details?id=mg.locations.track5&hl=en_IN&gl=US"
+                        }
+                     ],
+                     "name": "Android Device Tracking Tools"
                   },
                   {
-                        "name": "Towelroot",
-                        "url": "https://towelroot.co"
+                     "children": [
+                        {
+                           "name": "X-Ray",
+                           "url": "https://duo.com"
+                        },
+                        {
+                           "name": "QUIXXI",
+                           "url": "https://vulnerabilitytest.quixxi.com/#/"
+                        },
+                        {
+                           "name": "Vulners Scanner",
+                           "url": "https://play.google.com/store/apps/details?id=com.vulners&hl=en_IN&gl=US"
+                        },
+                        {
+                           "name": "Shellshock Vulnerability Scan",
+                           "url": "https://play.google.com/store/apps/details?id=com.zimperium.zshellshock&hl=en_IN&gl=US"
+                        },
+                        {
+                           "name": "Yaazhini",
+                           "url": "https://www.vegabird.com"
+                        },
+                        {
+                           "name": "Quick Android Review Kit (QARK) (B)",
+                           "url": "https://github.com/linkedin/qark"
+                        },
+                        {
+                           "name": "Phone Tracker By Number",
+                           "url": "https://play.google.com/store/apps/details?id=mg.locations.track5&hl=en_IN&gl=US"
+                        }
+                     ],
+                     "name": "Android Vulnerability Scanners"
                   },
                   {
-                        "name": "Z4root",
-                        "url": "https://www.z4root.info"
+                     "children": [
+                        {
+                           "name": "Online APK Analyzer",
+                           "url": "https://www.sisik.eu"
+                        },
+                        {
+                           "name": "DeGuard",
+                           "url": "http://apk-deguard.com"
+                        },
+                        {
+                           "name": "SandDroid",
+                           "url": "http://sanddroid.xjtu.edu.cn"
+                        },
+                        {
+                           "name": "Apktool",
+                           "url": "http://www.javadecompilers.com"
+                        },
+                        {
+                           "name": "UnDroid",
+                           "url": "https://undroid.av-comparatives.org"
+                        },
+                        {
+                           "name": "Apprisk Scanner",
+                           "url": "https://apprisk.newskysecurity.com"
+                        }
+                     ],
+                  "name": "Online Android Analyzers"
                   }
                ],
-               "name": "Android Rooting Tools"
+               "name": "Android Devices"
             },
             {
                "children": [
                   {
-                        "name": "NetCut",
-                        "url": "https://arcai.com"
+                     "children": [
+                        {
+                           "name": "Cydia",
+                           "url": "https://www.cydiafree.com"
+                        },
+                        {
+                           "name": "Hexxa Plus",
+                           "url": "https://pangu8.com"
+                        },
+                        {
+                           "name": "Apricot",
+                           "url": "https://pangu8.com"
+                        },
+                        {
+                           "name": "Yuxigon",
+                           "url": "https://yuxigon.com"
+                        },
+                        {
+                           "name": "Sileo",
+                           "url": "https://cydia-app.com"
+                        },
+                        {
+                           "name": "Trimgo",
+                           "url": "https://pangu8.com"
+                        },
+                        {
+                           "name": "Bregxi",
+                           "url": "https://pangu8.com"
+                        },
+                        {
+                           "name": "Yalu",
+                           "url": "https://pangu8.com"
+                        }
+                     ],
+                  "name": "Jailbreaking iOS Tools"
                   },
                   {
-                        "name": "drozer (B)",
-                        "url": "https://github.com/FSecureLABS/drozer"
+                     "children": [
+                        {
+                           "name": "Spyzie",
+                           "url": "https://www.spyzie.com"
+                        },
+                        {
+                           "name": "Network Analyzer Pro",
+                           "url": "https://apps.apple.com/us/app/network-analyzer-pro/id557405467"
+                        },
+                        {
+                           "name": "Elcomsoft Phone Breaker",
+                           "url": "https://www.elcomsoft.com"
+                        },
+                        {
+                           "name": "Fing - Network Scanner",
+                           "url": "https://apps.apple.com/us/app/fing-network-scanner/id430921107"
+                        },
+                        {
+                           "name": "Network Analyzer Master Lite",
+                           "url": "https://apps.apple.com/us/app/network-analyzer-master/id1291830826"
+                        },
+                        {
+                           "name": "Spyic",
+                           "url": "https://spyic.com"
+                        },
+                        {
+                           "name": "iWepPRO",
+                           "url": "https://apps.apple.com/in/app/iweppro-lite/id717653241"
+                        },
+                        {
+                           "name": "Frida",
+                           "url": "https://www.frida.re"
+                        }
+                     ],
+                  "name": "iOS Hacking Tools"
                   },
                   {
-                        "name": "zANTI",
-                        "url": "https://www.zimperium.com"
+                     "children": [
+                        {
+                           "name": "Avira Mobile Security",
+                           "url": "https://www.avira.com"
+                        },
+                        {
+                           "name": "Norton Security for iOS",
+                           "url": "https://us.norton.com"
+                        },
+                        {
+                           "name": "LastPass Password Manager",
+                           "url": "https://www.lastpass.com"
+                        },
+                        {
+                           "name": "Lookout Personal for iOS",
+                           "url": "https://www.lookout.com"
+                        },
+                        {
+                           "name": "McAfee® Mobile Security",
+                           "url": "https://www.mcafee.com"
+                        },
+                        {
+                           "name": "Trend Micro Mobile Security",
+                           "url": "https://www.trendmicro.com"
+                        }
+                     ],
+                  "name": "iOS Device Security Tools"
                   },
                   {
-                        "name": "Network Spoofer",
-                        "url": "https://www.digitalsquid.co.uk"
-                  },
-                  {
-                        "name": "Low Orbit Ion Cannon (LOIC)",
-                        "url": "https://droidinformer.org"
-                  },
-                  {
-                        "name": "DroidSheep",
-                        "url": "https://droidsheep.info"
-                  },
-                  {
-                        "name": "Orbot Proxy",
-                        "url": "https://guardianproject.info"
-                  },
-                  {
-                        "name": "PhoneSploit",
-                        "url": "https://github.com/aerosol-can/PhoneSploit"
-                  },
-                  {
-                        "name": "PhoneSploit",
-                        "url": "https://github.com/aerosol-can/PhoneSploit"
+                     "children": [
+                        {
+                           "name": "Find My iPhone",
+                           "url": "https://support.apple.com/find-my"
+                        },
+                        {
+                           "name": "Phonty",
+                           "url": "https://phonty.com"
+                        },
+                        {
+                           "name": "SpyBubble",
+                           "url": "https://thespybubble.com"
+                        },
+                        {
+                           "name": "Prey Find my Phone Tracker GPS",
+                           "url": "https://apps.apple.com/us/app/prey-find-my-phone-tracker-gps/id456755037"
+                        },
+                        {
+                           "name": "iHound",
+                           "url": "http://ihoundgps.com"
+                        },
+                        {
+                           "name": "FollowMee GPS Location Tracker",
+                           "url": "https://apps.apple.com/us/app/followmee-gps-location-tracker/id640133448"
+                        }
+                     ],
+                  "name": "iOS Device Tracking Tools"
                   }
                ],
-               "name": "Hacking Android Devices"
+               "name": "iOS Devices"
             },
             {
                "children": [
                   {
-                        "name": "FaceNiff",
-                        "url": "http://faceniff.ponury.net"
+                     "name": "IBM MaaS360",
+                     "url": "https://www.ibm.com"
                   },
                   {
-                        "name": "Packet Capture",
-                        "url": "https://play.google.com/store/apps/details?id=app.greyshirts.sslcapture&hl=en_IN&gl=US"
+                     "name": "Citrix Endpoint Management",
+                     "url": "https://www.citrix.com"
                   },
                   {
-                        "name": "tPacketCapture",
-                        "url": "http://www.taosoftware.co.jp"
+                     "name": "VMware AirWatch",
+                     "url": "https://www.air-watch.com"
                   },
                   {
-                        "name": "Android PCAP",
-                        "url": "https://www.kismetwireless.net"
+                     "name": "Sicap Device Management Centre",
+                     "url": "https://www.sicap.com"
                   },
                   {
-                        "name": "Sniffer Wicap 2 Demo",
-                        "url": "https://play.google.com/store/apps/details?id=com.evbadroid.wicapdemo&hl=en_IN&gl=US"
+                     "name": "SOTI MobiControl",
+                     "url": "https://www.soti.net"
                   },
                   {
-                        "name": "Testeldroid",
-                        "url": "https://play.google.com/store/apps/details?id=com.ad.testel&hl=en_IN&gl=US"
+                     "name": "Scalefusion MDM",
+                     "url": "https://scalefusion.com"
+                  },
+                  {
+                     "name": "ManageEngine Mobile Device Manager Plus",
+                     "url": "https://www.manageengine.com"
                   }
                ],
-               "name": "Android-based Sniffers"
+               "name": "Mobile Device Management Solutions"
+            },
+            {
+               "children": [
+                  {
+                     "name": "z3A Advanced App Analysis",
+                     "url": "https://www.zimperium.com"
+                  },
+                  {
+                     "name": "Kiuwan",
+                     "url": "https://www.kiuwan.com"
+                  },
+                  {
+                     "name": "Appium",
+                     "url": "http://appium.io"
+                  },
+                  {
+                     "name": "Selendroid",
+                     "url": "http://selendroid.io"
+                  },
+                  {
+                     "name": "Bitbar",
+                     "url": "https://bitbar.com"
+                  },
+                  {
+                     "name": "Infer",
+                     "url": "https://fbinfer.com"
+                  }
+               ],
+               "name": "Source Code Analysis Tools"
+            },
+            {
+               "children": [
+                  {
+                     "name": "Apktool",
+                     "url": "http://www.javadecompilers.com"
+                  },
+                  {
+                     "name": "Frida",
+                     "url": "https://www.frida.re"
+                  },
+                  {
+                     "name": "JEB",
+                     "url": "https://www.pnfsoftware.com"
+                  },
+                  {
+                     "name": "APK Studio (B)",
+                     "url": "https://github.com/vaibhavpandeyvpz/apkstudio"
+                  },
+                  {
+                     "name": "objection (B)",
+                     "url": "https://github.com/sensepost/objection"
+                  },
+                  {
+                     "name": "Bytecode Viewer (B)",
+                     "url": "https://github.com/Konloch/bytecode-viewer"
+                  }
+               ],
+               "name": "Reverse Engineering Tools"
+            },
+            {
+               "children": [
+                  {
+                     "name": "Promon Shield",
+                     "url": "https://promon.co"
+                  }
+               ],
+               "name": "App Repackaging Detector"
+            },
+            {
+               "children": [
+                  {
+                     "name": "Lookout Personal",
+                     "url": "https://www.lookout.com"
+                  },
+                  {
+                     "name": "Zimperium’s zIPS",
+                     "url": "https://www.zimperium.com"
+                  },
+                  {
+                     "name": "BullGuard Mobile Security",
+                     "url": "https://www.bullguard.com"
+                  },
+                  {
+                     "name": "Norton Security for iOS",
+                     "url": "https://us.norton.com"
+                  },
+                  {
+                     "name": "Comodo Mobile Security",
+                     "url": "https://m.comodo.com"
+                  },
+                  {
+                     "name": "Bitdefender Mobile Security & Antivirus",
+                     "url": "https://www.bitdefender.com"
+                  },
+                  {
+                     "name": "ESET Mobile Security & Antivirus",
+                     "url": "https://www.eset.com"
+                  },
+                  {
+                     "name": "WISeID Personal Vault",
+                     "url": "https://www.wiseid.com"
+                  }
+               ],
+               "name": "Mobile Protection Tools"
+            },
+            {
+               "children": [
+                  {
+                     "name": "Malwarebytes for Android",
+                     "url": "https://www.malwarebytes.com"
+                  },
+                  {
+                     "name": "AntiSpy Mobile",
+                     "url": "https://antispymobile.com"
+                  },
+                  {
+                     "name": "Spyware Detector - Anti Spy Privacy Scanner",
+                     "url": "https://play.google.com/store/apps/details?id=com.arcane.incognito&hl=en_IN&gl=US"
+                  },
+                  {
+                     "name": "iAmNotified - Anti Spy System",
+                     "url": "https://iamnotified.com"
+                  },
+                  {
+                     "name": "Privacy Scanner (AntiSpy) Free",
+                     "url": "https://play.google.com/store/apps/details?id=net.hobbyapplications.privacyscanner&hl=en_IN&gl=US"
+                  },
+                  {
+                     "name": "Certo iPhone",
+                     "url": "https://www.certosoftware.com"
+                  }
+               ],
+               "name": "Mobile Anti-Spyware"
+            },
+            {
+               "children": [
+                  {
+                     "name": "ImmuniWeb® MobileSuite",
+                     "url": "https://www.immuniweb.com"
+                  }
+               ],
+               "name": "Mobile Pen Testing Toolkit"
             }
+
          ],
          "name": "Hacking Mobile Platforms"
+      },
+      {
+         "children": [
+            {
+               "children": [
+                  {
+                        "name": "OWASP Top 10 IoT Threats",
+                        "url": "https://www.owasp.org"
+                  },
+                  {
+                     "children": [
+                        {
+                              "name": "Shodan",
+                              "url": "https://www.shodan.io"
+                        },
+                        {
+                              "name": "MultiPing",
+                              "url": "https://www.multiping.com"
+                        },
+                        {
+                              "name": "FCC ID Search",
+                              "url": "https://www.fcc.gov/oet/ea/fccid"
+                        },
+                        {
+                              "name": "IoTSeeker (B)",
+                              "url": "https://github.com/rapid7/IoTSeeker"
+                        },
+                        {
+                              "name": "Censys",
+                              "url": "https://censys.io"
+                        },
+                        {
+                              "name": "Thingful",
+                              "url": "https://www.thingful.net"
+                        }
+                     ],
+                     "name": "Information Gathering"
+                  },
+                  {
+                     "children": [
+                        {
+                              "name": "NMAP",
+                              "url": "https://nmap.org/"
+                        },
+                        {
+                              "name": "RIoT Vulnerability Scanner",
+                              "url": "https://www.beyondtrust.com"
+                        },
+                        {
+                              "name": "beSTORM",
+                              "url": "https://www.beyondsecurity.com"
+                        },
+                        {
+                              "name": "Metasploit Pro",
+                              "url": "https://www.rapid7.com"
+                        },
+                        {
+                              "name": "IoTsploit ",
+                              "url": "https://iotsploit.co"
+                        },
+                        {
+                              "name": "IoTSeeker",
+                              "url": "https://information.rapid7.com"
+                        },
+                        {
+                              "name": "Bitdefender Home Scanner",
+                              "url": "https://www.bitdefender.com"
+                        },
+                        {
+                              "name": "IoT Inspector",
+                              "url": "https://www.iot-inspector.com"
+                        }
+                     ],
+                     "name": "Vulnerability Scanning"
+                  },
+                  {
+                     "children": [
+                        {
+                              "name": "Foren6",
+                              "url": "http://cetic.github.io/foren6/"
+                        },
+                        {
+                              "name": "Wireshark",
+                              "url": "https://www.wireshark.org"
+                        },
+                        {
+                              "name": "Suphacap",
+                              "url": "https://www.suphammer.net"
+                        },
+                        {
+                              "name": "CloudShark",
+                              "url": "https://cloudshark.io"
+                        },
+                        {
+                              "name": "Ubiqua Protocol Analyzer",
+                              "url": "https://www.ubilogix.com"
+                        },
+                        {
+                              "name": "Perytons Protocol Analyzers",
+                              "url": "http://www.perytons.com"
+                        },
+                        {
+                              "name": "tcpdump",
+                              "url": "https://www.tcpdump.org"
+                        },
+                        {
+                              "name": "Open Sniffer",
+                              "url": "https://www.sewio.net"
+                        }
+                     ],
+                     "name": "Sniffing"
+                  },
+                  {
+                     "children": [
+                        {
+                              "name": "Gqrx",
+                              "url": "http://www.gqrx.dk"
+                        },
+                        {
+                              "name": "IoT Inspector",
+                              "url": "https://www.iot-inspector.com"
+                        }
+                     ],
+                     "name": "Analyzing Spectrum and IoT Traffic"
+                  },
+                  {
+                     "children": [
+                        {
+                              "name": "RFCrack (B)",
+                              "url": "https://github.com/cclabsInc/RFCrack"
+                        },
+                        {
+                              "name": "Attify Zigbee Framework",
+                              "url": "https://www.attify.com"
+                        },
+                        {
+                              "name": "HackRF One",
+                              "url": "https://greatscottgadgets.com"
+                        },
+                        {
+                              "name": "RTL-SDR",
+                              "url": "https://www.rtl-sdr.com"
+                        },
+                        {
+                              "name": "GNU Radio",
+                              "url": "https://www.gnuradio.org"
+                        },
+                        {
+                              "name": "ChipWhisperer",
+                              "url": "https://newae.com"
+                        },
+                        {
+                              "name": "Universal Radio Hacker",
+                              "url": "https://github.com/jopohl/urh"
+                        },
+                        {
+                              "name": "BladeRF",
+                              "url": "https://www.nuand.com"
+                        },
+                        {
+                              "name": "Rfcat",
+                              "url": "https://code.google.com/archive/p/rfcat/"
+                        },
+                        {
+                              "name": "HackRF",
+                              "url": "https://greatscottgadgets.com"
+                        },
+                        {
+                              "name": "FunCube Dongle",
+                              "url": "http://www.funcubedongle.com"
+                        },
+                        {
+                              "name": "Gqrx",
+                              "url": "http://gqrx.dk"
+                        }
+                     ],
+                     "name": "IoT Attack Tools"
+                  },
+                  {
+                     "children": [
+                        {
+                              "name": "Telnet"
+                              
+                        },
+                        {
+                              "name": "Shodan",
+                              "url": "https://www.shodan.io/"
+                        },
+                        {
+                              "name": "Exploiting Firmware",
+                              "url": "code.google.com/p/firmware-mod-kit"
+                        }
+                     ],
+                     "name": "Gaining/Maintain Remote Access"
+                  },
+                  {
+                     "children": [
+                        {
+                              "name": "Firmalyzer Enterprise",
+                              "url": "https://firmalyzer.com"
+                        },
+                        {
+                              "name": "Firmwalker (B)",
+                              "url": "https://github.com/craigz28/firmwalker"
+                        },
+                        {
+                              "name": "rfcat-rolljam (B)",
+                              "url": "https://github.com/exploitagency/rfcat-rolljam"
+                        },
+                        {
+                              "name": "KillerBee (B)",
+                              "url": "https://github.com/riverloopsec/killerbee"
+                        },
+                        {
+                              "name": "GATTack.io",
+                              "url": "http://www.gattack.io"
+                        },
+                        {
+                              "name": "JTAGULATOR®",
+                              "url": "http://www.grandideastudio.com"
+                        }
+                     ],
+                     "name": "IoT Hacking Tools"
+                  },
+                  {
+                     "children": [
+                        {
+                              "name": "Azure IoT Central",
+                              "url": "https://azure.microsoft.com"
+                        },
+                        {
+                              "name": "Oracle IoT Asset Monitoring Cloud",
+                              "url": "https://www.oracle.com"
+                        },
+                        {
+                              "name": "Predix",
+                              "url": "https://www.ge.com"
+                        },
+                        {
+                              "name": "Cloud IoT Core",
+                              "url": "https://cloud.google.com"
+                        },
+                        {
+                              "name": "IBM Watson IoT Platform",
+                              "url": "https://www.ibm.com"
+                        },
+                        {
+                              "name": "AT&T IoT Platform",
+                              "url": "https://iotplatform.att.com"
+                        }
+                     ],
+                     "name": "IoT Device Management"
+                  },
+                  {
+                     "children": [
+                        {
+                              "name": "SeaCat.io",
+                              "url": "https://www.teskalabs.com"
+                        },
+                        {
+                              "name": "DigiCert IoT Security Solutions",
+                              "url": "https://www.digicert.com"
+                        },
+                        {
+                              "name": "FortiNAC",
+                              "url": "https://www.fortinet.com"
+                        },
+                        {
+                              "name": "Pulse: IoT Security Platform",
+                              "url": "https://www.pwnieexpress.com"
+                        },
+                        {
+                              "name": "Symantec IoT Security",
+                              "url": "https://www.symantec.com"
+                        },
+                        {
+                              "name": "darktrace",
+                              "url": "https://www.darktrace.com"
+                        },
+                        {
+                              "name": "Symantec Critical System Protection",
+                              "url": "https://www.symantec.com"
+                        },
+                        {
+                              "name": "Cisco IoT Threat Defense",
+                              "url": "https://www.cisco.com"
+                        },
+                        {
+                              "name": "AWS IoT Device Defender",
+                              "url": "https://aws.amazon.com"
+                        },
+                        {
+                              "name": "Bayshore Industrial Cyber Protection Platform",
+                              "url": "https://www.bayshorenetworks.com"
+                        },
+                        {
+                              "name": "Endpoint Protection Suite",
+                              "url": "https://www.securetrust.com"
+                        },
+                        {
+                              "name": "NSFOCUS ADS",
+                              "url": "https://nsfocusglobal.com"
+                        },
+                        {
+                              "name": "zvelo IoT Security Solution",
+                              "url": "https://zvelo.com"
+                        },
+                        {
+                              "name": "Barbara",
+                              "url": "https://barbaraiot.com"
+                        },
+                        {
+                              "name": "Sternum",
+                              "url": "https://www.sternumiot.com"
+                        },
+                        {
+                              "name": "Bullguard IoT Scanner",
+                              "url": "https://iotscanner.bullguard.com"
+                        }
+                     ],
+                     "name": "IoT Security Tools and Solutions"
+                  }
+               ],
+                  "name": "IoT"
+            },
+            {
+               "children": [
+                  {
+                     "children": [
+                        {
+                              "name": "Shodan",
+                              "url": "https://www.shodan.io/"
+                        },
+                        {
+                              "name": "CRITIFENCE",
+                              "url": "http://www.critifence.com"
+                        },
+                        {
+                              "name": "SCADA Shutdown Tool (B)",
+                              "url": "https://github.com/0xICF/SCADAShutdownTool"
+                        },
+                        {
+                              "name": "SearchDiggity",
+                              "url": "http://temp.bishopfox.com"
+                        },
+                        {
+                              "name": "Kamerka-GUI (B)",
+                              "url": "https://github.com/woj-ciech/Kamerka-GUI"
+                        },
+                        {
+                              "name": "Redpoint (B)",
+                              "url": "https://github.com/digitalbond/Redpoint"
+                        },
+                        {
+                              "name": "s7scan (B)",
+                              "url": "https://github.com/klsecservices/s7scan"
+                        },
+                        {
+                              "name": "SCADAPASS",
+                              "url": "http://www.scada.sl"
+                        },
+                        {
+                              "name": "plcscan",
+                              "url": "https://code.google.com/archive/p/plcscan/"
+                        }
+                     ],
+                     "name": "Information Gathering"
+                  },
+                  {
+                     "children": [
+                        {
+                              "name": "Nessus",
+                              "url": "https://www.tenable.com"
+                        },
+                        {
+                              "name": "Skybox Vulnerability Control",
+                              "url": "https://www.skyboxsecurity.com"
+                        },
+                        {
+                              "name": "CyberX",
+                              "url": "https://cyberx-labs.com"
+                        }
+                     ],
+                     "name": "Vulnerability Scanning"
+                  },
+                  {
+                     "children": [
+                        {
+                              "name": "NetworkMiner",
+                              "url": "https://www.netresec.com"
+                        },
+                        {
+                              "name": "Wireshark",
+                              "url": "https://www.wireshark.org"
+                        },
+                        {
+                              "name": "SmartRF Packet Sniffer",
+                              "url": "http://www.ti.com"
+                        }
+                     ],
+                     "name": "Sniffing and Analyzing"
+                  },
+                  {
+                     "children": [
+                        {
+                              "name": "GRASSMARLIN (B)",
+                              "url": "https://github.com/nsacyber/GRASSMARLIN"
+                        }
+                     ],
+                     "name": "Discovering ICS/SCADA"
+                  },
+                  {
+                     "children": [
+                        {
+                              "children": [
+                              {
+                                 "name": "Signal Analyzer"
+                              },
+                              {
+                                 "name": "Multimeter"
+                              },
+                              {
+                                 "name": "Microcontrollers and Memory Programmer"
+                              },
+                              {
+                                 "name": "Oscilloscope"
+                              },
+                              {
+                                 "name": "Soldering Equipment"
+                              },
+                              {
+                                 "name": "Digital Microscope or Magnifying Glass"
+                              },
+                              {
+                                 "name": "Communication Interface (such as JTAG)"
+                              },
+                              {
+                                 "name": "Screwdrivers and Precision Screwdrivers"
+                              },
+                              {
+                                 "name": "Precision Tweezers for Connection and Converters"
+                              }
+                           ],
+                        "name": "Hardware Tools"
+                        },
+                        {
+                              "children": [
+                              {
+                                 "name": "GDB",
+                                 "url": "https://www.gnu.org"
+                              },
+                              {
+                                 "name": "OpenOCD",
+                                 "url": "http://openocd.org"
+                              },
+                              {
+                                 "name": "Binwalk (B)",
+                                 "url": "https://github.com/ReFirmLabs/binwalk"
+                              },
+                              {
+                                 "name": "Fritzing",
+                                 "url": "https://fritzing.org"
+                              },
+                              {
+                                 "name": "Radare2",
+                                 "url": "https://github.com/radareorg/radare2"
+                              },
+                              {
+                                 "name": "OllyDbg",
+                                 "url": "http://www.ollydbg.de"
+                              },
+                              {
+                                 "name": "IDA Pro",
+                                 "url": "https://www.hex-rays.com"
+                              }
+                           ],
+                        "name": "Software Tools"
+                        }
+                     ],
+                     "name": "Hacking ICS"
+                  },
+                  {
+                     "children": [
+                        {
+                              "name": "Metasploit",
+                              "url": "https://www.metasploit.com/"
+                        }
+                     ],
+                     "name": "Hacking Modbus Slaves"
+                  },
+                  {
+                     "children": [
+                        {
+                              "name": "modbus-cli (B)",
+                              "url": "https://github.com/tallakt/modbus-cli"
+                        }
+                     ],
+                     "name": "Hacking PLC"
+                  },
+                  {
+                     "children": [
+                        {
+                              "name": "ICS Exploitation Framework (ISF) (B)",
+                              "url": "https://github.com/dark-lbp/isf"
+                        },
+                        {
+                              "name": "PLCinject (B)",
+                              "url": "https://github.com/SCADACS/PLCinject"
+                        },
+                        {
+                              "name": "MODBUS Penetration Testing Framework (B)",
+                              "url": "https://github.com/theralfbrown/smod-1"
+                        },
+                        {
+                              "name": "Moki Linux (B)",
+                              "url": "https://github.com/moki-ics/moki"
+                        },
+                        {
+                              "name": "sixnet-tools (B)",
+                              "url": "https://github.com/mssabr01/sixnet-tools"
+                        },
+                        {
+                              "name": "mbtget (B)",
+                              "url": "https://github.com/sourceperl/mbtget"
+                        }
+                     ],
+                     "name": "OT Hacking Tools"
+                  },
+                  {
+                     "children": [
+                        {
+                              "name": "Flowmon",
+                              "url": "https://www.flowmon.com"
+                        },
+                        {
+                              "name": "Indegy Industrial Cybersecurity Suite",
+                              "url": "https://www.indegy.com"
+                        },
+                        {
+                              "name": "Tenable Industrial Security",
+                              "url": "https://www.tenable.com"
+                        },
+                        {
+                              "name": "Singtel",
+                              "url": "https://www.singtel.com"
+                        },
+                        {
+                              "name": "Forescout",
+                              "url": "https://www.forescout.com"
+                        },
+                        {
+                              "name": "PA-220R",
+                              "url": "https://www.paloaltonetworks.com"
+                        }
+                     ],
+                     "name": "OT Security Tools"
+                  }
+               ],
+               "name": "OT"
+            }
+         ],
+         "name": "IoT and OT Hacking"
+      },
+      {
+         "children": [
+            {
+               "children": [
+                  {
+                     "name": "Amazon Web Service (AWS)",
+                     "url": "https://aws.amazon.com"
+                  },
+                  {
+                     "name": "Microsoft Azure",
+                     "url": "https://azure.microsoft.com"
+                  },
+                  {
+                     "name": "Google Cloud Platform (GCP)",
+                     "url": "https://aws.amazon.com"
+                  },
+                  {
+                     "name": "IBM Cloud",
+                     "url": "https://www.ibm.com"
+                  }
+               ],
+               "name": "Cloud Service Providers"
+            },
+            {
+               "children": [
+                  {
+                     "name": "Docker",
+                     "url": "https://www.docker.com"
+                  },
+                  {
+                     "name": "Amazon Elastic Container Service (ECS)",
+                     "url": "https://aws.amazon.com"
+                  },
+                  {
+                     "name": "Microsoft Azure Container Instances (ACI)",
+                     "url": "https://azure.microsoft.com"
+                  },
+                  {
+                     "name": "Red Hat OpenShift Container Platform",
+                     "url": "https://www.openshift.com"
+                  },
+                  {
+                     "name": "Portainer",
+                     "url": "https://www.portainer.io"
+                  },
+                  {
+                     "name": "Rancher",
+                     "url": "https://rancher.com"
+                  }
+               ],
+               "name": "Container Management Platforms"
+            },
+            {
+               "children": [
+                  {
+                     "name": "Kubernetes",
+                     "url": "https://kubernetes.io"
+                  },
+                  {
+                     "name": "Amazon Elastic Kubernetes Service (EKS)",
+                     "url": "https://aws.amazon.com"
+                  },
+                  {
+                     "name": "Docker Kubernetes Service (DKS)",
+                     "url": "https://www.docker.com"
+                  },
+                  {
+                     "name": "Knative",
+                     "url": "https://cloud.google.com"
+                  },
+                  {
+                     "name": "IBM Cloud Kubernetes Service",
+                     "url": "https://www.ibm.com"
+                  },
+                  {
+                     "name": "Google Kubernetes Engine (GKE)",
+                     "url": "https://cloud.google.com"
+                  }
+               ],
+               "name": "Kubernetes Platforms"
+            },
+            {
+               "children": [
+                  {
+                     "name": "Microsoft Azure Functions",
+                     "url": "https://azure.microsoft.com"
+                  },
+                  {
+                     "name": "AWS Lambda",
+                     "url": "https://aws.amazon.com"
+                  },
+                  {
+                     "name": "Google Cloud Functions",
+                     "url": "https://cloud.google.com"
+                  },
+                  {
+                     "name": "IBM Cloud Functions",
+                     "url": "https://www.ibm.com"
+                  },
+                  {
+                     "name": "AWS Fargate",
+                     "url": "https://aws.amazon.com"
+                  },
+                  {
+                     "name": "Alibaba Cloud Function Compute",
+                     "url": "https://www.alibabacloud.com"
+                  }
+               ],
+               "name": "Serverless Computing Frameworks"
+            },
+            {
+               "name":"OWASP Top 10 Cloud Security Risks",
+               "url":"https://www.owasp.org "
+            },
+            {
+               "name":"OWASP Top 10 Serverless Security Risks",
+               "url":"https://www.owasp.org "
+            },
+            {
+               "children": [
+                  {
+                     "name": "Trivy (B)",
+                     "url": "https://github.com/aquasecurity/trivy"
+                  }
+               ],
+               "name": "Container Vulnerability Scanning Tools"
+            },
+            {
+               "children": [
+                  {
+                     "name": "Sysdig",
+                     "url": "https://sysdig.com"
+                  }
+               ],
+               "name": "Kubernetes Vulnerability Scanning Tools"
+            },
+            {
+               "children": [
+                  {
+                     "name": "Robtex",
+                     "url": "https://www.robtex.com"
+                  },
+                  {
+                     "name": "S3Scanner (B)",
+                     "url": "https://github.com/sa7mon/S3Scanner"
+                  },
+                  {
+                     "name": "S3Inspector (B)",
+                     "url": "https://github.com/clario-tech/s3-inspector"
+                  }
+               ],
+               "name": "Enumeration Tools"
+            },
+            {
+               "children": [
+                  {
+                     "name": "Nimbostratus (B)",
+                     "url": "http://andresriancho.github.io/nimbostratus/"
+                  },
+                  {
+                     "name": "Cloud Container Attack Tool (CCAT) (B)",
+                     "url": "https://github.com/RhinoSecurityLabs/ccat"
+                  }
+               ],
+               "name": "Exploiting Amazon Cloud  & Docker Containers"
+            },
+            {
+               "children": [
+                  {
+                     "name": "DumpsterDiver (B)",
+                     "url": "https://github.com/securing/DumpsterDiver"
+                  }
+               ],
+               "name": "Cracking AWS Access Keys"
+            },
+            {
+               "children": [
+                  {
+                     "name":"AWS pwn (B)",
+                     "url":"https://github.com/dagrz/aws_pwn"
+                  }
+               ],
+               "name": "AWS Hacking Tool"
+            },
+            {
+               "children": [
+                  {
+                     "name":"AWS IAM Privilege Escalation Techniques",
+                     "url":"https://rhinosecuritylabs.com/aws/aws-privilege-escalation-methods-mitigation/"
+                  },
+                  {
+                     "name":"Escalating Privileges of Google Storage Buckets using GCPBucketBrute",
+                     "url":"https://rhinosecuritylabs.com/gcp/google-cloud-platform-gcp-bucket-enumeration/"
+                  }
+               ],
+               "name": "Escalating Privileges"
+            },
+            {
+               "children": [
+                  {
+                     "name":"Qualys Cloud Platform",
+                     "url":"https://www.qualys.com"
+                  },
+                  {
+                     "name":"CloudPassage Halo",
+                     "url":"https://www.cloudpassage.com"
+                  },
+                  {
+                     "name":"McAfee MVISION Cloud",
+                     "url":"https://www.skyhighnetworks.com"
+                  },
+                  {
+                     "name":"CipherCloud",
+                     "url":"https://www.ciphercloud.com"
+                  },
+                  {
+                     "name":"Netskope Security Cloud",
+                     "url":"https://www.netskope.com"
+                  },
+                  {
+                     "name":"Prisma Cloud",
+                     "url":"https://www.paloaltonetworks.com"
+                  },
+                  {
+                     "name":"ForgeRock Identity Cloud",
+                     "url":"https://www.forgerock.com"
+                  },
+                  {
+                     "name":"Deep Security",
+                     "url":"https://www.trendmicro.com"
+                  }
+               ],
+               "name": "Cloud Security Tools"
+            },
+            {
+               "children": [
+                  {
+                     "name":"Aqua",
+                     "url":"https://www.aquasec.com"
+                  },
+                  {
+                     "name":"Sysdig Falco",
+                     "url":"https://sysdig.com"
+                  },
+                  {
+                     "name":"Anchore",
+                     "url":"https://anchore.com"
+                  },
+                  {
+                     "name":"NeuVector",
+                     "url":"https://neuvector.com"
+                  },
+                  {
+                     "name":"Lacework",
+                     "url":"https://www.lacework.com"
+                  },
+                  {
+                     "name":"Tenable.io Container Security",
+                     "url":"https://www.tenable.com"
+                  }
+               ],
+               "name": "Container Security Tools"
+            },
+            {
+               "children": [
+                  {
+                     "name":"Kube-bench (B)",
+                     "url":"https://github.com/aquasecurity/kube-bench"
+                  },
+                  {
+                     "name":"Alcide Advisor",
+                     "url":"https://www.alcide.io"
+                  },
+                  {
+                     "name":"StackRox",
+                     "url":"https://www.stackrox.com"
+                  },
+                  {
+                     "name":"Aqua Kubernetes Security",
+                     "url":"https://www.aquasec.com"
+                  },
+                  {
+                     "name":"KubeXray (B)",
+                     "url":"https://github.com/jfrog/kubexray"
+                  },
+                  {
+                     "name":"Sumo Logic",
+                     "url":"https://www.sumologic.com"
+                  }
+               ],
+               "name": "Kubernetes Security Tools"
+            },
+            {
+               "children": [
+                  {
+                     "name":"Protego",
+                     "url":"https://www.protego.io"
+                  },
+                  {
+                     "name":"Synk",
+                     "url":"https://snyk.io"
+                  },
+                  {
+                     "name":"Twistlock Serverless Security",
+                     "url":"https://www.twistlock.com"
+                  },
+                  {
+                     "name":"Aqua",
+                     "url":"https://www.aquasec.com"
+                  },
+                  {
+                     "name":"Prisma Cloud",
+                     "url":"https://www.paloaltonetworks.com"
+                  },
+                  {
+                     "name":"Dashbird",
+                     "url":"https://dashbird.io"
+                  }
+               ],
+               "name": "Serverless Application Security Solutions"
+            },
+            {
+               "name":"CloudGoat: The ‘Vulnerable-by-Design’ AWS Environment",
+               "url":"https://rhinosecuritylabs.com/aws/cloudgoat-vulnerable-design-aws-environment/"
+            }
+         ],
+         "name": "Cloud Computing"
+      },
+      {
+         "children": [
+            {
+               "children": [
+                  {
+                     "name":"MD5 Calculator",
+                     "url":"http://www.bullzip.com"
+                  },
+                  {
+                     "name":"HashMyFiles",
+                     "url":"https://www.nirsoft.net"
+                  },
+                  {
+                     "name":"MD6 Hash Generator",
+                     "url":"https://www.browserling.com"
+                  },
+                  {
+                     "name":"All Hash Generator",
+                     "url":"https://www.browserling.com"
+                  },
+                  {
+                     "name":"md5 hash calculator",
+                     "url":"https://onlinehashtools.com"
+                  },
+                  {
+                     "name":"HashCalc",
+                     "url":"https://www.slavasoft.com"
+                  }
+               ],
+               "name": "MD5 and MD6 Hash Calculators"
+            },
+            {
+               "children": [
+                  {
+                     "name":"Hash Droid",
+                     "url":"https://play.google.com/store/apps/details?id=com.hobbyone.HashDroid&hl=en_IN&gl=US"
+                  },
+                  {
+                     "name":"Hash Checker",
+                     "url":"https://play.google.com/store/apps/details?id=com.smlnskgmail.jaman.hashchecker&hl=en_US&gl=US"
+                  },
+                  {
+                     "name":"Hash Calculator",
+                     "url":"https://play.google.com/store/apps/details?id=com.universapp.hashgenerator&hl=en_IN&gl=US"
+                  },
+                  {
+                     "name":"Hash Calc",
+                     "url":"https://play.google.com/store/apps/details?id=com.goyalsoftech.hashcalc&hl=en&gl=US"
+                  }
+               ],
+               "name": "Hash Calculators for Mobile"
+            },
+            {
+               "children": [
+                  {
+                     "name":"BCTextEncoder",
+                     "url":"https://www.jetico.com"
+                  },
+                  {
+                     "name":"AxCrypt",
+                     "url":"https://www.axcrypt.net"
+                  },
+                  {
+                     "name":"Microsoft Cryptography Tools",
+                     "url":"https://docs.microsoft.com/en-us/windows/win32/seccrypto/cryptography-tools"
+                  },
+                  {
+                     "name":"Concealer",
+                     "url":"https://www.belightsoft.com"
+                  },
+                  {
+                     "name":"SensiGuard",
+                     "url":"https://www.sensiguard.com"
+                  },
+                  {
+                     "name":"Challenger",
+                     "url":"https://www.encryption-software.de"
+                  }
+               ],
+               "name": "Cryptography Tools"
+            },
+            {
+               "children": [
+                  {
+                     "name":"Secret Space Encryptor",
+                     "url":"https://paranoiaworks.mobi"
+                  },
+                  {
+                     "name":"Secure Everything",
+                     "url":"https://play.google.com/store/apps/details?id=appsofsand.encryption&hl=en_IN&gl=US"
+                  },
+                  {
+                     "name":"Encrypt File Free",
+                     "url":"https://play.google.com/store/apps/details?id=com.acr.encryptfilefree&hl=en_IN&gl=US"
+                  },
+                  {
+                     "name":"EgoSecure Encryption Anywhere",
+                     "url":"https://play.google.com/store/apps/details?id=com.egosecure.uem.encryption&hl=en_IN&gl=US"
+                  },
+                  {
+                     "name":"Decrypto",
+                     "url":"https://play.google.com/store/apps/details?id=info.valky.decryptor&hl=en&gl=US"
+                  }
+               ],
+               "name": "Cryptography Tools for Mobile"
+            },
+            {
+               "children": [
+                  {
+                     "name":"Comodo",
+                     "url":"https://www.comodoca.com"
+                  },
+                  {
+                     "name":"IdenTrust ",
+                     "url":"https://www.identrust.com"
+                  },
+                  {
+                     "name":"Symantec",
+                     "url":"https://www.websecurity.symantec.com"
+                  },
+                  {
+                     "name":"GoDaddy",
+                     "url":"https://www.godaddy.com"
+                  }
+               ],
+               "name": "Certification Authorities"
+            },
+            {
+               "children": [
+                  {
+                     "name":"OpenSSL",
+                     "url":"https://www.openssl.org"
+                  },
+                  {
+                     "name":"Keyczar (B)",
+                     "url":"https://github.com/google/keyczar"
+                  },
+                  {
+                     "name":"wolfSSL",
+                     "url":"https://www.wolfssl.com"
+                  },
+                  {
+                     "name":"AES Crypto Toolkit",
+                     "url":"http://sine.ni.com"
+                  },
+                  {
+                     "name":"RELIC",
+                     "url":"https://code.google.com"
+                  },
+                  {
+                     "name":"PyCrypto",
+                     "url":"https://www.dlitz.net"
+                  }
+               ],
+               "name": "Cryptography Toolkits"
+            },
+            {
+               "children": [
+                  {
+                     "name":"RMail",
+                     "url":"https://www.rpost.com"
+                  },
+                  {
+                     "name":"Virtru",
+                     "url":"https://www.virtru.com"
+                  },
+                  {
+                     "name":"ZixMail",
+                     "url":"https://www.zixcorp.com"
+                  },
+                  {
+                     "name":"Egress Secure Email and File Transfer",
+                     "url":"https://www.egress.com"
+                  },
+                  {
+                     "name":"Proofpoint Email Protection",
+                     "url":"https://www.proofpoint.com"
+                  },
+                  {
+                     "name":"Paubox",
+                     "url":"https://www.paubox.com"
+                  }
+               ],
+               "name": "Email Encryption Tools"
+            },
+            {
+               "children": [
+                  {
+                     "name":"VeraCrypt",
+                     "url":"https://www.veracrypt.fr"
+                  },
+                  {
+                     "name":"Symantec Drive Encryption",
+                     "url":"https://www.symantec.com"
+                  },
+                  {
+                     "name":"BitLocker Drive Encryption",
+                     "url":"https://docs.microsoft.com/en-us/windows-hardware/manufacture/desktop/bitlocker-drive-encryption?view=windows-11"
+                  },
+                  {
+                     "name":"FinalCrypt",
+                     "url":"http://www.finalcrypt.org"
+                  },
+                  {
+                     "name":"Seqrite Encryption Manager",
+                     "url":"https://www.seqrite.com"
+                  },
+                  {
+                     "name":"FileVault",
+                     "url":"https://support.apple.com"
+                  },
+                  {
+                     "name":"Gillsoft Full Disk Encryption",
+                     "url":"http://www.gilisoft.com"
+                  },
+                  {
+                     "name":"Rohos Disk Encryption",
+                     "url":"http://www.rohos.com"
+                  }
+               ],
+               "name": "Disk Encryption Tools"
+            },
+            {
+               "children": [
+                  {
+                     "name":"CrypTool",
+                     "url":"https://www.cryptool.org"
+                  },
+                  {
+                     "name":"Cryptosense",
+                     "url":"https://cryptosense.com"
+                  },
+                  {
+                     "name":"RsaCtfTool",
+                     "url":"https://github.com/Ganapati/RsaCtfTool"
+                  },
+                  {
+                     "name":"Msieve",
+                     "url":"https://sourceforge.net"
+                  },
+                  {
+                     "name":"Cryptol",
+                     "url":"https://cryptol.net"
+                  },
+                  {
+                     "name":"CryptoBench",
+                     "url":"http://www.addario.org"
+                  }
+               ],
+               "name": "Cryptanalysis Tools"
+            },
+            {
+               "children": [
+                  {
+                     "name":"MD5 Decoder",
+                     "url":"https://www.dcode.fr"
+                  },
+                  {
+                     "name":"CrackStation",
+                     "url":"https://crackstation.net"
+                  },
+                  {
+                     "name":"Md5() Encrypt & Decrypt",
+                     "url":"https://md5decrypt.net"
+                  },
+                  {
+                     "name":"md5hashing",
+                     "url":"https://md5hashing.net"
+                  },
+                  {
+                     "name":"MD5 Decryption",
+                     "url":"https://www.md5online.org"
+                  },
+                  {
+                     "name":"MD5Decrypter",
+                     "url":"https://www.md5decrypter.com"
+                  },
+                  {
+                     "name":"OnlineHashCrack.com",
+                     "url":"https://www.onlinehashcrack.com"
+                  },
+                  {
+                     "name":"HashKiller.co.uk",
+                     "url":"https://hashkiller.co.uk"
+                  },
+                  {
+                     "name":"Md5.My-Addr.com",
+                     "url":"https://www.onlinehashcrack.com"
+                  },
+                  {
+                     "name":"cmd5.org",
+                     "url":"https://www.cmd5.org"
+                  },
+                  {
+                     "name":"md5this",
+                     "url":"http://www.md5this.com"
+                  },
+                  {
+                     "name":"Decode MD5 Hash",
+                     "url":"https://md5.web-max.ca"
+                  },
+                  {
+                     "name":"md5 decoder tool",
+                     "url":"http://md5.my-addr.com"
+                  }
+               ],
+               "name": "Online MD5 Decryption Tools"
+            }
+         ],
+         "name": "Cryptanalysis Tools"
       }
    ],
    "name": "Ethical Hacking"
