@@ -1,3 +1,7 @@
+*{
+	margin: 0px;
+	box-sizing: border-box;
+}
 body {
 	background-color: #fff;
 	font-size: 14px;
@@ -8,34 +12,29 @@ body {
 	margin: 0 auto;
 	position: relative
 }
-
+.top-section{
+	padding: 10px;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
 #header {
 	font-size: 40px;
 	font-weight: 700;
-	top: 20px;
 	text-align: center
 }
 
-.legend {
-	position: absolute;
-	top: 0;
-	right: 0;
-	width: 330px;
-	font-size: 11px;
-	color: #000
+.follow-section h3{
+ font-size: 16px;
+ font-weight: 700;
+ text-align: center
 }
-
-.legend2 {
-	position: absolute;
-	top: 0;
-	left: 5;
-	width: 330px;
-	font-size: 11px;
-	color: #000
+.list h3{
+	font-size: 12px;
+	font-weight: 700;
 }
-
 .node {
-	cursor: pointer
+	cursor: pointer;
 }
 
 .node circle {
@@ -54,4 +53,23 @@ path.link {
 	fill: none;
 	stroke: #ccc;
 	stroke-width: 1px
+}
+@media (max-width:768px){
+	.top-section{
+		display: flex;
+		flex-direction: column;
+		justify-content: space-between;
+	}
+	#header {
+		font-size: 24px;
+	}
+	.follow-section h3{
+		font-size: 12px;
+	}
+	.list h3{
+		text-align: center;
+	}
+	#body{
+		overflow-x: auto;
+	}
 }
