@@ -1,10 +1,12 @@
 # Ethical Hacking Toolkit
 <p align="center">
-![GitHub](https://img.shields.io/github/license/0xCyberY/ehtk?style=flat&logo=github)
-![CodeFactor](https://www.codefactor.io/repository/github/0xCyberY/ehtk/badge)
-![Lines of code](https://img.shields.io/tokei/lines/github/0xCyberY/ehtk?style=flat&logo=github)
-![GitHub repo size](https://img.shields.io/github/repo-size/0xCyberY/ehtk?style=flat&logo=github)
-![Repo Stars](https://img.shields.io/github/stars/0xCyberY/ehtk?style=social)
+<a href="#"><img title="Followers" src="https://img.shields.io/github/followers//0xCyberY?color=blue&style=flat-square"></a>
+<a href="#"><img title="Stars" src="https://img.shields.io/github/stars/0xCyberY/ehtk?color=red&style=flat-square"></a>
+<a href="#"><img title="Forks" src="https://img.shields.io/github/forks/0xCyberY/ehtk?color=red&style=flat-square"></a>
+<a href="#"><img title="Watching" src="https://img.shields.io/github/watchers/0xCyberY/ehtk?label=Watchers&color=blue&style=flat-square"></a>
+<a href="#"><img title="Licence" src="https://img.shields.io/badge/License-MIT-blue.svg"></a>
+<a href="#"><img title="Profile Views" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/0xCyberY/ehtk&title=Profile%20Views"></a>
+
 </p>
 
 Ethical Hacking Toolkit is a collection of tools, cheat sheets, and resources for Ethical hackers, Penetration Tester, and Security Researchers etc. (Still Under Development)
