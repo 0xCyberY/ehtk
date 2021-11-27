@@ -8,3 +8,18 @@
 6. [Penetration Testing Cheat Sheet](https://awesomeopensource.com/project/ivan-sincek/penetration-testing-cheat-sheet)
 7. [Windows Privilege Escalation Fundamentals](https://www.fuzzysecurity.com/tutorials/16.html)
 8. [Basic Linux Privilege Escalation](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/)
+9. [Active Directory Kill Chain Attack & Defense](https://github.com/infosecn1nja/AD-Attack-Defense#privilege-escalation)
+
+
+
+## DNS Enumeration
+
+### nslookup and dig Command
+
+|              nslookup                             |               dig                |
+| ------------------------------------------------- | -------------------------------- |
+| nslookup target.com                               | dig target.com +short            |
+| nslookup type= PTR target.com                     | dig target.com PTR               |
+| nslookup type= MX target.com                      | dig target.com MX                |
+| nslookup type= NS target.com                      | dig target.com NS                |
+| nslookup > server target.com > ls d target.com    | dig axfr @target.com target .com |

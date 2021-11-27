@@ -6,7 +6,7 @@
               "children": [
                   {
                      "name": "Search Operators",
-                     "url": "http://www.googleguide.com"
+                     "url": "http://www.googleguide.com/advanced_operators_reference.html"
                   },
                   {
                      "name": "Google Hacking Database",
@@ -36,6 +36,10 @@
                   {
                      "name": "Sublist3r",
                      "url": "https://github.com/aboul3la/Sublist3r"
+                  },
+                  {
+                     "name": "Turbolist3r",
+                     "url": "https://github.com/alex14324/Turbolist3r"
                   },
                   {
                      "name": "Pentest-Tools",
@@ -80,6 +84,10 @@
                   {
                      "name": "Opencorporates",
                      "url": "https://opencorporates.com/"
+                  },
+                  {
+                     "name": "subDomainsBrute (B)",
+                     "url": "https://github.com/lijiejie/subDomainsBrute"
                   }
               ],
                "name": "Web Services"
@@ -175,8 +183,15 @@
                   {
                      "name": "Track Visitors and monitor sales",
                      "url": "https://goingup.com"
+                  },
+                  {
+                     "name": "Cloudmare (B)",
+                     "url": "https://github.com/MrH0wl/Cloudmare"
+                  },
+                  {
+                     "name": "p0f",
+                     "url": "https://lcamtuf.coredump.cx/p0f3/"
                   }
-
               ],
                "name": "Website Footprinting"
             },
@@ -226,12 +241,32 @@
                      "url": "https://whois.domaintools.com/"
                   },
                   {
+                     "name": "who.is",
+                     "url": "https://who.is/"
+                  },
+                  {
                      "name": "tamos (A)",
                      "url": "https://www.tamos.com/"
                   },
                   {
                      "name": "IP2Location (A)",
                      "url": "https://www.ip2location.com/"
+                  },
+                  {
+                     "name": "gofindwhois",
+                     "url": "https://gofindwhois.com/"
+                  },
+                  {
+                     "name": "INTERNETWORKING",
+                     "url": "https://networking.ringofsaturn.com/Tools/whois.php"
+                  },
+                  {
+                     "name": "WHOIS Lookup",
+                     "url": "http://www.networksolutions.com/whois/index.jsp"
+                  },
+                  {
+                     "name": "Betterwhois",
+                     "url": "http://www.betterwhois.com"
                   }
               ],
                "name": "Whois Footprinting"
@@ -311,9 +346,126 @@
                   {
                      "name": "PENTMENU (B)",
                      "url": "https://github.com/GinjaChris/pentmenu"
+                  },
+                  {
+                     "name": "Fast Google Dorks Scan (B)",
+                     "url": "https://github.com/IvanGlinkin/Fast-Google-Dorks-Scan"
+                  },
+                  {
+                     "name": "0xdork(B)",
+                     "url": "https://github.com/rlyonheart/0xdork"
+                  },
+                  {
+                     "name": "HackerTarget ToolKit (B)",
+                     "url": "https://github.com/pyhackertarget/hackertarget"
+                  },
+                  {
+                     "name": "Open Corporates (B)",
+                     "url": "https://github.com/rlyonheart/occli"
+                  },
+                  {
+                     "name": "Drishti (B)",
+                     "url": "https://github.com/indiancyberops/Drishti"
+                  },
+                  {
+                     "name": "FINDMYASS TOOL (B)",
+                     "url": "https://github.com/h3x0crypt/HostSpider"
+                  },
+                  {
+                     "name": "trendsmap",
+                     "url": "https://www.trendsmap.com/map"
+                  },
+                  {
+                     "name": "UserFinder (B)",
+                     "url": "https://github.com/mishakorzik/UserFinder"
+                  },
+                  {
+                     "name": "Devils Eye (B)",
+                     "url": "https://github.com/rlyonheart/thedevilseye"
+                  },
+                  {
+                     "name": "CloudUnflare (B)",
+                     "url": "https://github.com/greycatz/CloudUnflare"
+                  },
+                  {
+                     "name": "Raymond Tool (B)",
+                     "url": "https://github.com/hamza07-w/raymond"
+                  },
+                  {
+                     "name": "vulnx (B)",
+                     "url": "https://github.com/anouarbensaad/vulnx"
+                  },
+                  {
+                     "name": "SPY (B)",
+                     "url": "https://github.com/CYB3R-G0D/SPY"
+                  },
+                  {
+                     "name": "Terra (B)",
+                     "url": "https://github.com/xadhrit/terra"
+                  },
+                  {
+                     "name": "Striker (B)",
+                     "url": "https://github.com/s0md3v/Striker"
+                  },
+                  {
+                     "name": "SiteBroker (B)",
+                     "url": "https://github.com/Anon-Exploiter/SiteBroker"
+                  },
+                  {
+                     "name": "TheScrapper (B)",
+                     "url": "https://github.com/champmq/TheScrapper"
+                  },
+                  {
+                     "name": "OSINT? WTF??",
+                     "url": "https://ohshint.gitbook.io/oh-shint-its-a-blog/osint/osint-wtf"
+                  },
+                  {
+                     "name": "Cyber detective OSINT tools collection",
+                     "url": "https://www.getrevue.co/profile/cyb_detective/issues/cyber-detective-osint-tools-collection-update-13-791431"
+                  },
+                  {
+                     "name": "Crunchbase",
+                     "url": "https://www.crunchbase.com/"
+                  },
+                  {
+                     "name": "inc.com",
+                     "url": "https://www.inc.com/"
+                  },
+                  {
+                     "name": "pipl.com",
+                     "url": "https://pipl.com/"
+                  },
+                  {
+                     "name": "pokeo.com",
+                     "url": "https://www.spokeo.com/"
+                  },
+                  {
+                     "name": "hostmap (B)",
+                     "url": "https://github.com/jekil/hostmap"
+                  },
+                  {
+                     "name": "Dmitry",
+                     "url": "https://www.kali.org/tools/dmitry/"
+                  },
+                  {
+                     "name": "p0f",
+                     "url": "https://lcamtuf.coredump.cx/p0f3/"
                   }
               ],
-               "name": "More Tools"
+               "name": "More OSINT Tools"
+            },
+            {
+              "children": [
+                  {
+                     "name": "FreeMind",
+                     "url": "http://freemind.sourceforge.net/wiki/index.php/Main_Page"
+                  },
+                  {
+                     "name": "Xmind",
+                     "url": "https://www.xmind.net/"
+                  }
+              ],
+               "name": "Mind map creator tools"
             }
          ],
          "name": "Footprinting and Reconnaissance"
@@ -671,10 +823,8 @@
             {
                "children": [
                   {
-                     "name": "dig Command"
-                  },
-                  {
-                     "name": "nslookup Command "
+                     "name": "nslookup and dig Command",
+                     "url": "https://github.com/0xCyberY/ehtk/blob/main/cheatsheets.md#dns-enumeration"
                   },
                   {
                      "name": "DNSRecon",
@@ -683,6 +833,46 @@
                   {
                      "name": "LDNS",
                      "url": "https://nlnetlabs.nl/projects/ldns/about/"
+                  },
+                  {
+                     "name": "Reverse DNS lookup",
+                     "url": "https://www.gettoolsdirect.com.au/nslook"
+                  },
+                  {
+                     "name": "MX Lookup",
+                     "url": "https://mxtoolbox.com/"
+                  },
+                  {
+                     "name": "Reverseip",
+                     "url": "https://reverseip.domaintools.com/"
+                  },
+                  {
+                     "name": "Robtex",
+                     "url": "https://www.robtex.com/"
+                  },
+                  {
+                     "name": "fierce tool",
+                     "url": "https://www.kali.org/tools/fierce/"
+                  },
+                  {
+                     "name": "dnsenum",
+                     "url": "https://www.kali.org/tools/dnsenum/"
+                  },
+                  {
+                     "name": "dnsrecon",
+                     "url": "https://www.kali.org/tools/dnsrecon/"
+                  },
+                  {
+                     "name": "DNSdumpster",
+                     "url": "https://dnsdumpster.com/"
+                  },
+                  {
+                     "name": "DNSEnum (B)",
+                     "url": "https://github.com/fwaeytens/dnsenum"
+                  },
+                  {
+                     "name": "Dnsmap (B)",
+                     "url": "https://github.com/makefu/dnsmap"
                   },
                   {
                      "name": "Cheat Cheat",
@@ -1019,6 +1209,10 @@
                   {
                      "name": "Medusa",
                      "url": "http://h.foofus.net/?page_id=51"
+                  },
+                  {
+                     "name": "CompressedCrack (B)",
+                     "url": "https://github.com/mnismt/CompressedCrack"
                   }
                ],
                "name": "Password-Cracking Tools"
@@ -1834,6 +2028,15 @@
                   }
                ],
                "name": "Track-Covering Tools"
+            },
+            {
+               "children": [
+                  {
+                     "name": "Active Directory Kill Chain Attack & Defenset",
+                     "url": "https://github.com/infosecn1nja/AD-Attack-Defense#privilege-escalation"
+                  }
+               ],
+               "name": "Active Directory"
             }
          ],
          "name": "System Hacking"
@@ -2021,6 +2224,10 @@
                   {
                      "name": "VirusTotal",
                      "url": "https://www.virustotal.com/gui/home/upload"
+                  },
+                  {
+                     "name": "Antiscan",
+                     "url": "https://antiscan.me/"
                   },
                   {
                      "name": "Hybrid Analysis",
@@ -2944,6 +3151,10 @@
                   {
                         "name": "PhishTank",
                         "url": " https://phishtank.com"
+                  },
+                  {
+                        "name": "Dnstwist (B)",
+                        "url": "https://github.com/elceef/dnstwist"
                   }
                ],
                "name": "Anti-Phishing Toolbar"
@@ -3557,6 +3768,10 @@
                         "url": "https://www.whois.net"
                   },
                   {
+                        "name": "who.is",
+                        "url": "https://who.is/"
+                  },
+                  {
                         "name": "Whois Lookup",
                         "url": "https://whois.domaintools.com"
                   },
@@ -3575,6 +3790,18 @@
                   {
                         "name": "Find Subdomains",
                         "url": "https://pentest-tools.com"
+                  },
+                  {
+                        "name": "SecretFinder (B)",
+                        "url": "https://github.com/m4ll0k/SecretFinder"
+                  },
+                  {
+                        "name": "favicon-service (B)",
+                        "url": "https://github.com/mat/besticon"
+                  },
+                  {
+                        "name": "The Favicon Finder",
+                        "url": "http://besticon.herokuapp.com/"
                   },
                   {
                         "name": "Robots.txt File"
@@ -3681,6 +3908,14 @@
                   {
                         "name": "routerpasswords",
                         "url": "https://www.routerpasswords.com"
+                  },
+                  {
+                        "name": "Passhunt (B)",
+                        "url": "https://github.com/Viralmaniar/Passhunt"
+                  },
+                  {
+                        "name": "many-passwords (B)",
+                        "url": "https://many-passwords.github.io/"
                   }
                ],
                "name": "Finding Default Credentials of Web Server"
@@ -4021,6 +4256,10 @@
                   {
                         "name": "WebSurgery",
                         "url": "http://sunrisetech.gr"
+                  },
+                  {
+                        "name": "lookyloo",
+                        "url": "https://lookyloo.circl.lu/"
                   }
                ],
                "name": "Web Server Pen Testing Tools"
@@ -6854,6 +7093,10 @@
             {
                "name":"CloudGoat: The ‘Vulnerable-by-Design’ AWS Environment",
                "url":"https://rhinosecuritylabs.com/aws/cloudgoat-vulnerable-design-aws-environment/"
+            },
+            {
+               "name":"CloudPentestCheatsheets",
+               "url":"https://github.com/dafthack/CloudPentestCheatsheets"
             }
          ],
          "name": "Cloud Computing"
@@ -7167,7 +7410,7 @@
                "name": "Online MD5 Decryption Tools"
             }
          ],
-         "name": "Cryptanalysis Tools"
+         "name": "Cryptography"
       }
    ],
    "name": "Ethical Hacking"
