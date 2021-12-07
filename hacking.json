@@ -489,6 +489,10 @@
                "url": "https://www.metasploit.com/"
             },
             {
+               "name": "Masscan (B)",
+               "url": "https://github.com/robertdavidgraham/masscan"
+            },
+            {
                "name": "NetScanTools Pro",
                "url": "https://www.netscantools.com/"
             },
@@ -507,6 +511,18 @@
             {
                "name": "OmniPeek Network Protocol Analyzer (A)",
                "url": "https://www.liveaction.com/"
+            },
+            {
+               "name": "Angry IP Scanner",
+               "url": "https://angryip.org/"
+            },
+            {
+               "name": "SuperScan",
+               "url": "https://www.mcafee.com/enterprise/en-us/downloads/free-tools.html"
+            },
+            {
+               "name": "Passive OS fingerprinting (p0f)",
+               "url": "https://lcamtuf.coredump.cx/p0f3/"
             },
             {
               "children": [
