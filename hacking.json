@@ -675,6 +675,54 @@
             {
                "children": [
                   {
+                     "name": "enum4linux",
+                     "url": "https://labs.portcullis.co.uk/tools/enum4linux/"
+                  },
+                  {
+                     "name": "enum4linux-ng",
+                     "url": "https://github.com/cddmp/enum4linux-ng"
+                  },
+                  {
+                     "name": "smbclient",
+                     "url": "https://www.samba.org/samba/docs/current/man-html/smbclient.1.html"
+                  },
+                  {
+                     "name": "smbmap",
+                     "url": "https://www.kali.org/tools/smbmap/"
+                  },
+                  {
+                     "name": "Nbtstat",
+                     "url": "https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-2000-server/cc940106(v=technet.10)?redirectedfrom=MSDN"
+                  },
+                  {
+                     "name": "Net services commands",
+                     "url": "https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-xp/bb490949(v=technet.10)?redirectedfrom=MSDN"
+                  },
+                  {
+                     "name": "Net view",
+                     "url": "https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-R2-and-2012/hh875576(v=ws.11)?redirectedfrom=MSDN"
+                  },
+                  {
+                     "name": "Net use",
+                     "url": "https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-xp/bb490717(v=technet.10)?redirectedfrom=MSDN"
+                  },
+                  {
+                     "name": "Winfigerprint",
+                     "url": "https://down10.software/download-winfingerprint-062zip/"
+                  },
+                  {
+                     "name": "Winfo",
+                     "url": "https://packetstormsecurity.com/files/download/16272/winfo.exe"
+                  },
+                  {
+                     "name": "DumpSec",
+                     "url": "https://www.systemtools.com/somarsoft/"
+                  },
+                  {
+                     "name": "sid2user",
+                     "url": "https://home.ubalt.edu/abento/453/enumeration/enumerationtools.html"
+                  },
+                  {
                      "name": "NetBIOS Enumerator",
                      "url": "http://nbtenum.sourceforge.net/"
                   },
@@ -717,6 +765,18 @@
             },
             {
                "children": [
+                  {
+                     "name": "Snmpwalk",
+                     "url": "http://www.net-snmp.org/docs/man/snmpwalk.html"
+                  },
+                  {
+                     "name": "Snmpset",
+                     "url": "http://www.net-snmp.org/docs/man/snmpset.html"
+                  },
+                  {
+                     "name": "Nmap NSE",
+                     "url": "https://medium.com/@minimalist.ascent/enumerating-snmp-servers-with-nmap-89aaf33bce28"
+                  },
                   {
                      "name": "Snmpcheck",
                      "url": "http://www.nothink.org/codes/snmpcheck/"
@@ -3061,6 +3121,30 @@
             {
                "name": "Wireshark",
                "url": "https://www.wireshark.org"
+            },
+            {
+               "name": "Tcpdump",
+               "url": "https://www.tcpdump.org/manpages/tcpdump.1.html"
+            },
+            {
+               "name": "WinDump",
+               "url": "https://www.winpcap.org/windump/"
+            },
+            {
+               "name": "dsniff",
+               "url": "https://www.monkey.org/~dugsong/dsniff/"
+            },
+            {
+               "name": "Responder (B)",
+               "url": "https://github.com/lgandx/Responder"
+            },
+            {
+               "name": "MultiRelay (B)",
+               "url": " https://github.com/lgandx/Responder/blob/master/tools/MultiRelay.py"
+            },
+            {
+               "name": "RunFinger (B)",
+               "url": "https://github.com/lgandx/Responder/blob/master/tools/RunFinger.py"
             },
             {
                "name": "SteelCentral Packet Analyze",
@@ -7427,6 +7511,23 @@
             }
          ],
          "name": "Cryptography"
+      },
+      {
+         "children": [
+            {
+               "name":"Dradis",
+               "url":"https://dradisframework.com/ce/"
+            },
+            {
+               "name":"Faraday",
+               "url":"https://github.com/infobyte/faraday"
+            },
+            {
+               "name":"Magitree",
+               "url":"https://www.gremwell.com/what_is_magictree"
+            }  
+         ],
+         "name": "Reporting"
       }
    ],
    "name": "Ethical Hacking"
