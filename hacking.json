@@ -3031,6 +3031,18 @@
                   {
                      "name": "Arpoison",
                      "url": "https://sourceforge.net"
+                  },
+                  {
+                     "name": "SSL strip (B)",
+                     "url": "https://github.com/moxie0/sslstrip"
+                  },
+                  {
+                     "name": "SSL strip+ (B)",
+                     "url": "https://github.com/singe/sslstrip2"
+                  },
+                  {
+                     "name": "ssltrip (B)",
+                     "url": "https://github.com/moxie0/sslstrip"
                   }
                ],
                "name": "ARP Poisoning Tools"
