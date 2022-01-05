@@ -3043,6 +3043,10 @@
                   {
                      "name": "ssltrip (B)",
                      "url": "https://github.com/moxie0/sslstrip"
+                  },
+                  {
+                     "name": "Macof",
+                     "url": "https://www.whitewinterwolf.com/tags/macofpy/"
                   }
                ],
                "name": "ARP Poisoning Tools"
