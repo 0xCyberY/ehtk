@@ -150,7 +150,15 @@
                   },
                   {
                      "name": "CeWL tool",
-                     "url": "https://github.com/digininja/CeWL"
+                     "url": "https://digi.ninja/projects/cewl.php"
+                  },
+                  {
+                     "name": "RSMangler",
+                     "url": "https://digi.ninja/projects/rsmangler.php"
+                  },
+                  {
+                     "name": "Mentalist",
+                     "url": "https://github.com/sc0tfree/mentalist"
                   },
                   {
                      "name": "Metagoofil",
@@ -1093,7 +1101,7 @@
             {
                
                "name": "GFI LanGuard",
-               "url": "https://www.gfi.com/"
+               "url": "https://www.gfi.com/products-and-solutions/network-security-solutions/gfi-languard"
             },
             {
                
@@ -1271,8 +1279,24 @@
                      "url": "http://project-rainbowcrack.com/"
                   },
                   {
+                     "name": "Rainbow tables 1",
+                     "url": "https://ophcrack.sourceforge.io/tables.php"
+                  },
+                  {
+                     "name": "Rainbow tables 2",
+                     "url": "http://project-rainbowcrack.com/"
+                  },
+                  {
                      "name": "John the Ripper",
                      "url": "https://www.openwall.com/john/"
+                  },
+                  {
+                     "name": "John The Ripper Hash Formats",
+                     "url": "https://pentestmonkey.net/cheat-sheet/john-the-ripper-hash-formats"
+                  },
+                  {
+                     "name": "rcracki_mt (B)",
+                     "url": "https://github.com/foreni-packages/rcracki_mt"
                   },
                   {
                      "name": "hashcat",
@@ -1283,12 +1307,24 @@
                      "url": "https://github.com/vanhauser-thc/thc-hydra"
                   },
                   {
-                     "name": "Medusa",
+                     "name": "Medusa (B)",
                      "url": "http://h.foofus.net/?page_id=51"
+                  },
+                  {
+                     "name": "Ncrack (B)",
+                     "url": "https://nmap.org/ncrack/"
+                  },
+                  {
+                     "name": "patator (B)",
+                     "url": "https://github.com/lanjelot/patator"
                   },
                   {
                      "name": "CompressedCrack (B)",
                      "url": "https://github.com/mnismt/CompressedCrack"
+                  },
+                  {
+                     "name": "Windows Credentials Editor (WCE)",
+                     "url": "https://www.ampliasecurity.com/research/windows-credentials-editor/"
                   }
                ],
                "name": "Password-Cracking Tools"
@@ -4676,6 +4712,10 @@
                         {
                            "name": "Uniscan",
                            "url": "https://sourceforge.net"
+                        },
+                        {
+                           "name": "EyeWitness (B)",
+                           "url": "https://github.com/FortyNorthSecurity/EyeWitness"
                         }
                      ],
                      "name": "Identify Web Application Vulnerabilities"
