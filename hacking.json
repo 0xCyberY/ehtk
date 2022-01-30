@@ -1457,6 +1457,14 @@
                   {
                      "name": "LOBAS",
                      "url": "https://lolbas-project.github.io/"
+                  },
+                  {
+                     "name": "SessionGopher (B)",
+                     "url": "https://github.com/Arvanaghi/SessionGopher"
+                  },
+                  {
+                     "name": "searching for credentials stored",
+                     "url": "http://www.nirsoft.net/"
                   }
                ],
                "name": "Privilege Escalation Tools"
@@ -1470,6 +1478,14 @@
                   {
                      "name": "Dylib Hijack Scanner",
                      "url": "https://objective-see.com/"
+                  },
+                  {
+                     "name": "Process Monitor",
+                     "url": "https://docs.microsoft.com/en-us/sysinternals/downloads/procmon"
+                  },
+                  {
+                     "name": "Process Explorer",
+                     "url": "https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer"
                   }
                ],
                "name": "DLL and Dylib Hijacking"
@@ -3836,6 +3852,15 @@
                   }
                ],
                "name": "SSH Tunneling Tools"
+            },
+            {
+               "children": [
+                  {
+                        "name": "iodine",
+                        "url": "https://code.kryo.se/iodine/"
+                  }
+               ],
+               "name": "DNS Tunneling Tools"
             },
             {
                "children": [
