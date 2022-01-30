@@ -35,12 +35,12 @@
 | nslookup > server target.com > ls d target.com    | dig axfr @target.com target .com |
 
 
-###  free DNS service
+## free DNS service
 - [freedns.afraid.org](https://freedns.afraid.org/)
 - [zoneedit.com](https://www.zoneedit.com/dynamic-dns/)
 - [xname.org](http://xname.org/)
 
-### Check your puplic IP
+## Check your puplic IP
 - [whatsmyip](https://www.whatsmyip.org/)
 - [checkip](http://www.checkip.org/)
 - [whatismyipaddress](https://whatismyipaddress.com/)
