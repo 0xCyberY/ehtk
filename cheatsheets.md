@@ -11,6 +11,29 @@
 9. [Active Directory Kill Chain Attack & Defense](https://github.com/infosecn1nja/AD-Attack-Defense#privilege-escalation)
 10. [Windows & Active Directory Exploitation Cheat Sheet and Command Reference](https://casvancooten.com/posts/2020/11/windows-active-directory-exploitation-cheat-sheet-and-command-reference/)
 
+## PowerShell models Exploitation
+1. [Invoke-Obfuscation](https://github.com/danielbohannon/Invoke-Obfuscation)
+2. [PowerSploit](https://github.com/PowerShellMafia/PowerSploit)
+3. [Get-HttpStatus](https://powersploit.readthedocs.io/en/latest/Recon/Get-HttpStatus/)
+4. [Posh-SecMod](https://github.com/darkoperator/Posh-SecMod)
+5. [Nishang](https://github.com/samratashok/nishang)
+
+## Linux Privilege Escalation
+1. [LinuxPrivChecker](https://github.com/sleventyeleven/linuxprivchecker)
+2. [Unix privesc check](https://pentestmonkey.net/tools/audit/unix-privesc-check)
+3. [mimipenguin](https://github.com/huntergregal/mimipenguin)
+
+## [Local UNIX PrivEsc Aggregation FuzzySecurity](https://github.com/FuzzySecurity/Unix-PrivEsc)
+
+## Reverse Shell
+1. [pentestmonkey](https://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet)
+2. [highon.coffee](https://highon.coffee/blog/reverse-shell-cheat-sheet/)
+
+## Kernel Exploit
+1. [kernelpop](https://github.com/spencerdodd/kernelpop)
+2. [linux-kernel-exploits](https://github.com/SecWiki/linux-kernel-exploits)
+3. [kernel-exploits](https://github.com/lucyoa/kernel-exploits)
+
 
 ## Post Exploitation
 1. [Windows Post-Exploitation Command List](https://docs.google.com/document/d/1U10isynOpQtrIK6ChuReu-K1WHTJm4fgG3joiuz43rw/edit?hl=en_US)
@@ -59,3 +82,10 @@
 3. [pentest-tools.com](https://pentest-tools.com/)
 4. [do-know.com](https://do-know.com/privacy-test.html)
 5. [all-nettools](http://www.all-nettools.com/)
+
+
+## Exploit Apache Tomcat 
+1. [Laudanum](https://sourceforge.net/projects/laudanum/)
+
+## MimiPenguin works similarly to the well known “mimikatz"
+1. [MimiPenguin](https://github.com/huntergregal/mimipenguin)
